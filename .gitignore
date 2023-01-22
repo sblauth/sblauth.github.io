@@ -1,0 +1,29 @@
+### python
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov
+*.orig
+
+### paraview
+*.pvd
+*.vtu
+*.pvtu
+
+**/xdmf/
+
+/dist
+
+### sphinx
+/build
+
+### cashocs
+*._cashocs_remesh_*
+/tests/temp
+/tests/out
+*cashocs_remesh_*/
+
+### Documentation
+docs/source/user/demos/*/*.md
