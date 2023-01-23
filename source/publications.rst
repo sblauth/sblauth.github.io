@@ -73,10 +73,10 @@ Academic Theses
 ---------------
 
 #. | **Adjoint-Based Shape Optimization and Optimal Control with Applications to Microchannel Systems**
-   | PhD Thesis, 2021 (`urn:nbn:de:0011-n-6402095 <http://publica.fraunhofer.de/urns/urn:nbn:de:0011-n-6402095.html>`_)
+   | `Fraunhofer Verlag <https://doi.org/10.24406/publica-fhg-283725>`_, 2021, PhD Thesis 
 
 #. | **Optimal Control and Asymptotic Analysis of the Cattaneo Model**
-   | Master's Thesis, 2018 (`urn:nbn:de:hbz:386-kluedo-53727 <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-53727>`_)
+   | `KLUEDO <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-53727>`_, 2018, Master's Thesis ()
 
 
 Others
