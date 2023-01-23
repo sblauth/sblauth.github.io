@@ -1,6 +1,9 @@
 Publications
 ============
 
+You can also find my publactions via my ORCiD `0000-0001-9173-0866 <https://orcid.org/0000-0001-9173-0866>`_.
+
+
 Submitted Articles / Preprints
 ------------------------------
 
@@ -12,8 +15,8 @@ Submitted Articles / Preprints
 
 
 
-Published Articles (refereed)
------------------------------
+Articles in Peer-Reviewed Journals
+----------------------------------
 
 #. | **Validating a simulation model for laser-induced thermotherapy using MR thermometry**
    | *with Frank Hübner, Christian Leithäuser, Roland Schreiner, Norbert Siedow, and Thomas Vogl*
@@ -46,6 +49,26 @@ Published Articles (refereed)
    | `Journal of Mathematics in Industry, Volume 10 <https://doi.org/10.1186/s13362-020-00082-4>`__, 2020 (`preprint <https://arxiv.org/abs/1910.12515>`__)
 
 
+Book Chapters
+-------------
+
+#. | **Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors**
+   | *with Frank Hübner, Christian Leithäuser, Norbert Siedow, and Thomas Vogl*
+   | `Modeling, Simulation and Optimization in the Health- and Energy-Sector <https://doi.org/10.1007/978-3-030-99983-4_1>`_, 2022
+
+
+Conference Proceedings
+----------------------
+
+#. | **Optimal Control and Asymptotic Analysis of the Cattaneo Equation**
+   | *with Matthias Andres, René Pinnau, and Claudia Totzeck*
+   | `Proceedings in Applied Mathematics and Mechanics, Volume 19 <https://doi.org/10.1002/pamm.201900184>`_, 2019
+
+#. | **A Numerical Comparison of Consensus-Based Global Optimization to other Particle-based Global Optimization Schemes**
+   | *with Claudia Totzeck, René Pinnau, and Steffen Schotthöfer*
+   | `Proceedings in Applied Mathematics and Mechanics, Volume 18 <https://doi.org/10.1002/pamm.201800291>`_, 2018
+
+
 Academic Theses
 ---------------
 
@@ -56,21 +79,9 @@ Academic Theses
    | Master's Thesis, 2018 (`urn:nbn:de:hbz:386-kluedo-53727 <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-53727>`_)
 
 
-Conference Proceedings, Book Chapters, and Others
--------------------------------------------------
-
-#. | **Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors**
-   | *with Frank Hübner, Christian Leithäuser, Norbert Siedow, and Thomas Vogl*
-   | `Modeling, Simulation and Optimization in the Health- and Energy-Sector <https://doi.org/10.1007/978-3-030-99983-4_1>`_, 2022
+Others
+------
 
 #. | **MINT-EC-Girls-Camp: Math-Talent-School**
    | *with Lena Leiß, Stefan Ruzika, Thomas Jung, Andrea Meier, and Robert Sicks*
    | `KOMMS Reports (Reports zur Mathematischen Modellierung in MINT-Projekten in der Schule), Volume 9 <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-57924>`_, 2019
-
-#. | **Optimal Control and Asymptotic Analysis of the Cattaneo Equation**
-   | *with Matthias Andres, René Pinnau, and Claudia Totzeck*
-   | `Proceedings in Applied Mathematics and Mechanics, Volume 19 <https://doi.org/10.1002/pamm.201900184>`_, 2019
-
-#. | **A Numerical Comparison of Consensus-Based Global Optimization to other Particle-based Global Optimization Schemes**
-   | *with Claudia Totzeck, René Pinnau, and Steffen Schotthöfer*
-   | `Proceedings in Applied Mathematics and Mechanics, Volume 18 <https://doi.org/10.1002/pamm.201800291>`_, 2018
