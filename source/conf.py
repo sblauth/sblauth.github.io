@@ -49,7 +49,10 @@ html_theme_options = {
     "show_prev_next": False,
 }
 
-html_sidebars = {"**": ["search-field.html", "sidebar-nav-bs", "sidebar-ethical-ads"]}
+html_sidebars = {
+  "**": []
+}
+
 pygments_style = "sphinx"
 
 html_static_path = ['_static']
