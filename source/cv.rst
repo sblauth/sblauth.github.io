@@ -6,6 +6,7 @@ Academic Career
 
 .. list-table::
     :header-rows: 0
+    :align: left
 
     * - 03/2021
       - Dr. rer. nat., TU Kaiserslautern and Fraunhofer ITWM
@@ -29,6 +30,7 @@ Professional Career
 
 .. list-table::
     :header-rows: 0
+    :align: left
 
     * - since 05/2021
       - Scientific employee, Fraunhofer ITWM
