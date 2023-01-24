@@ -74,6 +74,12 @@ html_theme_options = {
             "icon": "fa-brands fa-google",
             "type": "fontawesome",
         },
+        {
+            "name": "ResearchGate",
+            "url": "https://www.researchgate.net/profile/Sebastian-Blauth",
+            "icon": "fa-brands fa-researchgate",
+            "type": "fontawesome",
+        },
     ]
 }
 
