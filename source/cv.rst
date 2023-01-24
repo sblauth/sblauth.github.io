@@ -30,6 +30,7 @@ Professional Career
 -------------------
 
 .. list-table::
+    :width: 100 %
     :header-rows: 0
     :align: left
 
