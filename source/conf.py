@@ -62,6 +62,18 @@ html_theme_options = {
             "icon": "fa-brands fa-orcid",
             "type": "fontawesome",
         },
+        {
+            "name": "email",
+            "url": "mailto:sebastian.blauth@itwm.fraunhofer.de",
+            "icon": "fa-regular fa-envelope",
+            "type": "fontawesome",
+        },
+        {
+            "name": "Google Scholar",
+            "url": "https://scholar.google.com/citations?user=M-SEAnwAAAAJ&hl=en&oi=ao",
+            "icon": "fa-brands fa-google",
+            "type": "fontawesome",
+        },
     ]
 }
 
