@@ -36,22 +36,36 @@ html_theme = "pydata_sphinx_theme"
 
 html_title = "Sebastian Blauth"
 
+
 html_theme_options = {
-    "github_url": "https://github.com/sblauth/sblauth.github.io",
     "header_links_before_dropdown": 5,
+    "navbar_start": ["navbar-logo"],
+    "navbar_center": ["navbar-nav"],
     "navbar_end": ["theme-switcher", "navbar-icon-links"],
     "navbar_persistent": [],
+    "navbar_align": "content",
     "show_nav_level": 2,
-    "primary_sidebar_end": [
-        "sidebar-ethical-ads",
-    ],
     "logo": {"text": "Home"},
     "show_prev_next": False,
+    "secondary_sidebar_items": [],
+    "footer_items": ["copyright"],
+    "icon_links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/sblauth",
+            "icon": "fa-brands fa-square-github",
+            "type": "fontawesome",
+        },
+        {
+            "name": "ORCiD",
+            "url": "https://orcid.org/0000-0001-9173-0866",
+            "icon": "fa-brands fa-orcid",
+            "type": "fontawesome",
+        },
+    ]
 }
 
-
-
-html_sidebars = {"**": ["search-field.html", "sidebar-nav-bs", "sidebar-ethical-ads"]}
+html_sidebars = {"**": []}
 
 
 pygments_style = "sphinx"

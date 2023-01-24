@@ -12,6 +12,8 @@ Welcome!
 
    CV <cv>
    Publications <publications>
+   Research Interests <research_interests>
+   Conferences & Workshops <conferences>
 
 
 
@@ -29,9 +31,3 @@ Before becoming a scientific employee at Fraunhofer ITWM, I was a PhD student at
 
 I am the main developer of the software package `cashocs <https://cashocs.readthedocs.io/en/latest/>`_, which is an open source software for solving (arbitrary) shape optimization and optimal control problems in python, based on the finite element framework `FEniCS <https://fenicsproject.org/>`_. 
 
-**Research Interests**
-
-* Shape Optimization
-* Topology Optimization
-* Efficient Solution Algorithms for PDE Constrained Shape Optimization
-* Large-Scale Optimization
