@@ -89,3 +89,4 @@ html_sidebars = {"**": []}
 pygments_style = "sphinx"
 
 html_static_path = ['_static']
+html_css_files = ["custom.css"]
