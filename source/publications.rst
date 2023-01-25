@@ -1,7 +1,6 @@
 Publications
 ============
 
-You can also find my publactions via my ORCiD `0000-0001-9173-0866 <https://orcid.org/0000-0001-9173-0866>`_.
 
 
 Submitted Articles / Preprints

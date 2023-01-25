@@ -14,6 +14,7 @@ Welcome!
    Publications <publications>
    Research Interests <research_interests>
    Conferences & Workshops <conferences>
+   Contact <contact>
 
 
 
