@@ -22,7 +22,7 @@ Academic Career
     * - 04/2014 - 02/2017
       - Bachelor studies, TU Kaiserslautern
     * - 03/2014
-      - Abitur (Paul-Schneider Gymnasium Meisenheim)
+      - A levels, Paul-Schneider Gymnasium Meisenheim
 
 
 
