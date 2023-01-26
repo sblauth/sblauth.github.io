@@ -2,16 +2,58 @@ Publications
 ============
 
 
-
 Submitted Articles / Preprints
 ------------------------------
 
 #. | **Space Mapping for PDE Constrained Shape Optimization**
-   | 2022 (`preprint <https://arxiv.org/abs/2208.05747>`__), submitted
+   | submitted, 2022
+   | :bdg-link-secondary:`preprint: arXiv:2208.05747 <https://arxiv.org/abs/2208.05747>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/space_mapping_shape_optimization>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      The space mapping technique is used to efficiently solve complex optimization problems. It combines the accuracy of fine model simulations with the speed of coarse model optimizations to approximate the solution of the fine model optimization problem. In this paper, we propose novel space mapping methods for solving shape optimization problems constrained by partial differential equations (PDEs). We present the methods in a Riemannian setting based on Steklov-Poincaré-type metrics and discuss their numerical discretization and implementation. We investigate the numerical performance of the space mapping methods on several model problems. Our numerical results highlight the methods' great efficiency for solving complex shape optimization problems. 
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+	   @Misc{Blauth2022Space,
+	     author        = {Blauth, Sebastian},
+	     title         = {{Space Mapping for PDE Constrained Shape Optimization}},
+	     year          = {2022},
+	     archiveprefix = {arXiv},
+	     eprint        = {2208.05747},
+	     doi           = {10.48550/ARXIV.2208.05747},
+	     publisher     = {arXiv},
+	   }
+
 
 #. | **Shape Optimization with Nonlinear Conjugate Gradient Methods**
-   | 2022 (`preprint <https://arxiv.org/abs/2201.05394>`__), to appear in `Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1 <https://link.springer.com/book/9783031204319>`_
+   | to appear in Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1, 2022
+   | :bdg-link-secondary:`preprint: arXiv:2201.05394 <https://arxiv.org/abs/2201.05394>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/nonlinear_shape_cg_benchmark>`
 
+   .. dropdown:: Abstract
+      :icon: book
+
+      In this chapter, we investigate recently proposed nonlinear conjugate gradient (NCG) methods for shape optimization problems. We briefly introduce the methods as well as the corresponding theoretical background and investigate their performance numerically. The obtained results confirm that the NCG methods are efficient and attractive solution algorithms for shape optimization problems. 
+
+   .. dropdown:: BibTeX source
+      :icon: code
+
+      .. code-block:: bibtex
+
+
+		@Misc{Blauth2022Shape,
+		  author        = {Blauth, Sebastian},
+		  title         = {Shape Optimization with Nonlinear Conjugate Gradient Methods},
+		  year          = {2022},
+		  archiveprefix = {arXiv},
+		  eprint        = {2201.05394},
+		  doi           = {10.48550/ARXIV.2201.05394},
+		  publisher     = {arXiv},
+		}
 
 
 Articles in Peer-Reviewed Journals
@@ -19,33 +61,238 @@ Articles in Peer-Reviewed Journals
 
 #. | **Validating a simulation model for laser-induced thermotherapy using MR thermometry**
    | *with Frank Hübner, Christian Leithäuser, Roland Schreiner, Norbert Siedow, and Thomas Vogl*
-   | `International Journal of Hyperthermia, Volume 39, Issue 1 <https://doi.org/10.1080/02656736.2022.2129102>`_, 2022 (`preprint <https://arxiv.org/abs/2204.07502>`__)
+   | International Journal of Hyperthermia, Volume 39, Issue 1, 2022
+   | :bdg-link-primary:`doi: 10.1080/02656736.2022.2129102 <https://doi.org/10.1080/02656736.2022.2129102>` :bdg-link-secondary:`preprint: arXiv:2204.07502 <https://arxiv.org/abs/2204.07502>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      Objectives
+
+      We want to investigate whether temperature measurements obtained from MR thermometry are accurate and reliable enough to aid the development and validation of simulation models for Laser-induced interstitial thermotherapy (LITT).
+
+      Methods
+
+      Laser-induced interstitial thermotherapy (LITT) is applied to ex-vivo porcine livers. An artificial blood vessel is used to study the cooling effect of large blood vessels in proximity to the ablation zone. The experimental setting is simulated using a model based on partial differential equations (PDEs) for temperature, radiation, and tissue damage. The simulated temperature distributions are compared to temperature data obtained from MR thermometry.
+
+      Results
+
+      The overall agreement between measurement and simulation is good for two of our four test cases, while for the remaining cases drift problems with the thermometry data have been an issue. At higher temperatures local deviations between simulation and measurement occur in close proximity to the laser applicator and the vessel. This suggests that certain aspects of the model may need some refinement.
+
+      Conclusion
+
+      Thermometry data is well-suited for aiding the development of simulations models since it shows where refinements are necessary and enables the validation of such models.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@Article{Huebner2022Validating,
+		  author    = {Frank Hübner and Sebastian Blauth and Christian Leithäuser and Roland Schreiner and Norbert Siedow and Thomas J. Vogl},
+		  journal   = {International Journal of Hyperthermia},
+		  title     = {Validating a simulation model for laser-induced thermotherapy using MR thermometry},
+		  year      = {2022},
+		  number    = {1},
+		  pages     = {1315-1326},
+		  volume    = {39},
+		  doi       = {10.1080/02656736.2022.2129102},
+		  publisher = {Taylor & Francis},
+		}
+
+
 
 #. | **Nonlinear Conjugate Gradient Methods for PDE Constrained Shape Optimization Based on Steklov-Poincaré-Type Metrics**
-   | `SIAM Journal on Optimization, Volume 31, Issue 3 <https://doi.org/10.1137/20M1367738>`_, 2021 (`preprint <https://arxiv.org/abs/2007.12891>`__)
+   | SIAM Journal on Optimization, Volume 31, Issue 3, 2021
+   | :bdg-link-primary:`doi: 10.1137/20M1367738 <https://doi.org/10.1137/20M1367738>` :bdg-link-secondary:`preprint: arXiv:2007.12891 <https://arxiv.org/abs/2007.12891>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/nonlinear_shape_cg_benchmark>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      Shape optimization based on shape calculus has received a lot of attention in recent years, particularly regarding the development, analysis, and modification of efficient optimization algorithms. In this paper we propose and investigate nonlinear conjugate gradient methods based on Steklov--Poincaré-type metrics for the solution of shape optimization problems constrained by partial differential equations. We embed these methods into a general algorithmic framework for gradient-based shape optimization methods and discuss the numerical discretization of the algorithms. We numerically compare the proposed nonlinear conjugate gradient methods to the already established gradient descent and limited memory BFGS methods for shape optimization on several benchmark problems. The results show that the proposed nonlinear conjugate gradient methods perform well in practice and that they are an efficient and attractive addition to already established gradient-based shape optimization algorithms.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@Article{Blauth2021Nonlinear,
+		  author   = {Sebastian Blauth},
+		  journal  = {SIAM J. Optim.},
+		  title    = {{N}onlinear {C}onjugate {G}radient {M}ethods for {PDE} {C}onstrained {S}hape {O}ptimization {B}ased on {S}teklov-{P}oincaré-{T}ype {M}etrics},
+		  year     = {2021},
+		  number   = {2},
+		  pages    = {1658--1689},
+		  volume   = {31},
+		  doi      = {10.1137/20M1367738},
+		  fjournal = {SIAM Journal on Optimization},
+		}
+
 
 #. | **cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
-   | `SoftwareX, Volume 13 <https://doi.org/10.1016/j.softx.2020.100646>`_, 2021 (`preprint <https://arxiv.org/abs/2010.02048>`__)
+   | SoftwareX, Volume 13, 2021
+   | :bdg-link-primary:`doi: 10.1016/j.softx.2020.100646 <https://doi.org/10.1016/j.softx.2020.100646>` :bdg-link-secondary:`preprint: arXiv:2010.02048 <https://arxiv.org/abs/2010.02048>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/cashocs>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      The solution of optimization problems constrained by partial differential equations (PDEs) plays an important role in many areas of science and industry. In this work we present cashocs, a new software package written in Python, which automatically solves such problems in the context of optimal control and shape optimization. The software cashocs implements a discretization of the continuous adjoint approach, which derives the necessary adjoint systems and (shape) derivatives in an automated fashion. As cashocs is based on the finite element software FEniCS, it inherits its simple, high-level user interface. This makes it straightforward to define and solve PDE constrained optimization problems with our software. In this paper, we discuss the design and functionalities of cashocs and also demonstrate its straightforward usability and applicability.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@Article{Blauth2021cashocs,
+		  author   = {Sebastian Blauth},
+		  journal  = {SoftwareX},
+		  title    = {{cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software}},
+		  year     = {2021},
+		  issn     = {2352-7110},
+		  pages    = {100646},
+		  volume   = {13},
+		  doi      = {10.1016/j.softx.2020.100646},
+		  keywords = {PDE constrained optimization, Adjoint approach, Shape optimization, Optimal control},
+		}
+
+
 
 #. | **Optimal control of the Sabatier process in microchannel reactors**
    | *with Christian Leithäuser and René Pinnau*
-   | `Journal of Engineering Mathematics, Volume 128 <https://doi.org/10.1007/s10665-021-10134-2>`_, 2021 (`preprint <https://arxiv.org/abs/2007.12457>`__)
+   | Journal of Engineering Mathematics, Volume 128, 2021
+   | :bdg-link-primary:`doi: 10.1007/s10665-021-10134-2 <https://doi.org/10.1007/s10665-021-10134-2>` :bdg-link-secondary:`preprint: arXiv:2007.12457 <https://arxiv.org/abs/2007.12457>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      We consider the optimization of a chemical microchannel reactor by means of PDE-constrained optimization techniques, using the example of the Sabatier reaction. To model the chemically reacting flow in the microchannels, we introduce a three- and a one-dimensional model. As these are given by strongly coupled and highly nonlinear systems of partial differential equations (PDEs), we present our software package cashocs which implements the adjoint approach and facilitates the numerical solution of the subsequent optimization problems. We solve a parameter identification problem numerically to determine necessary kinetic parameters for the models from experimental data given in the literature. The obtained results show excellent agreement to the measurements. Finally, we present two optimization problems for optimizing the reactor’s product yield. First, we use a tracking-type cost functional to maximize the reactant conversion, keep the flow rate of the reactor fixed, and use its wall temperature as optimization variable. Second, we consider the wall temperature and the inlet gas velocity as optimization variables, use an objective functional for maximizing the flow rate in the reactor, and ensure the quality of the product by means of a state constraint. The results obtained from solving these problems numerically show great potential for improving the design of the microreactor.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@Article{Blauth2021Optimal,
+		  author   = {Sebastian Blauth and Christian Leith\"{a}user and Ren\'{e} Pinnau},
+		  journal  = {J. Eng. Math.},
+		  title    = {{O}ptimal control of the {S}abatier process in microchannel reactors},
+		  year     = {2021},
+		  volume   = {128},
+		  doi      = {10.1007/s10665-021-10134-2},
+		  fjournal = {Journal of Engineering Mathematics},
+		}
+
+
 
 #. | **Model hierarchy for the shape optimization of a microchannel cooling system**
    | *with Christian Leithäuser and René Pinnau*
-   | `ZAMM Journal of Applied Mathematics and Mechanics, Volume 101, Issue 4 <https://doi.org/10.1002/zamm.202000166>`_, 2021 (`preprint <https://arxiv.org/abs/1911.06819>`__)
+   | ZAMM Journal of Applied Mathematics and Mechanics, Volume 101, Issue 4, 2021
+   | :bdg-link-primary:`doi: 10.1002/zamm.202000166 <https://doi.org/10.1002/zamm.202000166>` :bdg-link-secondary:`preprint: arXiv:1911.06819 <https://arxiv.org/abs/1911.06819>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      We model a microchannel cooling system and consider the optimization of its shape by means of shape calculus. A three-dimensional model covering all relevant physical effects and three reduced models are introduced. The latter are derived via a homogenization of the geometry in 3D and a transformation of the three-dimensional models to two dimensions. A shape optimization problem based on the tracking of heat absorption by the cooler and the uniform distribution of the flow through the microchannels is formulated and adapted to all models. We present the corresponding shape derivatives and adjoint systems, which we derived with a material derivative free adjoint approach. To demonstrate the feasibility of the reduced models, the optimization problems are solved numerically with a gradient descent method. A comparison of the results shows that the reduced models perform similarly to the original one while using significantly less computational resources.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@Article{Blauth2021Model,
+		  author   = {Sebastian Blauth and Christian Leith\"{a}user and Ren\'{e} Pinnau},
+		  journal  = {ZAMM Z. Angew. Math. Mech.},
+		  title    = {Model hierarchy for the shape optimization of a microchannel cooling system},
+		  year     = {2021},
+		  number   = {4},
+		  pages    = {e202000166},
+		  volume   = {101},
+		  doi      = {10.1002/zamm.202000166},
+		  fjournal = {ZAMM. Journal of Applied Mathematics and Mechanics},
+		}
+
+
 
 #. | **Shape sensitivity analysis for a microchannel cooling system**
    | *with Christian Leithäuser and René Pinnau*
-   | `Journal of Mathematical Analysis and Applications, Volume 492, Issue 2 <https://doi.org/10.1016/j.jmaa.2020.124476>`_, 2020 (`preprint <https://arxiv.org/abs/2005.02754>`__)
+   | Journal of Mathematical Analysis and Applications, Volume 492, Issue 2, 2020
+   | :bdg-link-primary:`doi: 10.1016/j.jmaa.2020.124476 <https://doi.org/10.1016/j.jmaa.2020.124476>` :bdg-link-secondary:`preprint: arXiv:2005.02754 <https://arxiv.org/abs/2005.02754>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      We analyze the theoretical framework of a shape optimization problem for a microchannel cooling system. To this end, a cost functional based on the tracking of absorbed energy by the cooler as well as some desired flow on a subdomain of the cooling system is introduced. The flow and temperature of the coolant are modeled by a Stokes system coupled to a convection diffusion equation. We prove the well-posedness of this model on a domain transformed by the speed method. Further, we rigorously prove that the cost functional of our optimization problem is shape differentiable and calculate its shape derivative by means of a recent material derivative free adjoint approach.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@Article{Blauth2020Shape,
+		  author   = {Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e}},
+		  journal  = {J. Math. Anal. Appl.},
+		  title    = {Shape sensitivity analysis for a microchannel cooling system},
+		  year     = {2020},
+		  issn     = {0022-247X},
+		  number   = {2},
+		  pages    = {124476},
+		  volume   = {492},
+		  doi      = {10.1016/j.jmaa.2020.124476},
+		  fjournal = {Journal of Mathematical Analysis and Applications},
+		}
+
 
 #. | **Identification of the blood perfusion rate for laser-induced thermotherapy in the liver**
    | *with Matthias Andres, Christian Leithäuser, and Norbert Siedow*
-   | `Journal of Mathematics in Industry, Volume 10 <https://doi.org/10.1186/s13362-020-00085-1>`__, 2020 (`preprint <https://arxiv.org/abs/1910.09199>`__)
+   | Journal of Mathematics in Industry, Volume 10, 2020
+   | :bdg-link-primary:`doi: 10.1186/s13362-020-00085-1 <https://doi.org/10.1186/s13362-020-00085-1>` :bdg-link-secondary:`preprint: arXiv:1910.09199 <https://arxiv.org/abs/1910.09199>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      Using PDE-constrained optimization we introduce a parameter identification approach which can identify the blood perfusion rate from MR thermometry data obtained during the treatment with laser-induced thermotherapy (LITT). The blood perfusion rate, i.e., the cooling effect induced by blood vessels, can be identified during the first stage of the treatment. This information can then be used by a simulation to monitor and predict the ongoing treatment. The approach is tested with synthetic measurements with and without artificial noise as input data.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@Article{Andres2020Identification,
+		  author   = {Andres, Matthias and Blauth, Sebastian and Leith\"{a}user, Christian and Siedow, Norbert},
+		  journal  = {J. Math. Ind.},
+		  title    = {Identification of the blood perfusion rate for laser-induced thermotherapy in the liver},
+		  year     = {2020},
+		  volume   = {10},
+		  doi      = {10.1186/s13362-020-00085-1},
+		  fjournal = {Journal of Mathematics in Industry},
+		}
+
+
 
 #. | **Mathematical modeling of vaporization during laser-induced thermotherapy in liver tissue**
    | *with Frank Hübner, Christian Leithäuser, Norbert Siedow, and Thomas Vogl*
-   | `Journal of Mathematics in Industry, Volume 10 <https://doi.org/10.1186/s13362-020-00082-4>`__, 2020 (`preprint <https://arxiv.org/abs/1910.12515>`__)
+   | Journal of Mathematics in Industry, Volume 10, 2020
+   | :bdg-link-primary:`doi: 10.1186/s13362-020-00082-4 <https://doi.org/10.1186/s13362-020-00082-4>` :bdg-link-secondary:`preprint: arXiv:1910.12515 <https://arxiv.org/abs/1910.12515>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      Laser-induced thermotherapy (LITT) is a minimally invasive method causing tumor destruction due to heat ablation and coagulative effects. Computer simulations can play an important role to assist physicians with the planning and monitoring of the treatment. Our recent study with ex-vivo porcine livers has shown that the vaporization of the water in the tissue must be taken into account when modeling LITT. We extend the model used for simulating LITT to account for vaporization using two different approaches. Results obtained with these new models are then compared with the measurements from the original study.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@Article{Blauth2020Mathematical,
+		  author   = {Blauth, Sebastian and H\"{u}bner, Frank and Leith\"{a}user, Christian and Siedow, Norbert and Vogl, Thomas J.},
+		  journal  = {J. Math. Ind.},
+		  title    = {Mathematical modeling of vaporization during laser-induced thermotherapy in liver tissue},
+		  year     = {2020},
+		  volume   = {10},
+		  doi      = {10.1186/s13362-020-00082-4},
+		  fjournal = {Journal of Mathematics in Industry},
+		}
 
 
 Book Chapters
@@ -53,7 +300,31 @@ Book Chapters
 
 #. | **Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors**
    | *with Frank Hübner, Christian Leithäuser, Norbert Siedow, and Thomas Vogl*
-   | `Modeling, Simulation and Optimization in the Health- and Energy-Sector <https://doi.org/10.1007/978-3-030-99983-4_1>`_, 2022
+   | Modeling, Simulation and Optimization in the Health- and Energy-Sector, 2022
+   | :bdg-link-primary:`doi: 10.1007/978-3-030-99983-4_1 <https://doi.org/10.1007/978-3-030-99983-4_1>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      Laser-induced thermotherapy (LITT) plays an important role in oncology to treat human liver tumors. LITT is an alternative method which is used when surgery is too dangerous for the patient. It is a minimally invasive method causing tumor destruction due to heat ablation and coagulative effects of the tissue. The big advantage of the LITT compared to other minimally invasive procedures is that the treatment takes place under MRI control, such that patients are exposed to a small radiation dose. Based on temperature-sensitive magnetic resonance parameters, it is feasible to monitor the tissue temperature during cancer treatment (MR thermometry). Combining both MR thermometry and mathematical simulation is a promising procedure to identify temperature-dependent tissue parameters and to optimize the cancer treatment. The present paper describes the mathematical modeling of the laser-induced thermotherapy. The well-known Pennes bioheat equation is coupled with the radiative transfer equation which describes the energy gain of the tumor tissue. It is shown, that the modeling of vaporization is important to match mathematical simulation with temperature measurements for ex-vivo porcine liver.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@InProceedings{Blauth2022Mathematical,
+		  author    = {Blauth, Sebastian and H{\"u}bner, Frank and Leith{\"a}user, Christian and Siedow, Norbert and Vogl, Thomas J.},
+		  booktitle = {Modeling, Simulation and Optimization in the Health- and Energy-Sector},
+		  title     = {Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors},
+		  year      = {2022},
+		  address   = {Cham},
+		  editor    = {Pinnau, Ren{\'e} and Gauger, Nicolas R. and Klar, Axel},
+		  pages     = {3--23},
+		  publisher = {Springer International Publishing},
+		  doi       = {10.1007/978-3-030-99983-4_1},
+		  isbn      = {978-3-030-99983-4},
+		}
 
 
 Conference Proceedings
@@ -61,21 +332,110 @@ Conference Proceedings
 
 #. | **Optimal Control and Asymptotic Analysis of the Cattaneo Equation**
    | *with Matthias Andres, René Pinnau, and Claudia Totzeck*
-   | `Proceedings in Applied Mathematics and Mechanics, Volume 19 <https://doi.org/10.1002/pamm.201900184>`_, 2019
+   | Proceedings in Applied Mathematics and Mechanics, Volume 19, 2019
+   | :bdg-link-primary:`doi: 10.1002/pamm.201900184 <https://doi.org/10.1002/pamm.201900184>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      We compare the classical Fourier model for heat transfer to the Cattaneo model for delayed heat transfer. In particular, we consider the asymptotic behavior of the Cattaneo model for a vanishing delay time in the context of an optimal control problem with tracking type cost functional. It is possible to rigorously prove that both optimal controls and states for this problem constrained by the Cattaneo equation converge to the respective optimal control and state of the problem constrained by the heat equation (cf. [1]). Here, we present a short overview of the topic as well as some numerical results for the limit process.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@Article{Blauth2019Optimal,
+		  author   = {Blauth, Sebastian and Andres, Matthias and Pinnau, René and Totzeck, Claudia},
+		  journal  = {PAMM},
+		  title    = {Optimal Control and Asymptotic Analysis of the Cattaneo Equation},
+		  year     = {2019},
+		  number   = {1},
+		  pages    = {e201900184},
+		  volume   = {19},
+		  doi      = {https://doi.org/10.1002/pamm.201900184},
+		}
+
+
 
 #. | **A Numerical Comparison of Consensus-Based Global Optimization to other Particle-based Global Optimization Schemes**
    | *with Claudia Totzeck, René Pinnau, and Steffen Schotthöfer*
-   | `Proceedings in Applied Mathematics and Mechanics, Volume 18 <https://doi.org/10.1002/pamm.201800291>`_, 2018
+   | Proceedings in Applied Mathematics and Mechanics, Volume 18, 2018
+   | :bdg-link-primary:`doi: 10.1002/pamm.201800291 <https://doi.org/10.1002/pamm.201800291>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      We compare a first-order stochastic swarm intelligence model called consensus-based optimization (CBO), which may be used for the global optimization of a function in multiple dimensions, to other particle swarm algorithms for global optimization. CBO allows for passage to the mean-field limit resulting in a nonlocal, degenerate, parabolic PDE. Exploiting tools from PDE analysis, it is possible to rigorously prove convergence results for the algorithm (see [3]). In the present article we discuss numerical results obtained with the Particle Swarm Optimization (PSO) [4], Wind-Driven Optimization (WDO) [6] and CBO and show that CBO leads to very competitive results.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@Article{Totzeck2018Numerical,
+		  author  = {Totzeck, Claudia and Pinnau, René and Blauth, Sebastian and Schotthöfer, Steffen},
+		  journal = {PAMM},
+		  title   = {A Numerical Comparison of Consensus-Based Global Optimization to other Particle-based Global Optimization Schemes},
+		  year    = {2018},
+		  number  = {1},
+		  pages   = {e201800291},
+		  volume  = {18},
+		  doi     = {https://doi.org/10.1002/pamm.201800291},
+		}
+
 
 
 Academic Theses
 ---------------
 
 #. | **Adjoint-Based Shape Optimization and Optimal Control with Applications to Microchannel Systems**
-   | `Fraunhofer Verlag <https://doi.org/10.24406/publica-fhg-283725>`_, 2021, PhD Thesis 
+   | Fraunhofer Verlag, 2021, PhD Thesis
+   | :bdg-link-primary:`doi: 10.24406/publica-fhg-283725 <https://doi.org/10.24406/publica-fhg-283725>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      This thesis investigates optimization problems constrained by partial differential equations (PDEs) with microchannel systems as novel applications. As our first application, we consider the shape optimization of a microchannel cooling system, rigorously analyze the problem, and prove its shape differentiability. Further, we also consider the numerical optimization of the cooling system for which we employ a hierarchy of reduced models. As our second application, we investigate the optimization of a chemical microchannel reactor for the Sabatier process. For this, we solve a parameter identification problem to determine the kinetic reaction parameters and consider the optimization of the reactor's operating conditions using techniques from PDE constrained optimal control. To provide efficient solution techniques for shape optimization problems, we introduce novel nonlinear conjugate gradient methods for shape optimization and analyze their performance on several benchmark problems. Finally, we present our open-source software cashocs, which implements and automates the adjoint approach and, thus, facilitates the numerical solution of PDE constrained optimization problems.
+
+   .. dropdown:: BibTeX source
+       :icon: code
+
+      .. code-block:: bibtex
+
+		@PhdThesis{Blauth2021Adjoint,
+		  author = {Blauth, Sebastian},
+		  school = {TU Kaiserslautern},
+		  title  = {{A}djoint-{B}ased {S}hape {O}ptimization and {O}ptimal {C}ontrol with {A}pplications to {M}icrochannel {S}ystems},
+		  year   = {2021},
+		  type   = {Dissertation},
+		  doi    = {10.24406/publica-fhg-283725},
+		}
+
+
 
 #. | **Optimal Control and Asymptotic Analysis of the Cattaneo Model**
-   | `KLUEDO <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-53727>`_, 2018, Master's Thesis ()
+   | KLUEDO, 2018, Master's Thesis ()
+   | :bdg-link-primary:`urn:nbn:de:hbz:386-kluedo-53727 <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-53727>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      Optimal control of partial differential equations is an important task in applied mathematics where it is used in order to optimize, for example, industrial or medical processes. In this thesis we investigate an optimal control problem with tracking type cost functional for the Cattaneo equation with distributed control, that is, :math:`\tau y_{tt} + y_t - \Delta y = u`. Our focus is on the theoretical and numerical analysis of the limit process :math:`\tau \to 0` where we prove the convergence of solutions of the Cattaneo equation to solutions of the heat equation. We start by deriving both the Cattaneo and the classical heat equation as well as introducing our notation and some functional analytic background. Afterwards, we prove the well-posedness of the Cattaneo equation for homogeneous Dirichlet boundary conditions, that is, we show the existence and uniqueness of a weak solution together with its continuous dependence on the data. We need this in the following, where we investigate the optimal control problem for the Cattaneo equation: We show the existence and uniqueness of a global minimizer for an optimal control problem with tracking type cost functional and the Cattaneo equation as a constraint. Subsequently, we do an asymptotic analysis for :math:`\tau \to 0` for both the forward equation and the aforementioned optimal control problem and show that the solutions of these problems for the Cattaneo equation converge strongly to the ones for the heat equation. Finally, we investigate these problems numerically, where we examine the different behaviour of the models and also consider the limit :math:`\tau \to 0`, suggesting a linear convergence rate.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@MastersThesis{Blauth2018Optimal,
+		  author = {Sebastian Blauth},
+		  school = {Technische Universit{\"a}t Kaiserslautern},
+		  title  = {{Optimal Control and Asymptotic Analysis of the Cattaneo Model}},
+		  year   = {2018},
+		  type   = {Masterthesis},
+		  url    = {http://nbn-resolving.de/urn:nbn:de:hbz:386-kluedo-53727},
+		}
 
 
 Others
@@ -83,4 +443,24 @@ Others
 
 #. | **MINT-EC-Girls-Camp: Math-Talent-School**
    | *with Lena Leiß, Stefan Ruzika, Thomas Jung, Andrea Meier, and Robert Sicks*
-   | `KOMMS Reports (Reports zur Mathematischen Modellierung in MINT-Projekten in der Schule), Volume 9 <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-57924>`_, 2019
+   | KOMMS Reports (Reports zur Mathematischen Modellierung in MINT-Projekten in der Schule), Volume 9, 2019
+   | :bdg-link-primary:`urn:nbn:de:hbz:386-kluedo-57924 <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-57924>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      Die MINT-EC-Girls-Camp: Math-Talent-School ist eine vom Fraunhofer Institut für Techno- und Wirtschaftsmathematik (ITWM) initiierte Veranstaltung, die regelmäßig als Kooperation zwischen dem Felix-Klein-Zentrum für Mathematik und dem Verein mathematisch-naturwissenschaftlicher Excellence-Center an Schulen e.V. (Verein MINT-EC) durchgeführt wird. Die methodisch-didaktische Konzeption der Math-Talent-Schools erfolgt durch das Kompetenzzentrum für Mathematische Modellierung in MINT-Projekten in der Schule (KOMMS), einer wissenschaftlichen Einrichtung des Fachbereichs Mathematik der Technischen Universität Kaiserslautern. Die inhaltlich-organisatorische Ausführung übernimmt das Fraunhofer-Institut für Techno- und Wirtschaftsmathematik ITWM in enger Abstimmung und Kooperation von Wissenschaftlern der Technischen Universität und des Fraunhofer ITWM. Die MINT-EC-Girls-Camp: Math-Talent-School hat zum Ziel, Mathematik-interessierten Schülerinnen einen Einblick in die Arbeitswelt von Mathematikerinnen und Mathematikern zu geben. In diesem Artikel stellen wir die Math-Talent-School vor. Hierfür werden die fachlichen und fachdidaktischen Hintergründe der Projekte beleuchtet, der Ablauf der Veranstaltung erläutert und ein Fazit gezogen.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+		@Article{Leiss2019MINT,
+		  author = {Lena Leiß and Stefan Ruzika and Sebastian Blauth and Thomas Jung and Andrea Maier and Robert Sicks},
+		  title  = {MINT-EC-Girls-Camp: Math-Talent-School},
+		  year   = {2019},
+		  url    = {http://nbn-resolving.de/urn:nbn:de:hbz:386-kluedo-57924},
+		}
+
+

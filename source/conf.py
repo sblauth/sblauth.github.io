@@ -27,6 +27,10 @@ templates_path = ['_templates']
 source_suffix = ".rst"
 exclude_patterns = ["_build"]
 
+extensions = [
+    "sphinx_copybutton",
+    "sphinx_design",
+]
 
 
 # -- Options for HTML output -------------------------------------------------
