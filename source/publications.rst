@@ -399,7 +399,7 @@ Academic Theses
       This thesis investigates optimization problems constrained by partial differential equations (PDEs) with microchannel systems as novel applications. As our first application, we consider the shape optimization of a microchannel cooling system, rigorously analyze the problem, and prove its shape differentiability. Further, we also consider the numerical optimization of the cooling system for which we employ a hierarchy of reduced models. As our second application, we investigate the optimization of a chemical microchannel reactor for the Sabatier process. For this, we solve a parameter identification problem to determine the kinetic reaction parameters and consider the optimization of the reactor's operating conditions using techniques from PDE constrained optimal control. To provide efficient solution techniques for shape optimization problems, we introduce novel nonlinear conjugate gradient methods for shape optimization and analyze their performance on several benchmark problems. Finally, we present our open-source software cashocs, which implements and automates the adjoint approach and, thus, facilitates the numerical solution of PDE constrained optimization problems.
 
    .. dropdown:: BibTeX source
-       :icon: code
+      :icon: code
 
       .. code-block:: bibtex
 
