@@ -5,6 +5,32 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
+#. | **Asymptotic Analysis for Optimal Control of the Cattaneo Model**
+   | *with René Pinnau, Matthias Andres, and Claudia Totzeck*
+   | submitted, 2023
+   | :bdg-link-secondary:`preprint: arXiv:2302.07630 <https://arxiv.org/abs/2302.07630>`
+
+   .. dropdown:: Abstract
+      :icon: book
+
+      We consider an optimal control problem with tracking-type cost functional constrained by the Cattaneo equation, which is a well-known model for delayed heat transfer. In particular, we are interested the asymptotic behaviour of the optimal control problems for a vanishing delay time :math:`\tau \rightarrow 0`. First, we show the convergence of solutions of the Cattaneo equation to the ones of the heat equation. Assuming the same right-hand side and compatible initial conditions for the equations, we prove a linear convergence rate. Moreover, we show linear convergence of the optimal states and optimal controls for the Cattaneo equation towards the ones for the heat equation. We present numerical results for both, the forward and the optimal control problem confirming these linear convergence rates.
+
+   .. dropdown:: BibTeX source
+      :icon: code
+ 
+      .. code-block:: bibtex
+
+	   @Misc{Blauth2023Asymptotic,
+	     author        = {Blauth, Sebastian and Pinnau, Ren\'e and Andres, Matthias and Totzeck, Claudia},
+	     title         = {{Asymptotic Analysis for Optimal Control of the Cattaneo Model}},
+	     year          = {2023},
+	     archiveprefix = {arXiv},
+	     eprint        = {2302.07630},
+	     doi           = {10.48550/ARXIV.2302.07630},
+	     publisher     = {arXiv},
+	   }
+
+
 #. | **Space Mapping for PDE Constrained Shape Optimization**
    | submitted, 2022
    | :bdg-link-secondary:`preprint: arXiv:2208.05747 <https://arxiv.org/abs/2208.05747>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/space_mapping_shape_optimization>`
@@ -346,7 +372,7 @@ Conference Proceedings
       .. code-block:: bibtex
 
 		@Article{Blauth2019Optimal,
-		  author   = {Blauth, Sebastian and Andres, Matthias and Pinnau, René and Totzeck, Claudia},
+		  author   = {Blauth, Sebastian and Andres, Matthias and Pinnau, Ren\'{e} and Totzeck, Claudia},
 		  journal  = {PAMM},
 		  title    = {Optimal Control and Asymptotic Analysis of the Cattaneo Equation},
 		  year     = {2019},
