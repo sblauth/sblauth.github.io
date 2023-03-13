@@ -32,7 +32,7 @@ Submitted Articles / Preprints
 
 
 #. | **Space Mapping for PDE Constrained Shape Optimization**
-   | submitted, 2022
+   | accepted for publication in SIAM Journal on Optimization, 2022
    | :bdg-link-secondary:`preprint: arXiv:2208.05747 <https://arxiv.org/abs/2208.05747>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/space_mapping_shape_optimization>`
 
    .. dropdown:: Abstract
@@ -57,7 +57,7 @@ Submitted Articles / Preprints
 
 
 #. | **Shape Optimization with Nonlinear Conjugate Gradient Methods**
-   | to appear in Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1, 2022
+   | accepted for publication in Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1, 2022
    | :bdg-link-secondary:`preprint: arXiv:2201.05394 <https://arxiv.org/abs/2201.05394>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/nonlinear_shape_cg_benchmark>`
 
    .. dropdown:: Abstract
