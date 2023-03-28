@@ -5,6 +5,34 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
+#. | **Quasi-Newton Methods for Topology Optimization Using a Level-Set Method**
+   | *with Kevin Sturm*
+   | submitted, 2023
+   | :bdg-link-secondary:`preprint: arXiv:2303.15070 <https://arxiv.org/abs/2303.15070>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/quasi_newton_methods_for_topology_optimization>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+            The ability to efficiently solve topology optimization problems is of great importance for many practical applications. Hence, there is a demand for efficient solution algorithms. In this paper, we propose novel quasi-Newton methods for solving PDE-constrained topology optimization problems. Our approach is based on and extends the popular solution algorithm of Amstutz and Andrä (A new algorithm for topology optimization using a level-set method, Journal of Computational Physics, 216, 2006). To do so, we introduce a new perspective on the commonly used evolution equation for the level-set method, which allows us to derive our quasi-Newton methods for topology optimization. We investigate the performance of the proposed methods numerically for the following examples: Inverse topology optimization problems constrained by linear and semilinear elliptic Poisson problems, compliance minimization in linear elasticity, and the optimization of fluids in Navier-Stokes flow, where we compare them to current state-of-the-art methods. Our results show that the proposed solution algorithms significantly outperform the other considered methods: They require substantially less iterations to find a optimizer while demanding only slightly more resources per iteration. This shows that our proposed methods are highly attractive solution methods in the field of topology optimization. 
+
+         .. tab-item:: BibTeX source
+ 
+            .. code-block:: bibtex
+
+	         @Misc{Blauth2023Quasi,
+			  author        = {Sebastian Blauth and Kevin Sturm},
+			  title         = {{Quasi-Newton Methods for Topology Optimization Using a Level-Set Method}},
+			  year          = {2023},
+			  archiveprefix = {arXiv},
+			  eprint        = {2303.15070},
+			  primaryclass  = {math.OC},
+		 }
+
+
 #. | **Asymptotic Analysis for Optimal Control of the Cattaneo Model**
    | *with René Pinnau, Matthias Andres, and Claudia Totzeck*
    | submitted, 2023
