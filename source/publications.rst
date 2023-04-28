@@ -35,7 +35,7 @@ Submitted Articles / Preprints
 
 #. | **Asymptotic Analysis for Optimal Control of the Cattaneo Model**
    | *with René Pinnau, Matthias Andres, and Claudia Totzeck*
-   | submitted, 2023
+   | accepted for publication in Journal of Mathematical Analysis and Applications, 2023
    | :bdg-link-secondary:`preprint: arXiv:2302.07630 <https://arxiv.org/abs/2302.07630>`
 
    .. dropdown:: Additional resources
