@@ -33,35 +33,6 @@ Submitted Articles / Preprints
 		 }
 
 
-#. | **Asymptotic Analysis for Optimal Control of the Cattaneo Model**
-   | *with René Pinnau, Matthias Andres, and Claudia Totzeck*
-   | accepted for publication in Journal of Mathematical Analysis and Applications, 2023
-   | :bdg-link-secondary:`preprint: arXiv:2302.07630 <https://arxiv.org/abs/2302.07630>`
-
-   .. dropdown:: Additional resources
-      :icon: three-bars
-
-      .. tab-set::
-
-         .. tab-item:: Abstract
-
-            We consider an optimal control problem with tracking-type cost functional constrained by the Cattaneo equation, which is a well-known model for delayed heat transfer. In particular, we are interested the asymptotic behaviour of the optimal control problems for a vanishing delay time :math:`\tau \rightarrow 0`. First, we show the convergence of solutions of the Cattaneo equation to the ones of the heat equation. Assuming the same right-hand side and compatible initial conditions for the equations, we prove a linear convergence rate. Moreover, we show linear convergence of the optimal states and optimal controls for the Cattaneo equation towards the ones for the heat equation. We present numerical results for both, the forward and the optimal control problem confirming these linear convergence rates.
-
-         .. tab-item:: BibTeX source
- 
-            .. code-block:: bibtex
-
-	         @Misc{Blauth2023Asymptotic,
-	           author        = {Blauth, Sebastian and Pinnau, Ren\'e and Andres, Matthias and Totzeck, Claudia},
-	           title         = {{Asymptotic Analysis for Optimal Control of the Cattaneo Model}},
-	           year          = {2023},
-	           archiveprefix = {arXiv},
-	           eprint        = {2302.07630},
-	           doi           = {10.48550/ARXIV.2302.07630},
-	           publisher     = {arXiv},
-	         }
-
-
 #. | **Space Mapping for PDE Constrained Shape Optimization**
    | accepted for publication in SIAM Journal on Optimization, 2022
    | :bdg-link-secondary:`preprint: arXiv:2208.05747 <https://arxiv.org/abs/2208.05747>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/space_mapping_shape_optimization>`
@@ -122,6 +93,35 @@ Submitted Articles / Preprints
 
 Articles in Peer-Reviewed Journals
 ----------------------------------
+
+#. | **Asymptotic analysis for optimal control of the Cattaneo model**
+   | *with René Pinnau, Matthias Andres, and Claudia Totzeck*
+   | Journal of Mathematical Analysis and Applications, 2023
+   | :bdg-link-primary:`doi: 10.1016/j.jmaa.2023.127375 <https://doi.org/10.1016/j.jmaa.2023.127375>` :bdg-link-secondary:`preprint: arXiv:2302.07630 <https://arxiv.org/abs/2302.07630>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+            We consider an optimal control problem with tracking-type cost functional constrained by the Cattaneo equation, which is a well-known model for delayed heat transfer. In particular, we are interested the asymptotic behaviour of the optimal control problems for a vanishing delay time :math:`\tau \rightarrow 0`. First, we show the convergence of solutions of the Cattaneo equation to the ones of the heat equation. Assuming the same right-hand side and compatible initial conditions for the equations, we prove a linear convergence rate. Moreover, we show linear convergence of the optimal states and optimal controls for the Cattaneo equation towards the ones for the heat equation. We present numerical results for both, the forward and the optimal control problem confirming these linear convergence rates.
+
+         .. tab-item:: BibTeX source
+ 
+            .. code-block:: bibtex
+
+		      @Article{Blauth2023Asymptotic,
+		        author  = {Sebastian Blauth and René Pinnau and Matthias Andres and Claudia Totzeck},
+		        journal = {Journal of Mathematical Analysis and Applications},
+		        title   = {Asymptotic analysis for optimal control of the Cattaneo model},
+		        year    = {2023},
+		        issn    = {0022-247X},
+		        pages   = {127375},
+		        doi     = {https://doi.org/10.1016/j.jmaa.2023.127375},
+		      }
+
 
 #. | **Validating a simulation model for laser-induced thermotherapy using MR thermometry**
    | *with Frank Hübner, Christian Leithäuser, Roland Schreiner, Norbert Siedow, and Thomas Vogl*
