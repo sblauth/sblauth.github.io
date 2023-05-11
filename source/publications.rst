@@ -96,7 +96,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Asymptotic analysis for optimal control of the Cattaneo model**
    | *with René Pinnau, Matthias Andres, and Claudia Totzeck*
-   | Journal of Mathematical Analysis and Applications, 2023
+   | Journal of Mathematical Analysis and Applications, Volume 527, Issue 1, 2023
    | :bdg-link-primary:`doi: 10.1016/j.jmaa.2023.127375 <https://doi.org/10.1016/j.jmaa.2023.127375>` :bdg-link-secondary:`preprint: arXiv:2302.07630 <https://arxiv.org/abs/2302.07630>`
 
    .. dropdown:: Additional resources
@@ -118,9 +118,12 @@ Articles in Peer-Reviewed Journals
 		        title   = {Asymptotic analysis for optimal control of the Cattaneo model},
 		        year    = {2023},
 		        issn    = {0022-247X},
+		        number  = {1, Part 2},
 		        pages   = {127375},
+		        volume  = {527},
 		        doi     = {https://doi.org/10.1016/j.jmaa.2023.127375},
 		      }
+
 
 
 #. | **Validating a simulation model for laser-induced thermotherapy using MR thermometry**
