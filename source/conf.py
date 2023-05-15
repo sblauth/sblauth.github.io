@@ -51,8 +51,8 @@ html_theme_options = {
     "show_nav_level": 2,
     "logo": {"text": "Home"},
     "show_prev_next": False,
-    "secondary_sidebar_items": [],
-    "footer_items": ["copyright"],
+    "footer_start": ["copyright"],
+    "footer_end": [],
     "icon_links": [
         {
             "name": "GitHub",
@@ -87,7 +87,10 @@ html_theme_options = {
     ]
 }
 
-html_sidebars = {"**": []}
+# html_sidebars = {"**": []}
+html_sidebars = {
+    "**": ["sidebar-nav-bs", "sidebar-ethical-ads"]
+}
 
 
 pygments_style = "sphinx"
