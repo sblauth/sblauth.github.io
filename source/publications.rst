@@ -5,6 +5,33 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
+#. | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
+   | submitted, 2023
+   | :bdg-link-secondary:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/cashocs>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+                 In this paper, we present version 2.0 of cashocs. Our software automates the solution of PDE constrained optimization problems for design optimization and optimal control. Since its inception, many new features and useful tools have been added to cashocs, making it even more flexible and efficient. The most significant additions are a framework for space mapping, the ability to solve topology optimization problems with a level-set approach, the support for parallelism via MPI, and the ability to handle additional (state) constraints. In this software update, we describe the key additions to cashocs, which is now even better-suited for solving complex PDE constrained optimization problems.
+
+         .. tab-item:: BibTeX source
+
+            .. code-block:: bibtex
+
+			   @Misc{Blauth2023Version,
+			     author        = {Sebastian Blauth},
+			     title         = {{Version 2.0 -- cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software}},
+			     year          = {2023},
+			     archiveprefix = {arXiv},
+			     eprint        = {2306.09828},
+			     primaryclass  = {math.OC},
+			   }
+
+
 #. | **Quasi-Newton Methods for Topology Optimization Using a Level-Set Method**
    | *with Kevin Sturm*
    | submitted, 2023
@@ -23,14 +50,14 @@ Submitted Articles / Preprints
  
             .. code-block:: bibtex
 
-	         @Misc{Blauth2023Quasi,
-			  author        = {Sebastian Blauth and Kevin Sturm},
-			  title         = {{Quasi-Newton Methods for Topology Optimization Using a Level-Set Method}},
-			  year          = {2023},
-			  archiveprefix = {arXiv},
-			  eprint        = {2303.15070},
-			  primaryclass  = {math.OC},
-		 }
+			   @Misc{Blauth2023Quasi,
+			     author        = {Sebastian Blauth and Kevin Sturm},
+			     title         = {{Quasi-Newton Methods for Topology Optimization Using a Level-Set Method}},
+			     year          = {2023},
+			     archiveprefix = {arXiv},
+			     eprint        = {2303.15070},
+			     primaryclass  = {math.OC},
+			   }
 
 
 #. | **Space Mapping for PDE Constrained Shape Optimization**
