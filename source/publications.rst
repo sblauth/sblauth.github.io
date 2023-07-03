@@ -61,7 +61,7 @@ Submitted Articles / Preprints
 
 
 #. | **Space Mapping for PDE Constrained Shape Optimization**
-   | accepted for publication in SIAM Journal on Optimization, 2022
+   | accepted for publication in SIAM Journal on Optimization, 2023
    | :bdg-link-secondary:`preprint: arXiv:2208.05747 <https://arxiv.org/abs/2208.05747>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/space_mapping_shape_optimization>`
    
    .. dropdown:: Additional resources
@@ -90,34 +90,6 @@ Submitted Articles / Preprints
 
 
 
-#. | **Shape Optimization with Nonlinear Conjugate Gradient Methods**
-   | accepted for publication in Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1, 2022
-   | :bdg-link-secondary:`preprint: arXiv:2201.05394 <https://arxiv.org/abs/2201.05394>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/nonlinear_shape_cg_benchmark>`
-
-   .. dropdown:: Additional resources
-      :icon: three-bars
-
-      .. tab-set::
-
-         .. tab-item:: Abstract
-
-            In this chapter, we investigate recently proposed nonlinear conjugate gradient (NCG) methods for shape optimization problems. We briefly introduce the methods as well as the corresponding theoretical background and investigate their performance numerically. The obtained results confirm that the NCG methods are efficient and attractive solution algorithms for shape optimization problems. 
-
-         .. tab-item:: BibTeX source
- 
-            .. code-block:: bibtex
-
-		      @Misc{Blauth2022Shape,
-		        author        = {Blauth, Sebastian},
-		        title         = {Shape Optimization with Nonlinear Conjugate Gradient Methods},
-		        year          = {2022},
-		        archiveprefix = {arXiv},
-		        eprint        = {2201.05394},
-		        doi           = {10.48550/ARXIV.2201.05394},
-		        publisher     = {arXiv},
-		      }
-
-
 Articles in Peer-Reviewed Journals
 ----------------------------------
 
@@ -140,15 +112,17 @@ Articles in Peer-Reviewed Journals
             .. code-block:: bibtex
 
 		      @Article{Blauth2023Asymptotic,
-		        author  = {Sebastian Blauth and René Pinnau and Matthias Andres and Claudia Totzeck},
-		        journal = {Journal of Mathematical Analysis and Applications},
-		        title   = {Asymptotic analysis for optimal control of the Cattaneo model},
-		        year    = {2023},
-		        issn    = {0022-247X},
-		        number  = {1, Part 2},
-		        pages   = {127375},
-		        volume  = {527},
-		        doi     = {https://doi.org/10.1016/j.jmaa.2023.127375},
+		        author   = {Blauth, Sebastian and Pinnau, Ren\'{e} and Andres, Matthias and Totzeck, Claudia},
+		        journal  = {J. Math. Anal. Appl.},
+		        title    = {Asymptotic analysis for optimal control of the {C}attaneo model},
+		        year     = {2023},
+		        issn     = {0022-247X,1096-0813},
+		        number   = {1},
+		        pages    = {Paper No. 127375, 21},
+		        volume   = {527},
+		        doi      = {10.1016/j.jmaa.2023.127375},
+		        fjournal = {Journal of Mathematical Analysis and Applications},
+		        mrclass  = {49J20 (35Q49 49J45 65M60)},
 		      }
 
 
@@ -218,17 +192,19 @@ Articles in Peer-Reviewed Journals
             .. code-block:: bibtex
 
 
-		        @Article{Blauth2021Nonlinear,
-		          author   = {Sebastian Blauth},
-		          journal  = {SIAM J. Optim.},
-		          title    = {{N}onlinear {C}onjugate {G}radient {M}ethods for {PDE} {C}onstrained {S}hape {O}ptimization {B}ased on {S}teklov-{P}oincaré-{T}ype {M}etrics},
-		          year     = {2021},
-		          number   = {2},
-		          pages    = {1658--1689},
-		          volume   = {31},
-		          doi      = {10.1137/20M1367738},
-		          fjournal = {SIAM Journal on Optimization},
-		        }
+		      @Article{Blauth2021Nonlinear,
+		        author     = {Blauth, Sebastian},
+		        journal    = {SIAM J. Optim.},
+		        title      = {{Nonlinear Conjugate Gradient Methods for PDE Constrained Shape Optimization Based on Steklov-Poincar\'{e}-Type Metrics}},
+		        year       = {2021},
+		        issn       = {1052-6234,1095-7189},
+		        number     = {3},
+		        pages      = {1658--1689},
+		        volume     = {31},
+		        doi        = {10.1137/20M1367738},
+		        fjournal   = {SIAM Journal on Optimization},
+		        mrclass    = {49Q10 (35Q93 49M05 49M37 90C53)},
+		      }
 
 
 #. | **cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
@@ -282,15 +258,18 @@ Articles in Peer-Reviewed Journals
             .. code-block:: bibtex
 
 
-		        @Article{Blauth2021Optimal,
-		          author   = {Sebastian Blauth and Christian Leith\"{a}user and Ren\'{e} Pinnau},
-		          journal  = {J. Eng. Math.},
-		          title    = {{O}ptimal control of the {S}abatier process in microchannel reactors},
-		          year     = {2021},
-		          volume   = {128},
-		          doi      = {10.1007/s10665-021-10134-2},
-		          fjournal = {Journal of Engineering Mathematics},
-		        }
+		      @Article{Blauth2021Optimal,
+		        author   = {Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e}},
+		        journal  = {J. Engrg. Math.},
+		        title    = {Optimal control of the {S}abatier process in microchannel reactors},
+		        year     = {2021},
+		        issn     = {0022-0833,1573-2703},
+		        pages    = {Paper No. 19, 28},
+		        volume   = {128},
+		        doi      = {10.1007/s10665-021-10134-2},
+		        fjournal = {Journal of Engineering Mathematics},
+		        mrclass  = {80A32 (35Q35 49M05 49M41 65K10 76V05)},
+		      }
 
 
 
@@ -313,17 +292,19 @@ Articles in Peer-Reviewed Journals
             .. code-block:: bibtex
 
 
-		        @Article{Blauth2021Model,
-		          author   = {Sebastian Blauth and Christian Leith\"{a}user and Ren\'{e} Pinnau},
-		          journal  = {ZAMM Z. Angew. Math. Mech.},
-		          title    = {Model hierarchy for the shape optimization of a microchannel cooling system},
-		          year     = {2021},
-		          number   = {4},
-		          pages    = {e202000166},
-		          volume   = {101},
-		          doi      = {10.1002/zamm.202000166},
-		          fjournal = {ZAMM. Journal of Applied Mathematics and Mechanics},
-		        }
+		      @Article{Blauth2021Model,
+		        author   = {Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e}},
+		        journal  = {ZAMM Z. Angew. Math. Mech.},
+		        title    = {Model hierarchy for the shape optimization of a microchannel cooling system},
+		        year     = {2021},
+		        issn     = {0044-2267,1521-4001},
+		        number   = {4},
+		        pages    = {Paper No. e202000166, 28},
+		        volume   = {101},
+		        doi      = {10.1002/zamm.202000166},
+		        fjournal = {ZAMM. Zeitschrift f\"{u}r Angewandte Mathematik und Mechanik. Journal of Applied Mathematics and Mechanics},
+		        mrclass  = {76D55 (35Q35 49M41 49Q10 65K05 65K10)},
+		      }
 
 
 
@@ -345,19 +326,19 @@ Articles in Peer-Reviewed Journals
  
             .. code-block:: bibtex
 
-
-		        @Article{Blauth2020Shape,
-		          author   = {Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e}},
-		          journal  = {J. Math. Anal. Appl.},
-		          title    = {Shape sensitivity analysis for a microchannel cooling system},
-		          year     = {2020},
-		          issn     = {0022-247X},
-		          number   = {2},
-		          pages    = {124476},
-		          volume   = {492},
-		          doi      = {10.1016/j.jmaa.2020.124476},
-		          fjournal = {Journal of Mathematical Analysis and Applications},
-		        }
+		      @Article{Blauth2020Shape,
+		        author   = {Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e}},
+		        journal  = {J. Math. Anal. Appl.},
+		        title    = {Shape sensitivity analysis for a microchannel cooling system},
+		        year     = {2020},
+		        issn     = {0022-247X},
+		        number   = {2},
+		        pages    = {124476},
+		        volume   = {492},
+		        doi      = {10.1016/j.jmaa.2020.124476},
+		        fjournal = {Journal of Mathematical Analysis and Applications},
+		        mrclass  = {49Q12 (35Q35 49Q10 76D07)},
+		      }
 
 
 #. | **Identification of the blood perfusion rate for laser-induced thermotherapy in the liver**
@@ -379,15 +360,16 @@ Articles in Peer-Reviewed Journals
             .. code-block:: bibtex
 
 
-		        @Article{Andres2020Identification,
-		          author   = {Andres, Matthias and Blauth, Sebastian and Leith\"{a}user, Christian and Siedow, Norbert},
-		          journal  = {J. Math. Ind.},
-		          title    = {Identification of the blood perfusion rate for laser-induced thermotherapy in the liver},
-		          year     = {2020},
-		          volume   = {10},
-		          doi      = {10.1186/s13362-020-00085-1},
-		          fjournal = {Journal of Mathematics in Industry},
-		        }
+		      @Article{Andres2020Identification,
+		        author   = {Andres, Matthias and Blauth, Sebastian and Leith\"{a}user, Christian and Siedow, Norbert},
+		        journal  = {J. Math. Ind.},
+		        title    = {Identification of the blood perfusion rate for laser-induced thermotherapy in the liver},
+		        year     = {2020},
+		        volume   = {10},
+		        doi      = {10.1186/s13362-020-00085-1},
+		        fjournal = {Journal of Mathematics in Industry},
+		        mrclass  = {92C50 (35Q92 93-10 93B30)},
+		      }
 
 
 
@@ -410,15 +392,16 @@ Articles in Peer-Reviewed Journals
             .. code-block:: bibtex
 
 
-		        @Article{Blauth2020Mathematical,
-		          author   = {Blauth, Sebastian and H\"{u}bner, Frank and Leith\"{a}user, Christian and Siedow, Norbert and Vogl, Thomas J.},
-		          journal  = {J. Math. Ind.},
-		          title    = {Mathematical modeling of vaporization during laser-induced thermotherapy in liver tissue},
-		          year     = {2020},
-		          volume   = {10},
-		          doi      = {10.1186/s13362-020-00082-4},
-		          fjournal = {Journal of Mathematics in Industry},
-		        }
+		      @Article{Blauth2020Mathematical,
+		        author   = {Blauth, Sebastian and H\"{u}bner, Frank and Leith\"{a}user, Christian and Siedow, Norbert and Vogl, Thomas J.},
+		        journal  = {J. Math. Ind.},
+		        title    = {Mathematical modeling of vaporization during laser-induced thermotherapy in liver tissue},
+		        year     = {2020},
+		        volume   = {10},
+		        doi      = {10.1186/s13362-020-00082-4},
+		        fjournal = {Journal of Mathematics in Industry},
+		        mrclass  = {92C50 (78A55)},
+		      }
 
 
 Book Chapters
@@ -459,6 +442,37 @@ Book Chapters
 
 Conference Proceedings
 ----------------------
+
+#. | **Shape Optimization with Nonlinear Conjugate Gradient Methods**
+   | Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1, 2023
+   | :bdg-link-primary:`doi: 10.1007/978-3-031-20432-6_9 <https://doi.org/10.1007/978-3-031-20432-6_9>` :bdg-link-secondary:`preprint: arXiv:2201.05394 <https://arxiv.org/abs/2201.05394>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/nonlinear_shape_cg_benchmark>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+            In this chapter, we investigate recently proposed nonlinear conjugate gradient (NCG) methods for shape optimization problems. We briefly introduce the methods as well as the corresponding theoretical background and investigate their performance numerically. The obtained results confirm that the NCG methods are efficient and attractive solution algorithms for shape optimization problems. 
+
+         .. tab-item:: BibTeX source
+ 
+            .. code-block:: bibtex
+
+			  @InProceedings{Blauth2023Shape,
+			    author    = {Blauth, Sebastian},
+			    booktitle = {Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1},
+			    title     = {Shape Optimization with Nonlinear Conjugate Gradient Methods},
+			    year      = {2023},
+			    address   = {Cham},
+			    editor    = {Melenk, Jens M. and Perugia, Ilaria and Sch{\"o}berl, Joachim and Schwab, Christoph},
+			    pages     = {169--181},
+			    publisher = {Springer International Publishing},
+			    doi       = {10.1007/978-3-031-20432-6_9},
+			    isbn      = {978-3-031-20432-6},
+			  }
+
 
 #. | **Optimal Control and Asymptotic Analysis of the Cattaneo Equation**
    | *with Matthias Andres, René Pinnau, and Claudia Totzeck*
