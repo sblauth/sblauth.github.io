@@ -11,6 +11,7 @@ Upcoming activities
   | October 05-06, 2023, Kaiserslautern, Germany
 
 * | **Kaiserslautern Applied and Industrial Mathematics Days (KLAIM) 2023**
+  | *Talk: Automated Solution of Shape Optimization Problems with cashocs*
   | September 25-27, 2023, Kaiserslautern, Germany
 
 
