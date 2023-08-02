@@ -60,9 +60,16 @@ Submitted Articles / Preprints
 			   }
 
 
+
+
+
+
+Articles in Peer-Reviewed Journals
+----------------------------------
+
 #. | **Space Mapping for PDE Constrained Shape Optimization**
-   | accepted for publication in SIAM Journal on Optimization, 2023
-   | :bdg-link-secondary:`preprint: arXiv:2208.05747 <https://arxiv.org/abs/2208.05747>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/space_mapping_shape_optimization>`
+   | SIAM Journal on Optimization, Volume 33, Issue 3, 2023
+   | :bdg-link-primary:`doi: 10.1137/22M1515665 <https://doi.org/10.1137/22M1515665>` :bdg-link-secondary:`preprint: arXiv:2208.05747 <https://arxiv.org/abs/2208.05747>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/space_mapping_shape_optimization>`
    
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -78,20 +85,19 @@ Submitted Articles / Preprints
 
             .. code-block:: bibtex
 
-	           @Misc{Blauth2022Space,
-	             author        = {Blauth, Sebastian},
-	             title         = {{Space Mapping for PDE Constrained Shape Optimization}},
-	             year          = {2022},
-	             archiveprefix = {arXiv},
-	             eprint        = {2208.05747},
-	             doi           = {10.48550/ARXIV.2208.05747},
-	             publisher     = {arXiv},
-	           }
+		      @Article{Blauth2023Space,
+		        author   = {Blauth, Sebastian},
+		        journal  = {SIAM J. Optim.},
+		        title    = {{Space Mapping for PDE Constrained Shape Optimization}},
+		        year     = {2023},
+		        number   = {3},
+		        pages    = {1707-1733},
+		        volume   = {33},
+		        doi      = {10.1137/22M1515665},
+		        fjournal = {SIAM Journal on Optimization},
+		      }
 
 
-
-Articles in Peer-Reviewed Journals
-----------------------------------
 
 #. | **Asymptotic analysis for optimal control of the Cattaneo model**
    | *with René Pinnau, Matthias Andres, and Claudia Totzeck*
