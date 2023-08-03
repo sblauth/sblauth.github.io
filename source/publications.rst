@@ -88,14 +88,18 @@ Articles in Peer-Reviewed Journals
 		      @Article{Blauth2023Space,
 		        author   = {Blauth, Sebastian},
 		        journal  = {SIAM J. Optim.},
-		        title    = {{Space Mapping for PDE Constrained Shape Optimization}},
+		        title    = {Space {M}apping for {PDE} {C}onstrained {S}hape {O}ptimization},
 		        year     = {2023},
+		        issn     = {1052-6234,1095-7189},
 		        number   = {3},
-		        pages    = {1707-1733},
+		        pages    = {1707--1733},
 		        volume   = {33},
 		        doi      = {10.1137/22M1515665},
 		        fjournal = {SIAM Journal on Optimization},
+		        mrclass  = {49Q10 (35Q93 49M41 65K05)},
+		        mrnumber = {4622415},
 		      }
+
 
 
 
