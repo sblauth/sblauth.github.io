@@ -5,6 +5,11 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
+#. | **Topology Optimization for Uniform Flow Distribution in Electrolysis Cells**
+   | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
+   | submitted, 2023
+   | :bdg-link-secondary:`preprint: arXiv:2308.01826 <https://arxiv.org/abs/2308.01826>`
+
 #. | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
    | submitted, 2023
    | :bdg-link-secondary:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/cashocs>`
