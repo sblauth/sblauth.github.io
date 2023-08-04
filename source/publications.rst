@@ -10,6 +10,32 @@ Submitted Articles / Preprints
    | submitted, 2023
    | :bdg-link-secondary:`preprint: arXiv:2308.01826 <https://arxiv.org/abs/2308.01826>`
 
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+                      In this paper we consider the topology optimization for a bipolar plate of a hydrogen electrolysis cell. We present a model for the bipolar plate using the Stokes equation with an additional drag term, which models the influence of fluid and solid regions. Furthermore, we derive a criterion for a uniform flow distribution in the bipolar plate. To obtain shapes that are well-manufacturable, we introduce a novel smoothing technique for the fluid velocity. Finally, we present some numerical results and investigate the influence of the smoothing on the obtained shapes. 
+
+         .. tab-item:: BibTeX source
+
+            .. code-block:: bibtex
+
+		      @Misc{Baeck2023Topology,
+		        author        = {Leon Baeck and Sebastian Blauth and Christian Leithäuser and René Pinnau and Kevin Sturm},
+		        title         = {{Topology Optimization for Uniform Flow Distribution in Electrolysis Cells}},
+		        year          = {2023},
+		        archiveprefix = {arXiv},
+		        eprint        = {2308.01826},
+		        primaryclass  = {math.OC},
+		      }
+
+
+
+
+
 #. | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
    | submitted, 2023
    | :bdg-link-secondary:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/cashocs>`
