@@ -65,7 +65,7 @@ Submitted Articles / Preprints
 
 #. | **Quasi-Newton Methods for Topology Optimization Using a Level-Set Method**
    | *with Kevin Sturm*
-   | submitted, 2023
+   | accepted for publication in Structural and Multidisciplinary Optimization, 2023
    | :bdg-link-secondary:`preprint: arXiv:2303.15070 <https://arxiv.org/abs/2303.15070>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/quasi_newton_methods_for_topology_optimization>`
 
    .. dropdown:: Additional resources
