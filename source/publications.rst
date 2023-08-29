@@ -7,7 +7,7 @@ Submitted Articles / Preprints
 
 #. | **Topology Optimization for Uniform Flow Distribution in Electrolysis Cells**
    | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
-   | submitted, 2023
+   | accepted for publication in Proceedings in Applied Mathematics and Mechanics, 2023
    | :bdg-link-secondary:`preprint: arXiv:2308.01826 <https://arxiv.org/abs/2308.01826>`
 
    .. dropdown:: Additional resources
