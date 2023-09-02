@@ -63,10 +63,17 @@ Submitted Articles / Preprints
 			   }
 
 
+
+
+
+Articles in Peer-Reviewed Journals
+----------------------------------
+
+
 #. | **Quasi-Newton Methods for Topology Optimization Using a Level-Set Method**
    | *with Kevin Sturm*
-   | accepted for publication in Structural and Multidisciplinary Optimization, 2023
-   | :bdg-link-secondary:`preprint: arXiv:2303.15070 <https://arxiv.org/abs/2303.15070>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/quasi_newton_methods_for_topology_optimization>`
+   | Structural and Multidisciplinary Optimization, Volume 66, Issue 9, 2023
+   | :bdg-link-primary:`doi: 10.1007/s00158-023-03653-2 <https://doi.org/10.1007/s00158-023-03653-2>` :bdg-link-secondary:`preprint: arXiv:2303.15070 <https://arxiv.org/abs/2303.15070>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/quasi_newton_methods_for_topology_optimization>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -81,22 +88,17 @@ Submitted Articles / Preprints
  
             .. code-block:: bibtex
 
-			   @Misc{Blauth2023Quasi,
-			     author        = {Sebastian Blauth and Kevin Sturm},
-			     title         = {{Quasi-Newton Methods for Topology Optimization Using a Level-Set Method}},
-			     year          = {2023},
-			     archiveprefix = {arXiv},
-			     eprint        = {2303.15070},
-			     primaryclass  = {math.OC},
-			   }
+		      @Article{Blauth2023Quasi,
+		        author   = {Sebastian Blauth and Kevin Sturm},
+		        journal  = {Struct. Multidiscip. Optim.},
+		        title    = {Quasi-Newton methods for topology optimization using a level-set method},
+		        year     = {2023},
+		        volume   = {66},
+		        doi      = {10.1007/s00158-023-03653-2},
+		        fjournal = {Structural and Multidisciplinary Optimization},
+		      }
 
 
-
-
-
-
-Articles in Peer-Reviewed Journals
-----------------------------------
 
 #. | **Space Mapping for PDE Constrained Shape Optimization**
    | SIAM Journal on Optimization, Volume 33, Issue 3, 2023
