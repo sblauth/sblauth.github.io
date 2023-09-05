@@ -89,14 +89,20 @@ Articles in Peer-Reviewed Journals
             .. code-block:: bibtex
 
 		      @Article{Blauth2023Quasi,
-		        author   = {Sebastian Blauth and Kevin Sturm},
+		        author   = {Blauth, Sebastian and Sturm, Kevin},
 		        journal  = {Struct. Multidiscip. Optim.},
-		        title    = {Quasi-Newton methods for topology optimization using a level-set method},
+		        title    = {Quasi-{N}ewton methods for topology optimization using a level-set method},
 		        year     = {2023},
+		        issn     = {1615-147X,1615-1488},
+		        number   = {9},
+		        pages    = {203},
 		        volume   = {66},
 		        doi      = {10.1007/s00158-023-03653-2},
 		        fjournal = {Structural and Multidisciplinary Optimization},
+		        mrclass  = {99-06},
+		        mrnumber = {4635978},
 		      }
+
 
 
 
