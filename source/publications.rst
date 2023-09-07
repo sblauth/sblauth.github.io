@@ -70,7 +70,7 @@ Articles in Peer-Reviewed Journals
 ----------------------------------
 
 
-#. | **Quasi-Newton Methods for Topology Optimization Using a Level-Set Method**
+#. | **Quasi-Newton methods for topology optimization using a level-set method**
    | *with Kevin Sturm*
    | Structural and Multidisciplinary Optimization, Volume 66, 2023
    | :bdg-link-primary:`doi: 10.1007/s00158-023-03653-2 <https://doi.org/10.1007/s00158-023-03653-2>` :bdg-link-secondary:`preprint: arXiv:2303.15070 <https://arxiv.org/abs/2303.15070>` :bdg-link-light:`code on GitHub <https://github.com/sblauth/quasi_newton_methods_for_topology_optimization>`
