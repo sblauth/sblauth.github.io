@@ -5,37 +5,6 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
-#. | **Topology Optimization for Uniform Flow Distribution in Electrolysis Cells**
-   | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
-   | accepted for publication in Proceedings in Applied Mathematics and Mechanics, 2023
-   | :bdg-link-secondary-line:`preprint: arXiv:2308.01826 <https://arxiv.org/abs/2308.01826>`
-
-   .. dropdown:: Additional resources
-      :icon: three-bars
-
-      .. tab-set::
-
-         .. tab-item:: Abstract
-
-                      In this paper we consider the topology optimization for a bipolar plate of a hydrogen electrolysis cell. We present a model for the bipolar plate using the Stokes equation with an additional drag term, which models the influence of fluid and solid regions. Furthermore, we derive a criterion for a uniform flow distribution in the bipolar plate. To obtain shapes that are well-manufacturable, we introduce a novel smoothing technique for the fluid velocity. Finally, we present some numerical results and investigate the influence of the smoothing on the obtained shapes. 
-
-         .. tab-item:: BibTeX source
-
-            .. code-block:: bibtex
-
-		      @Misc{Baeck2023Topology,
-		        author        = {Leon Baeck and Sebastian Blauth and Christian Leithäuser and René Pinnau and Kevin Sturm},
-		        title         = {{Topology Optimization for Uniform Flow Distribution in Electrolysis Cells}},
-		        year          = {2023},
-		        archiveprefix = {arXiv},
-		        eprint        = {2308.01826},
-		        primaryclass  = {math.OC},
-		      }
-
-
-
-
-
 #. | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
    | submitted, 2023
    | :bdg-link-secondary-line:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>`
@@ -68,7 +37,6 @@ Submitted Articles / Preprints
 
 Articles in Peer-Reviewed Journals
 ----------------------------------
-
 
 #. | **Quasi-Newton methods for topology optimization using a level-set method**
    | *with Kevin Sturm*
@@ -453,13 +421,14 @@ Articles in Peer-Reviewed Journals
 		      }
 
 
-Book Chapters
--------------
 
-#. | **Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors**
-   | *with Frank Hübner, Christian Leithäuser, Norbert Siedow, and Thomas Vogl*
-   | Modeling, Simulation and Optimization in the Health- and Energy-Sector, 2022
-   | :bdg-link-primary-line:`doi: 10.1007/978-3-030-99983-4_1 <https://doi.org/10.1007/978-3-030-99983-4_1>`
+Conference Proceedings
+----------------------
+
+#. | **Topology Optimization for Uniform Flow Distribution in Electrolysis Cells**
+   | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
+   | Proceedings in Applied Mathematics and Mechanics, 2023
+   | :bdg-link-primary-line:`doi: 10.1002/pamm.202300163 <https://doi.org/10.1002/pamm.202300163>` :bdg-link-secondary-line:`preprint: arXiv:2308.01826 <https://arxiv.org/abs/2308.01826>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -468,29 +437,21 @@ Book Chapters
 
          .. tab-item:: Abstract
 
-            Laser-induced thermotherapy (LITT) plays an important role in oncology to treat human liver tumors. LITT is an alternative method which is used when surgery is too dangerous for the patient. It is a minimally invasive method causing tumor destruction due to heat ablation and coagulative effects of the tissue. The big advantage of the LITT compared to other minimally invasive procedures is that the treatment takes place under MRI control, such that patients are exposed to a small radiation dose. Based on temperature-sensitive magnetic resonance parameters, it is feasible to monitor the tissue temperature during cancer treatment (MR thermometry). Combining both MR thermometry and mathematical simulation is a promising procedure to identify temperature-dependent tissue parameters and to optimize the cancer treatment. The present paper describes the mathematical modeling of the laser-induced thermotherapy. The well-known Pennes bioheat equation is coupled with the radiative transfer equation which describes the energy gain of the tumor tissue. It is shown, that the modeling of vaporization is important to match mathematical simulation with temperature measurements for ex-vivo porcine liver.
+                      In this paper we consider the topology optimization for a bipolar plate of a hydrogen electrolysis cell. We present a model for the bipolar plate using the Stokes equation with an additional drag term, which models the influence of fluid and solid regions. Furthermore, we derive a criterion for a uniform flow distribution in the bipolar plate. To obtain shapes that are well-manufacturable, we introduce a novel smoothing technique for the fluid velocity. Finally, we present some numerical results and investigate the influence of the smoothing on the obtained shapes. 
 
          .. tab-item:: BibTeX source
- 
+
             .. code-block:: bibtex
 
+		      @Article{Baeck2023Topology,
+		        author  = {Baeck, Leon and Blauth, Sebastian and Leithäuser, Christian and Pinnau, René and Sturm, Kevin},
+		        journal = {PAMM},
+		        title   = {Topology optimization for uniform flow distribution in electrolysis cells},
+		        year    = {2023},
+		        pages   = {e202300163},
+		        doi     = {https://doi.org/10.1002/pamm.202300163},
+		      }
 
-		        @InProceedings{Blauth2022Mathematical,
-		          author    = {Blauth, Sebastian and H{\"u}bner, Frank and Leith{\"a}user, Christian and Siedow, Norbert and Vogl, Thomas J.},
-		          booktitle = {Modeling, Simulation and Optimization in the Health- and Energy-Sector},
-		          title     = {Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors},
-		          year      = {2022},
-		          address   = {Cham},
-		          editor    = {Pinnau, Ren{\'e} and Gauger, Nicolas R. and Klar, Axel},
-		          pages     = {3--23},
-		          publisher = {Springer International Publishing},
-		          doi       = {10.1007/978-3-030-99983-4_1},
-		          isbn      = {978-3-030-99983-4},
-		        }
-
-
-Conference Proceedings
-----------------------
 
 #. | **Shape Optimization with Nonlinear Conjugate Gradient Methods**
    | Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1, 2023
@@ -644,6 +605,42 @@ Academic Theses
 		          year   = {2018},
 		          type   = {Masterthesis},
 		          url    = {http://nbn-resolving.de/urn:nbn:de:hbz:386-kluedo-53727},
+		        }
+
+
+Book Chapters
+-------------
+
+#. | **Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors**
+   | *with Frank Hübner, Christian Leithäuser, Norbert Siedow, and Thomas Vogl*
+   | Modeling, Simulation and Optimization in the Health- and Energy-Sector, 2022
+   | :bdg-link-primary-line:`doi: 10.1007/978-3-030-99983-4_1 <https://doi.org/10.1007/978-3-030-99983-4_1>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+            Laser-induced thermotherapy (LITT) plays an important role in oncology to treat human liver tumors. LITT is an alternative method which is used when surgery is too dangerous for the patient. It is a minimally invasive method causing tumor destruction due to heat ablation and coagulative effects of the tissue. The big advantage of the LITT compared to other minimally invasive procedures is that the treatment takes place under MRI control, such that patients are exposed to a small radiation dose. Based on temperature-sensitive magnetic resonance parameters, it is feasible to monitor the tissue temperature during cancer treatment (MR thermometry). Combining both MR thermometry and mathematical simulation is a promising procedure to identify temperature-dependent tissue parameters and to optimize the cancer treatment. The present paper describes the mathematical modeling of the laser-induced thermotherapy. The well-known Pennes bioheat equation is coupled with the radiative transfer equation which describes the energy gain of the tumor tissue. It is shown, that the modeling of vaporization is important to match mathematical simulation with temperature measurements for ex-vivo porcine liver.
+
+         .. tab-item:: BibTeX source
+ 
+            .. code-block:: bibtex
+
+
+		        @InProceedings{Blauth2022Mathematical,
+		          author    = {Blauth, Sebastian and H{\"u}bner, Frank and Leith{\"a}user, Christian and Siedow, Norbert and Vogl, Thomas J.},
+		          booktitle = {Modeling, Simulation and Optimization in the Health- and Energy-Sector},
+		          title     = {Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors},
+		          year      = {2022},
+		          address   = {Cham},
+		          editor    = {Pinnau, Ren{\'e} and Gauger, Nicolas R. and Klar, Axel},
+		          pages     = {3--23},
+		          publisher = {Springer International Publishing},
+		          doi       = {10.1007/978-3-030-99983-4_1},
+		          isbn      = {978-3-030-99983-4},
 		        }
 
 
