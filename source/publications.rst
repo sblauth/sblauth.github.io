@@ -5,6 +5,11 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
+#. | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
+   | *with Marco Baldan, Sebastian Osterroth, Christian Leithäuser, Ulf-Peter Apfel, Julian Kleinhaus, Kevinjeorjios Pellumbi, Daniel Siegmund, Konrad Steiner, and Michael Bortz*
+   | submitted, 2023
+
+
 #. | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
    | submitted, 2023
    | :bdg-link-secondary-line:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>`
