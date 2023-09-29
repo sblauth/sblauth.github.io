@@ -5,10 +5,36 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
+#. | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
+   | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
+   | submitted, 2023
+
 #. | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
    | *with Marco Baldan, Sebastian Osterroth, Christian Leithäuser, Ulf-Peter Apfel, Julian Kleinhaus, Kevinjeorjios Pellumbi, Daniel Siegmund, Konrad Steiner, and Michael Bortz*
    | submitted, 2023
    | :bdg-link-secondary-line:`preprint: arXiv:2309.13958 <https://arxiv.org/abs/2309.13958>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+                      We consider the shape optimization of flow fields for electrochemical cells. Our goal is to improve the cell by modifying the shape of its flow field. To do so, we introduce simulation models of the flow field with and without the porous transport layer. The latter is less detailed and used for shape optimization, whereas the former is used to validate our obtained results. We propose three objective functions based on the uniformity of the flow and residence time as well as the wall shear stress. After considering the respective optimization problems separately, we use techniques from multi-criteria optimization to treat the conflicting objective functions systematically. Our results highlight the potential of our approach for generating novel flow field designs for electrochemical cells.
+
+         .. tab-item:: BibTeX source
+
+            .. code-block:: bibtex
+
+			   @Misc{Blauth2023Multi,
+			     author        = {Sebastian Blauth and Marco Baldan and Sebastian Osterroth and Christian Leithäuser and Ulf-Peter Apfel and Julian Kleinhaus and Kevinjeorkios Pellumbi and Daniel Siegmund and Konrad Steiner and Michael Bortz},
+			     title         = {Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells},
+			     year          = {2023},
+			     archiveprefix = {arXiv},
+			     eprint        = {2309.13958},
+			     primaryclass  = {math.OC},
+			   }
 
 
 #. | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
