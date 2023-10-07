@@ -4,12 +4,6 @@ Conferences & Workshops
 Upcoming activities
 -------------------
 
-2023
-^^^^
-
-* | **Mathematical Methods in Process Engineering - Digitization in the Chemical Industry**
-  | *Talk: Simulation-based Shape Design for Chemical Reactors*
-  | October 05-06, 2023, Kaiserslautern, Germany
 
 
 Past activities
@@ -17,6 +11,9 @@ Past activities
 
 2023
 ^^^^
+* | **Mathematical Methods in Process Engineering - Modeling, Simulation, Optimization**
+  | *Talk: Simulation-based Shape Design for Chemical Reactors*
+  | October 05-06, 2023, Kaiserslautern, Germany
 
 * | **Kaiserslautern Applied and Industrial Mathematics Days (KLAIM) 2023**
   | *Talk: Automated Solution of Shape Optimization Problems with cashocs*
