@@ -72,7 +72,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Quasi-Newton methods for topology optimization using a level-set method**
    | *with Kevin Sturm*
-   | Structural and Multidisciplinary Optimization 66(9), 2023
+   | Structural and Multidisciplinary Optimization 66(9) 2023
    | :bdg-link-primary-line:`doi: 10.1007/s00158-023-03653-2 <https://doi.org/10.1007/s00158-023-03653-2>` :bdg-link-secondary-line:`preprint: arXiv:2303.15070 <https://arxiv.org/abs/2303.15070>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/quasi_newton_methods_for_topology_optimization>`
 
    .. dropdown:: Additional resources
@@ -107,7 +107,7 @@ Articles in Peer-Reviewed Journals
 
 
 #. | **Space Mapping for PDE Constrained Shape Optimization**
-   | SIAM Journal on Optimization 33(3), 2023
+   | SIAM Journal on Optimization 33(3) 2023
    | :bdg-link-primary-line:`doi: 10.1137/22M1515665 <https://doi.org/10.1137/22M1515665>` :bdg-link-secondary-line:`preprint: arXiv:2208.05747 <https://arxiv.org/abs/2208.05747>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/space_mapping_shape_optimization>`
    
    .. dropdown:: Additional resources
@@ -144,7 +144,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Asymptotic analysis for optimal control of the Cattaneo model**
    | *with René Pinnau, Matthias Andres, and Claudia Totzeck*
-   | Journal of Mathematical Analysis and Applications 527(1), 2023
+   | Journal of Mathematical Analysis and Applications 527(1) 2023
    | :bdg-link-primary-line:`doi: 10.1016/j.jmaa.2023.127375 <https://doi.org/10.1016/j.jmaa.2023.127375>` :bdg-link-secondary-line:`preprint: arXiv:2302.07630 <https://arxiv.org/abs/2302.07630>`
 
    .. dropdown:: Additional resources
@@ -178,7 +178,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Validating a simulation model for laser-induced thermotherapy using MR thermometry**
    | *with Frank Hübner, Christian Leithäuser, Roland Schreiner, Norbert Siedow, and Thomas Vogl*
-   | International Journal of Hyperthermia 39(1), 2022
+   | International Journal of Hyperthermia 39(1) 2022
    | :bdg-link-primary-line:`doi: 10.1080/02656736.2022.2129102 <https://doi.org/10.1080/02656736.2022.2129102>` :bdg-link-secondary-line:`preprint: arXiv:2204.07502 <https://arxiv.org/abs/2204.07502>`
 
    .. dropdown:: Additional resources
@@ -224,7 +224,7 @@ Articles in Peer-Reviewed Journals
 
 
 #. | **Nonlinear Conjugate Gradient Methods for PDE Constrained Shape Optimization Based on Steklov-Poincaré-Type Metrics**
-   | SIAM Journal on Optimization 31(3), 2021
+   | SIAM Journal on Optimization 31(3) 2021
    | :bdg-link-primary-line:`doi: 10.1137/20M1367738 <https://doi.org/10.1137/20M1367738>` :bdg-link-secondary-line:`preprint: arXiv:2007.12891 <https://arxiv.org/abs/2007.12891>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/nonlinear_shape_cg_benchmark>`
 
    .. dropdown:: Additional resources
@@ -257,7 +257,7 @@ Articles in Peer-Reviewed Journals
 
 
 #. | **cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
-   | SoftwareX 13, 2021
+   | SoftwareX 13 2021
    | :bdg-link-primary-line:`doi: 10.1016/j.softx.2020.100646 <https://doi.org/10.1016/j.softx.2020.100646>` :bdg-link-secondary-line:`preprint: arXiv:2010.02048 <https://arxiv.org/abs/2010.02048>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>`
 
    .. dropdown:: Additional resources
@@ -290,7 +290,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Optimal control of the Sabatier process in microchannel reactors**
    | *with Christian Leithäuser and René Pinnau*
-   | Journal of Engineering Mathematics 128(1), 2021
+   | Journal of Engineering Mathematics 128(1) 2021
    | :bdg-link-primary-line:`doi: 10.1007/s10665-021-10134-2 <https://doi.org/10.1007/s10665-021-10134-2>` :bdg-link-secondary-line:`preprint: arXiv:2007.12457 <https://arxiv.org/abs/2007.12457>`
 
    .. dropdown:: Additional resources
@@ -324,7 +324,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Model hierarchy for the shape optimization of a microchannel cooling system**
    | *with Christian Leithäuser and René Pinnau*
-   | ZAMM Journal of Applied Mathematics and Mechanics 101(4), 2021
+   | ZAMM Journal of Applied Mathematics and Mechanics 101(4) 2021
    | :bdg-link-primary-line:`doi: 10.1002/zamm.202000166 <https://doi.org/10.1002/zamm.202000166>` :bdg-link-secondary-line:`preprint: arXiv:1911.06819 <https://arxiv.org/abs/1911.06819>`
 
    .. dropdown:: Additional resources
@@ -359,7 +359,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Shape sensitivity analysis for a microchannel cooling system**
    | *with Christian Leithäuser and René Pinnau*
-   | Journal of Mathematical Analysis and Applications 492(2), 2020
+   | Journal of Mathematical Analysis and Applications 492(2) 2020
    | :bdg-link-primary-line:`doi: 10.1016/j.jmaa.2020.124476 <https://doi.org/10.1016/j.jmaa.2020.124476>` :bdg-link-secondary-line:`preprint: arXiv:2005.02754 <https://arxiv.org/abs/2005.02754>`
 
    .. dropdown:: Additional resources
@@ -392,7 +392,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Identification of the blood perfusion rate for laser-induced thermotherapy in the liver**
    | *with Matthias Andres, Christian Leithäuser, and Norbert Siedow*
-   | Journal of Mathematics in Industry 10, 2020
+   | Journal of Mathematics in Industry 10 2020
    | :bdg-link-primary-line:`doi: 10.1186/s13362-020-00085-1 <https://doi.org/10.1186/s13362-020-00085-1>` :bdg-link-secondary-line:`preprint: arXiv:1910.09199 <https://arxiv.org/abs/1910.09199>`
 
    .. dropdown:: Additional resources
@@ -424,7 +424,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Mathematical modeling of vaporization during laser-induced thermotherapy in liver tissue**
    | *with Frank Hübner, Christian Leithäuser, Norbert Siedow, and Thomas Vogl*
-   | Journal of Mathematics in Industry 10, 2020
+   | Journal of Mathematics in Industry 10 2020
    | :bdg-link-primary-line:`doi: 10.1186/s13362-020-00082-4 <https://doi.org/10.1186/s13362-020-00082-4>` :bdg-link-secondary-line:`preprint: arXiv:1910.12515 <https://arxiv.org/abs/1910.12515>`
 
    .. dropdown:: Additional resources
@@ -459,7 +459,7 @@ Conference Proceedings
 
 #. | **Topology Optimization for Uniform Flow Distribution in Electrolysis Cells**
    | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
-   | Proceedings in Applied Mathematics and Mechanics, 2023
+   | Proceedings in Applied Mathematics and Mechanics 2023
    | :bdg-link-primary-line:`doi: 10.1002/pamm.202300163 <https://doi.org/10.1002/pamm.202300163>` :bdg-link-secondary-line:`preprint: arXiv:2308.01826 <https://arxiv.org/abs/2308.01826>`
 
    .. dropdown:: Additional resources
@@ -486,7 +486,7 @@ Conference Proceedings
 
 
 #. | **Shape Optimization with Nonlinear Conjugate Gradient Methods**
-   | Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1 (Lecture Notes in Computational Science and Engineering 137), 2023
+   | Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1 (Lecture Notes in Computational Science and Engineering 137) 2023
    | :bdg-link-primary-line:`doi: 10.1007/978-3-031-20432-6_9 <https://doi.org/10.1007/978-3-031-20432-6_9>` :bdg-link-secondary-line:`preprint: arXiv:2201.05394 <https://arxiv.org/abs/2201.05394>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/nonlinear_shape_cg_benchmark>`
 
    .. dropdown:: Additional resources
@@ -518,7 +518,7 @@ Conference Proceedings
 
 #. | **Optimal Control and Asymptotic Analysis of the Cattaneo Equation**
    | *with Matthias Andres, René Pinnau, and Claudia Totzeck*
-   | Proceedings in Applied Mathematics and Mechanics 19, 2019
+   | Proceedings in Applied Mathematics and Mechanics 19 2019
    | :bdg-link-primary-line:`doi: 10.1002/pamm.201900184 <https://doi.org/10.1002/pamm.201900184>`
 
    .. dropdown:: Additional resources
@@ -550,7 +550,7 @@ Conference Proceedings
 
 #. | **A Numerical Comparison of Consensus-Based Global Optimization to other Particle-based Global Optimization Schemes**
    | *with Claudia Totzeck, René Pinnau, and Steffen Schotthöfer*
-   | Proceedings in Applied Mathematics and Mechanics 18, 2018
+   | Proceedings in Applied Mathematics and Mechanics 18 2018
    | :bdg-link-primary-line:`doi: 10.1002/pamm.201800291 <https://doi.org/10.1002/pamm.201800291>`
 
    .. dropdown:: Additional resources
@@ -584,7 +584,7 @@ Academic Theses
 ---------------
 
 #. | **Adjoint-Based Shape Optimization and Optimal Control with Applications to Microchannel Systems**
-   | Fraunhofer Verlag, 2021, PhD Thesis
+   | Fraunhofer Verlag 2021, PhD Thesis
    | :bdg-link-primary-line:`doi: 10.24406/publica-fhg-283725 <https://doi.org/10.24406/publica-fhg-283725>`
 
    .. dropdown:: Additional resources
@@ -613,7 +613,7 @@ Academic Theses
 
 
 #. | **Optimal Control and Asymptotic Analysis of the Cattaneo Model**
-   | KLUEDO, 2018, Master's Thesis
+   | KLUEDO 2018, Master's Thesis
    | :bdg-link-primary-line:`urn:nbn:de:hbz:386-kluedo-53727 <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-53727>`
 
    .. dropdown:: Additional resources
@@ -681,7 +681,7 @@ Others
 
 #. | **MINT-EC-Girls-Camp: Math-Talent-School**
    | *with Lena Leiß, Stefan Ruzika, Thomas Jung, Andrea Meier, and Robert Sicks*
-   | KOMMS Reports (Reports zur Mathematischen Modellierung in MINT-Projekten in der Schule) 9, 2019
+   | KOMMS Reports (Reports zur Mathematischen Modellierung in MINT-Projekten in der Schule) 9 2019
    | :bdg-link-primary-line:`urn:nbn:de:hbz:386-kluedo-57924 <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-57924>`
 
    .. dropdown:: Additional resources
