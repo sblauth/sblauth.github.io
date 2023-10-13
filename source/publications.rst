@@ -5,6 +5,10 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
+#. | **Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling**
+   | *with Marco Baldan, Dušan Bošković, Christian Leithäuser, Alexander Mendl, Ligia Radulescu, Maud Schwarzer, Heinrich Wegner, and Michael Bortz*
+   | submitted, 2023
+
 #. | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
    | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
    | submitted, 2023
