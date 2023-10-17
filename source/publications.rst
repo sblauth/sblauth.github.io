@@ -8,10 +8,35 @@ Submitted Articles / Preprints
 #. | **Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling**
    | *with Marco Baldan, Dušan Bošković, Christian Leithäuser, Alexander Mendl, Ligia Radulescu, Maud Schwarzer, Heinrich Wegner, and Michael Bortz*
    | submitted, 2023
+   | :bdg-link-secondary-line:`preprint: arXiv:2310.09315 <https://arxiv.org/abs/2310.09315>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+                           Diazo compounds are gathering interest for their potential in promoting greener synthesis routes. We investigate, at a lab-scale, the continuous synthesis of diazo acetonitrile (DAN) using a micro-structured flow reactor and a flow reaction calorimeter. Data concerning DAN formation in the former, and relative to reaction heat and gas flow rate in the latter, are collected. We present both a physical and a grey-box simulation model, both of which are calibrated to our measurements. Both models provide valuable insights into the DAN synthesis. The grey-box approach is useful to incorporate the complex chemical reaction pathways for DAN synthesis and decomposition that are currently hard to address with the physical model. 
+
+         .. tab-item:: BibTeX source
+
+            .. code-block:: bibtex
+
+			   @Misc{Baldan2023Continuous,
+			     author        = {Marco Baldan and Sebastian Blauth and Dušan Bošković and Christian Leithäuser and Alexander Mendl and Ligia Radulescu and Maud Schwarzer and Heinrich Wegner and Michael Bortz},
+			     title         = {Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling},
+			     year          = {2023},
+			     archiveprefix = {arXiv},
+			     eprint        = {2310.09315},
+			     primaryclass  = {math.OC},
+			   }
+
 
 #. | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
    | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
    | submitted, 2023
+
 
 #. | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
    | *with Marco Baldan, Sebastian Osterroth, Christian Leithäuser, Ulf-Peter Apfel, Julian Kleinhaus, Kevinjeorjios Pellumbi, Daniel Siegmund, Konrad Steiner, and Michael Bortz*
