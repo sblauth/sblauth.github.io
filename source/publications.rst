@@ -531,17 +531,18 @@ Conference Proceedings
  
             .. code-block:: bibtex
 
-			  @InProceedings{Blauth2023Shape,
+			  @InCollection{Blauth2023Shape,
 			    author    = {Blauth, Sebastian},
-			    booktitle = {Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1},
-			    title     = {Shape Optimization with Nonlinear Conjugate Gradient Methods},
+			    booktitle = {Spectral and {H}igh {O}rder {M}ethods for {P}artial {D}ifferential {E}quations {ICOSAHOM} 2020+1},
+			    publisher = {Springer, Cham},
+			    title     = {Shape {O}ptimization with {N}onlinear {C}onjugate {G}radient {M}ethods},
 			    year      = {2023},
-			    address   = {Cham},
-			    editor    = {Melenk, Jens M. and Perugia, Ilaria and Sch{\"o}berl, Joachim and Schwab, Christoph},
+			    isbn      = {978-3-031-20431-9; 9783031204326},
 			    pages     = {169--181},
-			    publisher = {Springer International Publishing},
-			    doi       = {10.1007/978-3-031-20432-6_9},
-			    isbn      = {978-3-031-20432-6},
+			    series    = {Lect. Notes Comput. Sci. Eng.},
+			    volume    = {137},
+			    doi       = {10.1007/978-3-031-20432-6\_9},
+			    mrclass   = {99-06},
 			  }
 
 
