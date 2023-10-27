@@ -12,8 +12,8 @@ Welcome!
    :maxdepth: 1
    :hidden:
 
-   CV <cv>
    Publications <publications>
+   CV <cv>
    Research Interests <research_interests>
    Conferences & Workshops <conferences>
    Contact <contact>
