@@ -488,7 +488,7 @@ Conference Proceedings
 
 #. | **Topology Optimization for Uniform Flow Distribution in Electrolysis Cells**
    | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
-   | Proceedings in Applied Mathematics and Mechanics 2023
+   | Proceedings in Applied Mathematics and Mechanics 23(3) 2023
    | :bdg-link-primary-line:`doi: 10.1002/pamm.202300163 <https://doi.org/10.1002/pamm.202300163>` :bdg-link-secondary-line:`preprint: arXiv:2308.01826 <https://arxiv.org/abs/2308.01826>`
 
    .. dropdown:: Additional resources
@@ -504,14 +504,16 @@ Conference Proceedings
 
             .. code-block:: bibtex
 
-		      @Article{Baeck2023Topology,
-		        author  = {Baeck, Leon and Blauth, Sebastian and Leithäuser, Christian and Pinnau, René and Sturm, Kevin},
-		        journal = {PAMM},
-		        title   = {Topology optimization for uniform flow distribution in electrolysis cells},
-		        year    = {2023},
-		        pages   = {e202300163},
-		        doi     = {https://doi.org/10.1002/pamm.202300163},
-		      }
+			  @Article{Baeck2023Topology,
+			    author  = {Baeck, Leon and Blauth, Sebastian and Leithäuser, Christian and Pinnau, René and Sturm, Kevin},
+			    journal = {PAMM},
+			    title   = {Topology optimization for uniform flow distribution in electrolysis cells},
+			    year    = {2023},
+			    number  = {3},
+			    pages   = {e202300163},
+			    volume  = {23},
+			    doi     = {https://doi.org/10.1002/pamm.202300163},
+			  }
 
 
 #. | **Shape Optimization with Nonlinear Conjugate Gradient Methods**
@@ -548,7 +550,7 @@ Conference Proceedings
 
 #. | **Optimal Control and Asymptotic Analysis of the Cattaneo Equation**
    | *with Matthias Andres, René Pinnau, and Claudia Totzeck*
-   | Proceedings in Applied Mathematics and Mechanics 19 2019
+   | Proceedings in Applied Mathematics and Mechanics 19(1) 2019
    | :bdg-link-primary-line:`doi: 10.1002/pamm.201900184 <https://doi.org/10.1002/pamm.201900184>`
 
    .. dropdown:: Additional resources
@@ -580,7 +582,7 @@ Conference Proceedings
 
 #. | **A Numerical Comparison of Consensus-Based Global Optimization to other Particle-based Global Optimization Schemes**
    | *with Claudia Totzeck, René Pinnau, and Steffen Schotthöfer*
-   | Proceedings in Applied Mathematics and Mechanics 18 2018
+   | Proceedings in Applied Mathematics and Mechanics 18(1) 2018
    | :bdg-link-primary-line:`doi: 10.1002/pamm.201800291 <https://doi.org/10.1002/pamm.201800291>`
 
    .. dropdown:: Additional resources
