@@ -36,6 +36,33 @@ Submitted Articles / Preprints
 #. | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
    | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
    | submitted, 2023
+   | :bdg-link-secondary-line:`preprint: hal-04265601 <https://hal.science/hal-04265601>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+                       A novel reactor concept for ammonia decomposition utilizing tail gas from a purification unit as heat supply is presented. The designed micro-structured reactor integrates both endothermic ammonia decomposition and exothermic tail gas combustion. The reactor and corresponding process are simulated using a mathematical multi-scale model, which combines the results of multiple detailed computational fluid dynamics simulations into a fast surrogate model. The latter is coupled with a process simulation software via a so-called container to simulate the entire process. The efficiency of the presented reactor concept is determined and benefits over alternative approaches are highlighted. 
+
+         .. tab-item:: BibTeX source
+
+            .. code-block:: bibtex
+
+			   @Misc{Blauth2023Multia,
+			     author      = {Blauth, Sebastian and Damay, Julie and Osterroth, Sebastian and Leith{\"a}user, Christian and Hofmann, Christian and Kolb, Gunther and Wichert, Martin and Steiner, Konrad and Bortz, Michael},
+			     title       = {{Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition}},
+			     year        = {2023},
+			     archiveprefix = {HAL},
+			     hal_id      = {hal-04265601},
+			     hal_version = {v1},
+			     keywords    = {Ammonia decomposition ; CFD simulation ; Hydrogen production ; Multi-scale simulation ; Process simulation},
+			     url         = {https://hal.science/hal-04265601},
+			   }
+
+
 
 
 #. | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
