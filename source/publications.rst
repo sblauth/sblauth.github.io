@@ -94,7 +94,7 @@ Submitted Articles / Preprints
 
 
 #. | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
-   | submitted, 2023
+   | accepted for publication in SoftwareX, 2023
    | :bdg-link-secondary-line:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>`
 
    .. dropdown:: Additional resources
