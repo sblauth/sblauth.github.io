@@ -93,9 +93,15 @@ Submitted Articles / Preprints
 			   }
 
 
+
+
+Articles in Peer-Reviewed Journals
+----------------------------------
+
+
 #. | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
-   | accepted for publication in SoftwareX, 2023
-   | :bdg-link-secondary-line:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>`
+   | SoftwareX 24 2023
+   | :bdg-link-primary-line:`doi: 10.1016/j.softx.2023.101577 <https://doi.org/10.1016/j.softx.2023.101577>` :bdg-link-secondary-line:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -110,21 +116,18 @@ Submitted Articles / Preprints
 
             .. code-block:: bibtex
 
-			   @Misc{Blauth2023Version,
-			     author        = {Sebastian Blauth},
-			     title         = {{Version 2.0 -- cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software}},
-			     year          = {2023},
-			     archiveprefix = {arXiv},
-			     eprint        = {2306.09828},
-			     primaryclass  = {math.OC},
+			   @Article{Blauth2023Version,
+			     author   = {Sebastian Blauth},
+			     journal  = {SoftwareX},
+			     title    = {Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software},
+			     year     = {2023},
+			     issn     = {2352-7110},
+			     pages    = {101577},
+			     volume   = {24},
+			     doi      = {https://doi.org/10.1016/j.softx.2023.101577},
+			     keywords = {PDE constrained optimization, Shape optimization, Topology optimization, Space mapping},
 			   }
 
-
-
-
-
-Articles in Peer-Reviewed Journals
-----------------------------------
 
 #. | **Quasi-Newton methods for topology optimization using a level-set method**
    | *with Kevin Sturm*
