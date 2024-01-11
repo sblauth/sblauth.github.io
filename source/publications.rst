@@ -8,7 +8,7 @@ Submitted Articles / Preprints
 #. | **Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling**
    | *with Marco Baldan, Dušan Bošković, Christian Leithäuser, Alexander Mendl, Ligia Radulescu, Maud Schwarzer, Heinrich Wegner, and Michael Bortz*
    | submitted, 2023
-   | :bdg-link-secondary-line:`preprint: arXiv:2310.09315 <https://arxiv.org/abs/2310.09315>`
+   | :bdg-link-secondary-line:`preprint: arXiv:2310.09315 <https://arxiv.org/abs/2310.09315>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -36,7 +36,7 @@ Submitted Articles / Preprints
 #. | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
    | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
    | submitted, 2023
-   | :bdg-link-secondary-line:`preprint: hal-04265601 <https://hal.science/hal-04265601>`
+   | :bdg-link-secondary-line:`preprint: hal-04265601 <https://hal.science/hal-04265601>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/fields-of-application/renewable-energy-sustainability/ammonpaktor.html>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -68,7 +68,7 @@ Submitted Articles / Preprints
 #. | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
    | *with Marco Baldan, Sebastian Osterroth, Christian Leithäuser, Ulf-Peter Apfel, Julian Kleinhaus, Kevinjeorjios Pellumbi, Daniel Siegmund, Konrad Steiner, and Michael Bortz*
    | submitted, 2023
-   | :bdg-link-secondary-line:`preprint: arXiv:2309.13958 <https://arxiv.org/abs/2309.13958>`
+   | :bdg-link-secondary-line:`preprint: arXiv:2309.13958 <https://arxiv.org/abs/2309.13958>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -101,7 +101,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
    | SoftwareX 24 2023
-   | :bdg-link-primary-line:`doi: 10.1016/j.softx.2023.101577 <https://doi.org/10.1016/j.softx.2023.101577>` :bdg-link-secondary-line:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>`
+   | :bdg-link-primary-line:`doi: 10.1016/j.softx.2023.101577 <https://doi.org/10.1016/j.softx.2023.101577>` :bdg-link-secondary-line:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/departments/tv/products-and-services/shape-optimization-cashocs-software.html>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -317,7 +317,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
    | SoftwareX 13 2021
-   | :bdg-link-primary-line:`doi: 10.1016/j.softx.2020.100646 <https://doi.org/10.1016/j.softx.2020.100646>` :bdg-link-secondary-line:`preprint: arXiv:2010.02048 <https://arxiv.org/abs/2010.02048>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>`
+   | :bdg-link-primary-line:`doi: 10.1016/j.softx.2020.100646 <https://doi.org/10.1016/j.softx.2020.100646>` :bdg-link-secondary-line:`preprint: arXiv:2010.02048 <https://arxiv.org/abs/2010.02048>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/departments/tv/products-and-services/shape-optimization-cashocs-software.html>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
