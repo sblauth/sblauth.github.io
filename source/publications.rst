@@ -5,6 +5,34 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
+#. | **Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells**
+   | *with Leon Baeck, Christian Leithäuser, René Pinnau, Kevin Sturm*
+   | submitted, 2024
+   | :bdg-link-secondary-line:`preprint: arXiv:2401.09230 <https://arxiv.org/abs/2401.09230>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+                       In this paper we consider the topology optimization for a bipolar plate of a hydrogen electrolysis cell. We use the Borvall-Petersson model to describe the fluid flow and derive a criterion for a uniform flow distribution in the bipolar plate. Furthermore, we introduce a novel deflation approach to compute multiple local minimizers of topology optimization problems. The approach is based on a penalty method that discourages convergence towards previously found solutions. Finally, we demonstrate this technique on the topology optimization for bipolar plates and show that multiple distinct local solutions can be found. 
+
+         .. tab-item:: BibTeX source
+
+            .. code-block:: bibtex
+
+			   @Misc{Baeck2024Computing,
+			     author        = {Leon Baeck and Sebastian Blauth and Christian Leithäuser and René Pinnau and Kevin Sturm},
+			     title         = {{Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells}},
+			     year          = {2024},
+			     archiveprefix = {arXiv},
+			     eprint        = {2401.09230},
+			     primaryclass  = {math.OC},
+			   }
+
+
 #. | **Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling**
    | *with Marco Baldan, Dušan Bošković, Christian Leithäuser, Alexander Mendl, Ligia Radulescu, Maud Schwarzer, Heinrich Wegner, and Michael Bortz*
    | submitted, 2023
