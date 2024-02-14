@@ -42,3 +42,15 @@ Professional Career
       - Research assistant, Fraunhofer ITWM
     * - 10/2015 - 08/2017
       - Research assistant, TU Kaiserslautern
+
+Awards and Scholarships
+-----------------------
+.. list-table::
+    :width: 100 %
+    :header-rows: 0
+    :align: left
+
+    * - 2022
+      - Fraunhofer ICT Dissertation Award 2022 (`further information <https://www.iuk.fraunhofer.de/en/about-our-group/ict-dissertation-award.html>`_)
+    * - 10/2017 - 09/2018
+      - Deutschlandstipendium via Math2Market
