@@ -3,6 +3,10 @@
 Contact
 =======
 
+.. figure::  portrait.jpg
+   :width: 300
+   :align: left
+
 | Sebastian Blauth
 | Fraunhofer Institute for Industrial Mathematics ITWM
 | Department Transport Processes
