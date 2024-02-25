@@ -5,10 +5,38 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
+#. | **Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells**
+   | *with Leon Baeck, Christian Leithäuser, René Pinnau, Kevin Sturm*
+   | submitted, 2024
+   | :bdg-link-secondary-line:`preprint: arXiv:2401.09230 <https://arxiv.org/abs/2401.09230>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+                       In this paper we consider the topology optimization for a bipolar plate of a hydrogen electrolysis cell. We use the Borvall-Petersson model to describe the fluid flow and derive a criterion for a uniform flow distribution in the bipolar plate. Furthermore, we introduce a novel deflation approach to compute multiple local minimizers of topology optimization problems. The approach is based on a penalty method that discourages convergence towards previously found solutions. Finally, we demonstrate this technique on the topology optimization for bipolar plates and show that multiple distinct local solutions can be found. 
+
+         .. tab-item:: BibTeX source
+
+            .. code-block:: bibtex
+
+			   @Misc{Baeck2024Computing,
+			     author        = {Leon Baeck and Sebastian Blauth and Christian Leithäuser and René Pinnau and Kevin Sturm},
+			     title         = {{Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells}},
+			     year          = {2024},
+			     archiveprefix = {arXiv},
+			     eprint        = {2401.09230},
+			     primaryclass  = {math.OC},
+			   }
+
+
 #. | **Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling**
    | *with Marco Baldan, Dušan Bošković, Christian Leithäuser, Alexander Mendl, Ligia Radulescu, Maud Schwarzer, Heinrich Wegner, and Michael Bortz*
    | submitted, 2023
-   | :bdg-link-secondary-line:`preprint: arXiv:2310.09315 <https://arxiv.org/abs/2310.09315>`
+   | :bdg-link-secondary-line:`preprint: arXiv:2310.09315 <https://arxiv.org/abs/2310.09315>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -25,7 +53,7 @@ Submitted Articles / Preprints
 
 			   @Misc{Baldan2023Continuous,
 			     author        = {Marco Baldan and Sebastian Blauth and Dušan Bošković and Christian Leithäuser and Alexander Mendl and Ligia Radulescu and Maud Schwarzer and Heinrich Wegner and Michael Bortz},
-			     title         = {Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling},
+			     title         = {{Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling}},
 			     year          = {2023},
 			     archiveprefix = {arXiv},
 			     eprint        = {2310.09315},
@@ -36,7 +64,7 @@ Submitted Articles / Preprints
 #. | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
    | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
    | submitted, 2023
-   | :bdg-link-secondary-line:`preprint: hal-04265601 <https://hal.science/hal-04265601>`
+   | :bdg-link-secondary-line:`preprint: hal-04265601 <https://hal.science/hal-04265601>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/fields-of-application/renewable-energy-sustainability/ammonpaktor.html>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -68,7 +96,7 @@ Submitted Articles / Preprints
 #. | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
    | *with Marco Baldan, Sebastian Osterroth, Christian Leithäuser, Ulf-Peter Apfel, Julian Kleinhaus, Kevinjeorjios Pellumbi, Daniel Siegmund, Konrad Steiner, and Michael Bortz*
    | submitted, 2023
-   | :bdg-link-secondary-line:`preprint: arXiv:2309.13958 <https://arxiv.org/abs/2309.13958>`
+   | :bdg-link-secondary-line:`preprint: arXiv:2309.13958 <https://arxiv.org/abs/2309.13958>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -85,7 +113,7 @@ Submitted Articles / Preprints
 
 			   @Misc{Blauth2023Multi,
 			     author        = {Sebastian Blauth and Marco Baldan and Sebastian Osterroth and Christian Leithäuser and Ulf-Peter Apfel and Julian Kleinhaus and Kevinjeorkios Pellumbi and Daniel Siegmund and Konrad Steiner and Michael Bortz},
-			     title         = {Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells},
+			     title         = {{Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells}},
 			     year          = {2023},
 			     archiveprefix = {arXiv},
 			     eprint        = {2309.13958},
@@ -101,7 +129,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
    | SoftwareX 24 2023
-   | :bdg-link-primary-line:`doi: 10.1016/j.softx.2023.101577 <https://doi.org/10.1016/j.softx.2023.101577>` :bdg-link-secondary-line:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>`
+   | :bdg-link-primary-line:`doi: 10.1016/j.softx.2023.101577 <https://doi.org/10.1016/j.softx.2023.101577>` :bdg-link-secondary-line:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/departments/tv/products-and-services/shape-optimization-cashocs-software.html>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -119,7 +147,7 @@ Articles in Peer-Reviewed Journals
 			   @Article{Blauth2023Version,
 			     author   = {Sebastian Blauth},
 			     journal  = {SoftwareX},
-			     title    = {Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software},
+			     title    = {{Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software}},
 			     year     = {2023},
 			     issn     = {2352-7110},
 			     pages    = {101577},
@@ -150,7 +178,7 @@ Articles in Peer-Reviewed Journals
 		      @Article{Blauth2023Quasi,
 		        author   = {Blauth, Sebastian and Sturm, Kevin},
 		        journal  = {Struct. Multidiscip. Optim.},
-		        title    = {Quasi-{N}ewton methods for topology optimization using a level-set method},
+		        title    = {{Quasi-Newton methods for topology optimization using a level-set method}},
 		        year     = {2023},
 		        issn     = {1615-147X,1615-1488},
 		        number   = {9},
@@ -186,7 +214,7 @@ Articles in Peer-Reviewed Journals
 		      @Article{Blauth2023Space,
 		        author   = {Blauth, Sebastian},
 		        journal  = {SIAM J. Optim.},
-		        title    = {Space {M}apping for {PDE} {C}onstrained {S}hape {O}ptimization},
+		        title    = {{Space Mapping for PDE Constrained Shape Optimization}},
 		        year     = {2023},
 		        issn     = {1052-6234,1095-7189},
 		        number   = {3},
@@ -222,7 +250,7 @@ Articles in Peer-Reviewed Journals
 		      @Article{Blauth2023Asymptotic,
 		        author   = {Blauth, Sebastian and Pinnau, Ren\'{e} and Andres, Matthias and Totzeck, Claudia},
 		        journal  = {J. Math. Anal. Appl.},
-		        title    = {Asymptotic analysis for optimal control of the {C}attaneo model},
+		        title    = {{Asymptotic analysis for optimal control of the Cattaneo model}},
 		        year     = {2023},
 		        issn     = {0022-247X,1096-0813},
 		        number   = {1},
@@ -271,7 +299,7 @@ Articles in Peer-Reviewed Journals
 		      @Article{Huebner2022Validating,
 		        author    = {Frank Hübner and Sebastian Blauth and Christian Leithäuser and Roland Schreiner and Norbert Siedow and Thomas J. Vogl},
 		        journal   = {International Journal of Hyperthermia},
-		        title     = {Validating a simulation model for laser-induced thermotherapy using MR thermometry},
+		        title     = {{Validating a simulation model for laser-induced thermotherapy using MR thermometry}},
 		        year      = {2022},
 		        number    = {1},
 		        pages     = {1315-1326},
@@ -317,7 +345,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
    | SoftwareX 13 2021
-   | :bdg-link-primary-line:`doi: 10.1016/j.softx.2020.100646 <https://doi.org/10.1016/j.softx.2020.100646>` :bdg-link-secondary-line:`preprint: arXiv:2010.02048 <https://arxiv.org/abs/2010.02048>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>`
+   | :bdg-link-primary-line:`doi: 10.1016/j.softx.2020.100646 <https://doi.org/10.1016/j.softx.2020.100646>` :bdg-link-secondary-line:`preprint: arXiv:2010.02048 <https://arxiv.org/abs/2010.02048>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/departments/tv/products-and-services/shape-optimization-cashocs-software.html>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
@@ -369,7 +397,7 @@ Articles in Peer-Reviewed Journals
 		      @Article{Blauth2021Optimal,
 		        author   = {Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e}},
 		        journal  = {J. Engrg. Math.},
-		        title    = {Optimal control of the {S}abatier process in microchannel reactors},
+		        title    = {{Optimal control of the Sabatier process in microchannel reactors}},
 		        year     = {2021},
 		        issn     = {0022-0833,1573-2703},
 		        pages    = {Paper No. 19, 28},
@@ -403,7 +431,7 @@ Articles in Peer-Reviewed Journals
 		      @Article{Blauth2021Model,
 		        author   = {Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e}},
 		        journal  = {ZAMM Z. Angew. Math. Mech.},
-		        title    = {Model hierarchy for the shape optimization of a microchannel cooling system},
+		        title    = {{Model hierarchy for the shape optimization of a microchannel cooling system}},
 		        year     = {2021},
 		        issn     = {0044-2267,1521-4001},
 		        number   = {4},
@@ -437,7 +465,7 @@ Articles in Peer-Reviewed Journals
 		      @Article{Blauth2020Shape,
 		        author   = {Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e}},
 		        journal  = {J. Math. Anal. Appl.},
-		        title    = {Shape sensitivity analysis for a microchannel cooling system},
+		        title    = {{Shape sensitivity analysis for a microchannel cooling system}},
 		        year     = {2020},
 		        issn     = {0022-247X},
 		        number   = {2},
@@ -471,7 +499,7 @@ Articles in Peer-Reviewed Journals
 		      @Article{Andres2020Identification,
 		        author   = {Andres, Matthias and Blauth, Sebastian and Leith\"{a}user, Christian and Siedow, Norbert},
 		        journal  = {J. Math. Ind.},
-		        title    = {Identification of the blood perfusion rate for laser-induced thermotherapy in the liver},
+		        title    = {{Identification of the blood perfusion rate for laser-induced thermotherapy in the liver}},
 		        year     = {2020},
 		        volume   = {10},
 		        doi      = {10.1186/s13362-020-00085-1},
@@ -503,7 +531,7 @@ Articles in Peer-Reviewed Journals
 		      @Article{Blauth2020Mathematical,
 		        author   = {Blauth, Sebastian and H\"{u}bner, Frank and Leith\"{a}user, Christian and Siedow, Norbert and Vogl, Thomas J.},
 		        journal  = {J. Math. Ind.},
-		        title    = {Mathematical modeling of vaporization during laser-induced thermotherapy in liver tissue},
+		        title    = {{Mathematical modeling of vaporization during laser-induced thermotherapy in liver tissue}},
 		        year     = {2020},
 		        volume   = {10},
 		        doi      = {10.1186/s13362-020-00082-4},
@@ -537,7 +565,7 @@ Conference Proceedings
 			  @Article{Baeck2023Topology,
 			    author  = {Baeck, Leon and Blauth, Sebastian and Leithäuser, Christian and Pinnau, René and Sturm, Kevin},
 			    journal = {PAMM},
-			    title   = {Topology optimization for uniform flow distribution in electrolysis cells},
+			    title   = {{Topology optimization for uniform flow distribution in electrolysis cells}},
 			    year    = {2023},
 			    number  = {3},
 			    pages   = {e202300163},
@@ -567,7 +595,7 @@ Conference Proceedings
 			    author    = {Blauth, Sebastian},
 			    booktitle = {Spectral and {H}igh {O}rder {M}ethods for {P}artial {D}ifferential {E}quations {ICOSAHOM} 2020+1},
 			    publisher = {Springer, Cham},
-			    title     = {Shape {O}ptimization with {N}onlinear {C}onjugate {G}radient {M}ethods},
+			    title     = {{Shape Optimization with Nonlinear Conjugate Gradient Methods}},
 			    year      = {2023},
 			    isbn      = {978-3-031-20431-9; 9783031204326},
 			    pages     = {169--181},
@@ -600,7 +628,7 @@ Conference Proceedings
 		        @Article{Blauth2019Optimal,
 		          author   = {Blauth, Sebastian and Andres, Matthias and Pinnau, Ren\'{e} and Totzeck, Claudia},
 		          journal  = {PAMM},
-		          title    = {Optimal Control and Asymptotic Analysis of the Cattaneo Equation},
+		          title    = {{Optimal Control and Asymptotic Analysis of the Cattaneo Equation}},
 		          year     = {2019},
 		          number   = {1},
 		          pages    = {e201900184},
@@ -632,7 +660,7 @@ Conference Proceedings
 		        @Article{Totzeck2018Numerical,
 		          author  = {Totzeck, Claudia and Pinnau, René and Blauth, Sebastian and Schotthöfer, Steffen},
 		          journal = {PAMM},
-		          title   = {A Numerical Comparison of Consensus-Based Global Optimization to other Particle-based Global Optimization Schemes},
+		          title   = {{A Numerical Comparison of Consensus-Based Global Optimization to other Particle-based Global Optimization Schemes}},
 		          year    = {2018},
 		          number  = {1},
 		          pages   = {e201800291},
@@ -666,7 +694,7 @@ Academic Theses
 		        @PhdThesis{Blauth2021Adjoint,
 		          author = {Blauth, Sebastian},
 		          school = {TU Kaiserslautern},
-		          title  = {{A}djoint-{B}ased {S}hape {O}ptimization and {O}ptimal {C}ontrol with {A}pplications to {M}icrochannel {S}ystems},
+		          title  = {{Adjoint-Based Shape Optimization and Optimal Control with Applications to Microchannel Systems}},
 		          year   = {2021},
 		          type   = {Dissertation},
 		          doi    = {10.24406/publica-fhg-283725},
@@ -727,7 +755,7 @@ Book Chapters
 		        @InProceedings{Blauth2022Mathematical,
 		          author    = {Blauth, Sebastian and H{\"u}bner, Frank and Leith{\"a}user, Christian and Siedow, Norbert and Vogl, Thomas J.},
 		          booktitle = {Modeling, Simulation and Optimization in the Health- and Energy-Sector},
-		          title     = {Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors},
+		          title     = {{Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors}},
 		          year      = {2022},
 		          address   = {Cham},
 		          editor    = {Pinnau, Ren{\'e} and Gauger, Nicolas R. and Klar, Axel},
@@ -762,7 +790,7 @@ Others
 
 		        @Article{Leiss2019MINT,
 		          author = {Lena Leiß and Stefan Ruzika and Sebastian Blauth and Thomas Jung and Andrea Maier and Robert Sicks},
-		          title  = {MINT-EC-Girls-Camp: Math-Talent-School},
+		          title  = {{MINT-EC-Girls-Camp: Math-Talent-School}},
 		          year   = {2019},
 		          url    = {http://nbn-resolving.de/urn:nbn:de:hbz:386-kluedo-57924},
 		        }
