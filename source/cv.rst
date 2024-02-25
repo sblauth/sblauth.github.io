@@ -51,6 +51,6 @@ Awards and Scholarships
     :align: left
 
     * - 2022
-      - Fraunhofer ICT Dissertation Award 2022 (`further information <https://www.iuk.fraunhofer.de/en/about-our-group/ict-dissertation-award.html>`_)
+      - Fraunhofer ICT Dissertation Award 2022 - First Prize (`further information <https://www.iuk.fraunhofer.de/en/about-our-group/ict-dissertation-award.html>`_)
     * - 10/2017 - 09/2018
       - Deutschlandstipendium via Math2Market
