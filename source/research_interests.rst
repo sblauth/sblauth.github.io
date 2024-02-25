@@ -9,12 +9,7 @@ Research Interests
 
    * In our group, we do not parametrize a shape but work directly with a given discretized geometry, i.e., a mesh, which we obtain from CAD data
 
-   * During the optimization, the location of the mesh nodes is optimized, resulting in a different geometry. This is shown in the video below
-
-   .. video:: _static/ogive.mp4
-      :loop:
-      :width: 750
-
+   * During the optimization, the location of the mesh nodes is optimized, resulting in a different geometry
 
    * At the moment, we are working on the following applications: Electrolysis and Fuel Cells, Chemical Reactors, Spinning Processes and Microchannel Systems, but we are always looking for new potential applications
 
