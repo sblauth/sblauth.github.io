@@ -30,6 +30,7 @@ exclude_patterns = ["_build"]
 extensions = [
     "sphinx_copybutton",
     "sphinx_design",
+    "sphinxcontrib.video",
 ]
 
 
