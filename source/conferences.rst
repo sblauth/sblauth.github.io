@@ -4,6 +4,12 @@ Conferences & Workshops
 Upcoming activities
 -------------------
 
+2024
+^^^^
+
+* | **ACHEMA 2024**
+  | *Talk: Multi-Criteria Shape Optimization of Flow Fields for Electrolyzers and Electrochemical Cells*
+  | June 10-14, 2024, Frankfurt am Main, Germany
 
 
 Past activities
