@@ -35,7 +35,7 @@ Submitted Articles / Preprints
 
 #. | **Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling**
    | *with Marco Baldan, Dušan Bošković, Christian Leithäuser, Alexander Mendl, Ligia Radulescu, Maud Schwarzer, Heinrich Wegner, and Michael Bortz*
-   | submitted, 2023
+   | accepted for publication in Chemie Ingenieur Technik, 2023
    | :bdg-link-secondary-line:`preprint: arXiv:2310.09315 <https://arxiv.org/abs/2310.09315>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
 
    .. dropdown:: Additional resources
