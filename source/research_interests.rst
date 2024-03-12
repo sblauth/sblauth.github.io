@@ -27,11 +27,11 @@ Research Interests
 
    * In this field, we have developed several novel solution algorithms and methods:
 
-      * Space Mapping Methods for Shape Optimization `<https://doi.org/10.1137/22M1515665>`_
+     * Space Mapping Methods for Shape Optimization `<https://doi.org/10.1137/22M1515665>`_
 
-      * Quasi-Newton Methods for Topology Optimization `<https://doi.org/10.1007/s00158-023-03653-2>`_
+     * Quasi-Newton Methods for Topology Optimization `<https://doi.org/10.1007/s00158-023-03653-2>`_
 
-      * Nonlinear Conjugate Gradient Methods for Shape Optimization `<https://doi.org/10.1137/20M1367738>`_
+     * Nonlinear Conjugate Gradient Methods for Shape Optimization `<https://doi.org/10.1137/20M1367738>`_
 
    * All of these approaches are implemented in our software cashocs
 

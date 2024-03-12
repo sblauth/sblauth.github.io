@@ -8,6 +8,7 @@ Academic Career
 
 .. list-table::
     :width: 100 %
+    :widths: 25, 75
     :header-rows: 0
     :align: left
 
@@ -33,6 +34,7 @@ Professional Career
 
 .. list-table::
     :width: 100 %
+    :widths: 25, 75
     :header-rows: 0
     :align: left
 
@@ -47,10 +49,11 @@ Awards and Scholarships
 -----------------------
 .. list-table::
     :width: 100 %
+    :widths: 25, 75
     :header-rows: 0
     :align: left
 
-    * - 2022
+    * - 02/2022
       - Fraunhofer ICT Dissertation Award 2022 - First Prize (`further information <https://www.iuk.fraunhofer.de/en/about-our-group/ict-dissertation-award.html>`_)
     * - 10/2017 - 09/2018
       - Deutschlandstipendium via Math2Market
