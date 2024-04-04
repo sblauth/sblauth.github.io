@@ -33,65 +33,6 @@ Submitted Articles / Preprints
 			   }
 
 
-#. | **Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling**
-   | *with Marco Baldan, Dušan Bošković, Christian Leithäuser, Alexander Mendl, Ligia Radulescu, Maud Schwarzer, Heinrich Wegner, and Michael Bortz*
-   | accepted for publication in Chemie Ingenieur Technik, 2023
-   | :bdg-link-primary-line:`doi: 10.1002/cite.202300191 <https://doi.org/10.1002/cite.202300191>` :bdg-link-secondary-line:`preprint: arXiv:2310.09315 <https://arxiv.org/abs/2310.09315>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
-
-   .. dropdown:: Additional resources
-      :icon: three-bars
-
-      .. tab-set::
-
-         .. tab-item:: Abstract
-
-                           Diazo compounds are gathering interest for their potential in promoting greener synthesis routes. We investigate, at a lab-scale, the continuous synthesis of diazo acetonitrile (DAN) using a micro-structured flow reactor and a flow reaction calorimeter. Data concerning DAN formation in the former, and relative to reaction heat and gas flow rate in the latter, are collected. We present both a physical and a grey-box simulation model, both of which are calibrated to our measurements. Both models provide valuable insights into the DAN synthesis. The grey-box approach is useful to incorporate the complex chemical reaction pathways for DAN synthesis and decomposition that are currently hard to address with the physical model. 
-
-         .. tab-item:: BibTeX source
-
-            .. code-block:: bibtex
-
-			   @Misc{Baldan2023Continuous,
-			     author        = {Marco Baldan and Sebastian Blauth and Dušan Bošković and Christian Leithäuser and Alexander Mendl and Ligia Radulescu and Maud Schwarzer and Heinrich Wegner and Michael Bortz},
-			     title         = {{Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling}},
-			     year          = {2023},
-			     archiveprefix = {arXiv},
-			     eprint        = {2310.09315},
-			     primaryclass  = {math.OC},
-			   }
-
-
-#. | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
-   | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
-   | accepted for publication in Chemie Ingenieur Technik, 2023
-   | :bdg-link-primary-line:`doi: 10.1002/cite.202300166 <https://doi.org/10.1002/cite.202300166>` :bdg-link-secondary-line:`preprint: hal-04265601 <https://hal.science/hal-04265601>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/fields-of-application/renewable-energy-sustainability/ammonpaktor.html>`
-
-   .. dropdown:: Additional resources
-      :icon: three-bars
-
-      .. tab-set::
-
-         .. tab-item:: Abstract
-
-                       A novel reactor concept for ammonia decomposition utilizing tail gas from a purification unit as heat supply is presented. The designed micro-structured reactor integrates both endothermic ammonia decomposition and exothermic tail gas combustion. The reactor and corresponding process are simulated using a mathematical multi-scale model, which combines the results of multiple detailed computational fluid dynamics simulations into a fast surrogate model. The latter is coupled with a process simulation software via a so-called container to simulate the entire process. The efficiency of the presented reactor concept is determined and benefits over alternative approaches are highlighted. 
-
-         .. tab-item:: BibTeX source
-
-            .. code-block:: bibtex
-
-			   @Misc{Blauth2023Multia,
-			     author      = {Blauth, Sebastian and Damay, Julie and Osterroth, Sebastian and Leith{\"a}user, Christian and Hofmann, Christian and Kolb, Gunther and Wichert, Martin and Steiner, Konrad and Bortz, Michael},
-			     title       = {{Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition}},
-			     year        = {2023},
-			     archiveprefix = {HAL},
-			     hal_id      = {hal-04265601},
-			     hal_version = {v1},
-			     keywords    = {Ammonia decomposition ; CFD simulation ; Hydrogen production ; Multi-scale simulation ; Process simulation},
-			     url         = {https://hal.science/hal-04265601},
-			   }
-
-
-
 
 #. | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
    | *with Marco Baldan, Sebastian Osterroth, Christian Leithäuser, Ulf-Peter Apfel, Julian Kleinhaus, Kevinjeorjios Pellumbi, Daniel Siegmund, Konrad Steiner, and Michael Bortz*
@@ -125,6 +66,68 @@ Submitted Articles / Preprints
 
 Articles in Peer-Reviewed Journals
 ----------------------------------
+
+
+#. | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
+   | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
+   | accepted for publication in Chemie Ingenieur Technik, 2023
+   | :bdg-link-primary-line:`doi: 10.1002/cite.202300166 <https://doi.org/10.1002/cite.202300166>` :bdg-link-secondary-line:`preprint: hal-04265601 <https://hal.science/hal-04265601>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/fields-of-application/renewable-energy-sustainability/ammonpaktor.html>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+                       A novel reactor concept for ammonia decomposition utilizing tail gas from a purification unit as heat supply is presented. The designed micro-structured reactor integrates both endothermic ammonia decomposition and exothermic tail gas combustion. The reactor and corresponding process are simulated using a mathematical multi-scale model, which combines the results of multiple detailed computational fluid dynamics simulations into a fast surrogate model. The latter is coupled with a process simulation software via a so-called container to simulate the entire process. The efficiency of the presented reactor concept is determined and benefits over alternative approaches are highlighted. 
+
+         .. tab-item:: BibTeX source
+
+            .. code-block:: bibtex
+
+			   @Article{Blauth2024Multi,
+			     author   = {Blauth, Sebastian and Damay, Julie and Osterroth, Sebastian and Leithäuser, Christian and Hofmann, Christian and Kolb, Gunther and Wichert, Martin and Steiner, Konrad and Bortz, Michael},
+			     journal  = {Chemie Ingenieur Technik},
+			     title    = {{Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition}},
+			     year     = {2024},
+			     number   = {n/a},
+			     volume   = {n/a},
+			     doi      = {https://doi.org/10.1002/cite.202300166},
+			     keywords = {Ammonia decomposition, Computational fluid dynamics simulation, Hydrogen production, Multi-scale simulation, Process simulation},
+			   }
+
+
+
+#. | **Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling**
+   | *with Marco Baldan, Dušan Bošković, Christian Leithäuser, Alexander Mendl, Ligia Radulescu, Maud Schwarzer, Heinrich Wegner, and Michael Bortz*
+   | accepted for publication in Chemie Ingenieur Technik, 2023
+   | :bdg-link-primary-line:`doi: 10.1002/cite.202300191 <https://doi.org/10.1002/cite.202300191>` :bdg-link-secondary-line:`preprint: arXiv:2310.09315 <https://arxiv.org/abs/2310.09315>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
+
+   .. dropdown:: Additional resources
+      :icon: three-bars
+
+      .. tab-set::
+
+         .. tab-item:: Abstract
+
+                           Diazo compounds are gathering interest for their potential in promoting greener synthesis routes. We investigate, at a lab-scale, the continuous synthesis of diazo acetonitrile (DAN) using a micro-structured flow reactor and a flow reaction calorimeter. Data concerning DAN formation in the former, and relative to reaction heat and gas flow rate in the latter, are collected. We present both a physical and a grey-box simulation model, both of which are calibrated to our measurements. Both models provide valuable insights into the DAN synthesis. The grey-box approach is useful to incorporate the complex chemical reaction pathways for DAN synthesis and decomposition that are currently hard to address with the physical model. 
+
+         .. tab-item:: BibTeX source
+
+            .. code-block:: bibtex
+
+			   @Article{Baldan2024Continuous,
+			     author   = {Baldan, Marco and Blauth, Sebastian and Bošković, Dušan and Leithäuser, Christian and Mendl, Alexander and Radulescu, Ligia and Schwarzer, Maud and Wegner, Heinrich and Bortz, Michael},
+			     journal  = {Chemie Ingenieur Technik},
+			     title    = {{Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling}},
+			     year     = {2024},
+			     number   = {n/a},
+			     volume   = {n/a},
+			     doi      = {https://doi.org/10.1002/cite.202300191},
+			     keywords = {Continuous flow chemistry, Diazo acetonitrile, Green chemistry, Grey-box modeling, Parameter identification},
+			   }
+
 
 
 #. | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
