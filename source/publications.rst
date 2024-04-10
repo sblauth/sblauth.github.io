@@ -34,9 +34,13 @@ Submitted Articles / Preprints
 
 
 
+
+Articles in Peer-Reviewed Journals
+----------------------------------
+
 #. | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
    | *with Marco Baldan, Sebastian Osterroth, Christian Leithäuser, Ulf-Peter Apfel, Julian Kleinhaus, Kevinjeorjios Pellumbi, Daniel Siegmund, Konrad Steiner, and Michael Bortz*
-   | accepted for publication in Chemie Ingenieur Technik, 2023
+   | Chemie Ingenieur Technik, 2024
    | :bdg-link-primary-line:`doi: 10.1002/cite.202300161 <https://doi.org/10.1002/cite.202300161>` :bdg-link-secondary-line:`preprint: arXiv:2309.13958 <https://arxiv.org/abs/2309.13958>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
 
    .. dropdown:: Additional resources
@@ -52,20 +56,18 @@ Submitted Articles / Preprints
 
             .. code-block:: bibtex
 
-			   @Misc{Blauth2023Multi,
-			     author        = {Sebastian Blauth and Marco Baldan and Sebastian Osterroth and Christian Leithäuser and Ulf-Peter Apfel and Julian Kleinhaus and Kevinjeorkios Pellumbi and Daniel Siegmund and Konrad Steiner and Michael Bortz},
-			     title         = {{Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells}},
-			     year          = {2023},
-			     archiveprefix = {arXiv},
-			     eprint        = {2309.13958},
-			     primaryclass  = {math.OC},
+			   @Article{Blauth2024Multi,
+			     author   = {Blauth, Sebastian and Baldan, Marco and Osterroth, Sebastian and Leithäuser, Christian and Apfel, Ulf-Peter and Kleinhaus, Julian and Pellumbi, Kevinjeorjios and Siegmund, Daniel and Steiner, Konrad and Bortz, Michael},
+			     journal  = {Chemie Ingenieur Technik},
+			     title    = {{Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells}},
+			     year     = {2024},
+			     number   = {n/a},
+			     volume   = {n/a},
+			     doi      = {https://doi.org/10.1002/cite.202300161},
+			     keywords = {CFD, Electrochemical cell, Multi-criteria optimization, Numerical optimization, Shape optimization},
 			   }
 
 
-
-
-Articles in Peer-Reviewed Journals
-----------------------------------
 
 
 #. | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
@@ -86,7 +88,7 @@ Articles in Peer-Reviewed Journals
 
             .. code-block:: bibtex
 
-			   @Article{Blauth2024Multi,
+			   @Article{Blauth2024Multia,
 			     author   = {Blauth, Sebastian and Damay, Julie and Osterroth, Sebastian and Leithäuser, Christian and Hofmann, Christian and Kolb, Gunther and Wichert, Martin and Steiner, Konrad and Bortz, Michael},
 			     journal  = {Chemie Ingenieur Technik},
 			     title    = {{Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition}},
