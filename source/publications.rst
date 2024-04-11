@@ -70,7 +70,6 @@ Articles in Peer-Reviewed Journals
 
 
 
-
 #. | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
    | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
    | Chemie Ingenieur Technik, 2024
