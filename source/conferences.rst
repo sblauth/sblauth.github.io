@@ -11,6 +11,9 @@ Upcoming activities
   | *Talk: Multi-Criteria Shape Optimization of Flow Fields for Electrolyzers and Electrochemical Cells*
   | June 10-14, 2024, Frankfurt am Main, Germany
 
+* | **FEniCS 2024**
+  | *Talk: PDE Constrained Shape Optimization with cashocs*
+  | June 12-14, 2024, Oslo, Norway
 
 Past activities
 ---------------
