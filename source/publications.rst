@@ -41,7 +41,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
    | *with Marco Baldan, Sebastian Osterroth, Christian Leithäuser, Ulf-Peter Apfel, Julian Kleinhaus, Kevinjeorjios Pellumbi, Daniel Siegmund, Konrad Steiner, and Michael Bortz*
-   | Chemie Ingenieur Technik, 2024
+   | Chemie Ingenieur Technik 96(5), 2024
    | :bdg-link-primary-line:`doi: 10.1002/cite.202300161 <https://doi.org/10.1002/cite.202300161>` :bdg-link-secondary-line:`preprint: arXiv:2309.13958 <https://arxiv.org/abs/2309.13958>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
 
    .. dropdown:: Additional resources
@@ -62,8 +62,9 @@ Articles in Peer-Reviewed Journals
 			     journal  = {Chemie Ingenieur Technik},
 			     title    = {{Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells}},
 			     year     = {2024},
-			     number   = {n/a},
-			     volume   = {n/a},
+			     number   = {5},
+			     pages    = {616-626},
+			     volume   = {96},
 			     doi      = {https://doi.org/10.1002/cite.202300161},
 			     keywords = {CFD, Electrochemical cell, Multi-criteria optimization, Numerical optimization, Shape optimization},
 			   }
@@ -72,7 +73,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
    | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
-   | Chemie Ingenieur Technik, 2024
+   | Chemie Ingenieur Technik 96(5), 2024
    | :bdg-link-primary-line:`doi: 10.1002/cite.202300166 <https://doi.org/10.1002/cite.202300166>` :bdg-link-secondary-line:`preprint: hal-04265601 <https://hal.science/hal-04265601>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/fields-of-application/renewable-energy-sustainability/ammonpaktor.html>`
 
    .. dropdown:: Additional resources
@@ -93,8 +94,9 @@ Articles in Peer-Reviewed Journals
 			     journal  = {Chemie Ingenieur Technik},
 			     title    = {{Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition}},
 			     year     = {2024},
-			     number   = {n/a},
-			     volume   = {n/a},
+			     number   = {5},
+			     pages    = {627-641},
+			     volume   = {96},
 			     doi      = {https://doi.org/10.1002/cite.202300166},
 			     keywords = {Ammonia decomposition, Computational fluid dynamics simulation, Hydrogen production, Multi-scale simulation, Process simulation},
 			   }
@@ -103,7 +105,7 @@ Articles in Peer-Reviewed Journals
 
 #. | **Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling**
    | *with Marco Baldan, Dušan Bošković, Christian Leithäuser, Alexander Mendl, Ligia Radulescu, Maud Schwarzer, Heinrich Wegner, and Michael Bortz*
-   | Chemie Ingenieur Technik, 2024
+   | Chemie Ingenieur Technik 96(5), 2024
    | :bdg-link-primary-line:`doi: 10.1002/cite.202300191 <https://doi.org/10.1002/cite.202300191>` :bdg-link-secondary-line:`preprint: arXiv:2310.09315 <https://arxiv.org/abs/2310.09315>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
 
    .. dropdown:: Additional resources
@@ -124,8 +126,9 @@ Articles in Peer-Reviewed Journals
 			     journal  = {Chemie Ingenieur Technik},
 			     title    = {{Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling}},
 			     year     = {2024},
-			     number   = {n/a},
-			     volume   = {n/a},
+			     number   = {5},
+			     pages    = {658-670},
+			     volume   = {96},
 			     doi      = {https://doi.org/10.1002/cite.202300191},
 			     keywords = {Continuous flow chemistry, Diazo acetonitrile, Green chemistry, Grey-box modeling, Parameter identification},
 			   }
