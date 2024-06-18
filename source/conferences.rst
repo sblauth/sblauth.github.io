@@ -4,6 +4,11 @@ Conferences & Workshops
 Upcoming activities
 -------------------
 
+
+Past activities
+---------------
+
+
 2024
 ^^^^
 
@@ -15,8 +20,6 @@ Upcoming activities
   | *Talk: PDE Constrained Shape Optimization with cashocs*
   | June 12-14, 2024, Oslo, Norway
 
-Past activities
----------------
 
 2023
 ^^^^
