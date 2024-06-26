@@ -5,6 +5,34 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
+
+#. | **A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells**
+   | *with Leon Baeck, Christian Leithäuser, René Pinnau, Kevin Sturm*
+   | submitted, 2024
+   | :bdg-link-secondary-line:`preprint: arXiv:2406.17491 <https://arxiv.org/abs/2406.17491>`
+   
+   .. dropdown:: Additional resources
+      :icon: three-bars
+      
+      .. tab-set::
+      
+         .. tab-item:: Abstract
+         
+                 Topology optimization problems usually feature multiple local minimizers. To guarantee convergence to local minimizers that perform best globally or to find local solutions that are desirable for practical applications due to easy manufacturability or aesthetic designs, it is important to compute multiple local minimizers of topology optimization problems. Existing methods typically rely on Newton-type solvers during the optimization process, which makes them unsuitable for sensitivity-based topology optimization. In this paper, we introduce a novel deflation approach to systematically find multiple local minimizers of general topology optimization problems. The approach is based on a penalization of previously found local solutions in the objective. We validate our approach on the so-called two-pipes five-holes example. Finally, we introduce a model for the topology optimization of bipolar plates of hydrogen electrolysis cells and demonstrate that our deflation approach enables the discovery of novel designs for such plates. 
+         
+         .. tab-item:: BibTeX source
+         
+            @Article{Baeck2024Novel,
+              author        = {Leon Baeck and Sebastian Blauth and Christian Leithäuser and René Pinnau and Kevin Sturm},
+              title         = {{A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells}},
+              year          = {2024},
+              archiveprefix = {arXiv},
+              eprint        = {2406.17491},
+              primaryclass  = {math.OC},
+            }
+
+
+
 #. | **Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells**
    | *with Leon Baeck, Christian Leithäuser, René Pinnau, Kevin Sturm*
    | submitted, 2024
