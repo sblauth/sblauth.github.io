@@ -88,10 +88,10 @@ html_theme_options = {
     ]
 }
 
-# html_sidebars = {"**": []}
-html_sidebars = {
-    "**": ["sidebar-nav-bs", "sidebar-ethical-ads"]
-}
+html_sidebars = {"**": []}
+#html_sidebars = {
+#    "**": ["sidebar-nav-bs", "sidebar-ethical-ads"]
+#}
 
 
 pygments_style = "sphinx"
