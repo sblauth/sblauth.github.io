@@ -22,14 +22,16 @@ Submitted Articles / Preprints
          
          .. tab-item:: BibTeX source
          
-            @Article{Baeck2024Novel,
-              author        = {Leon Baeck and Sebastian Blauth and Christian Leithäuser and René Pinnau and Kevin Sturm},
-              title         = {{A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells}},
-              year          = {2024},
-              archiveprefix = {arXiv},
-              eprint        = {2406.17491},
-              primaryclass  = {math.OC},
-            }
+            .. code-block:: bibtex
+         
+               @Article{Baeck2024Novel,
+                 author        = {Leon Baeck and Sebastian Blauth and Christian Leithäuser and René Pinnau and Kevin Sturm},
+                 title         = {{A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells}},
+                 year          = {2024},
+                 archiveprefix = {arXiv},
+                 eprint        = {2406.17491},
+                 primaryclass  = {math.OC},
+               }
 
 
 
