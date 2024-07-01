@@ -19,7 +19,7 @@ Past activities
 * | **FEniCS 2024**
   | *Talk: PDE Constrained Shape Optimization with cashocs*
   | June 12-14, 2024, Oslo, Norway
-  | Link to the recording of the talk: `<https://youtu.be/mZerFCRLtgQ?si=MDl3SmvU3GcQz-7w>`_
+  | Recording of the talk: `<https://youtu.be/mZerFCRLtgQ?si=MDl3SmvU3GcQz-7w>`_
 
 
 2023
