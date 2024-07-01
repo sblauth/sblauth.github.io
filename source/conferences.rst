@@ -12,14 +12,14 @@ Past activities
 2024
 ^^^^
 
-* | **ACHEMA 2024**
-  | *Talk: Multi-Criteria Shape Optimization of Flow Fields for Electrolyzers and Electrochemical Cells*
-  | June 10-14, 2024, Frankfurt am Main, Germany
-
 * | **FEniCS 2024**
   | *Talk: PDE Constrained Shape Optimization with cashocs*
   | June 12-14, 2024, Oslo, Norway
   | Recording of the talk: `<https://youtu.be/mZerFCRLtgQ?si=MDl3SmvU3GcQz-7w>`_
+
+* | **ACHEMA 2024**
+  | *Talk: Multi-Criteria Shape Optimization of Flow Fields for Electrolyzers and Electrochemical Cells*
+  | June 10-14, 2024, Frankfurt am Main, Germany
 
 
 2023
