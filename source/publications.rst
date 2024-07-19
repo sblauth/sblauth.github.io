@@ -25,7 +25,7 @@ Submitted Articles / Preprints
 
                 @Article{Blauth2024CFD,
                   author        = {Sebastian Blauth and Dennis Stucke and Mohamed Adel Ashour and Johannes Schnebele and Thomas Grützner and Christian Leithäuser},
-                  title         = {CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation},
+                  title         = {{CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation}},
                   year          = {2024},
                   archiveprefix = {arXiv},
                   eprint        = {2407.11099},
