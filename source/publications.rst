@@ -836,6 +836,12 @@ Book Chapters
 Others
 ------
 
+#. | **Optimization of hole patterns for homogeneous cooling**
+   | *with Walter Arne and Christian Leithäuser*
+   | accepted for publication in Man-Made Fibers International 2024
+
+
+
 #. | **MINT-EC-Girls-Camp: Math-Talent-School**
    | *with Lena Leiß, Stefan Ruzika, Thomas Jung, Andrea Meier, and Robert Sicks*
    | KOMMS Reports (Reports zur Mathematischen Modellierung in MINT-Projekten in der Schule) 9 2019
