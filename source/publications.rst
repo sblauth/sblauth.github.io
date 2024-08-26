@@ -101,7 +101,7 @@ Articles in Peer-Reviewed Journals
 #. | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
    | *with Marco Baldan, Sebastian Osterroth, Christian Leithäuser, Ulf-Peter Apfel, Julian Kleinhaus, Kevinjeorjios Pellumbi, Daniel Siegmund, Konrad Steiner, and Michael Bortz*
    | Chemie Ingenieur Technik 96(5), 2024
-   | :bdg-link-primary-line:`doi: 10.1002/cite.202300161 <https://doi.org/10.1002/cite.202300161>` :bdg-link-secondary-line:`preprint: arXiv:2309.13958 <https://arxiv.org/abs/2309.13958>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
+   | :bdg-link-primary-line:`doi: 10.1002/cite.202300161 <https://doi.org/10.1002/cite.202300161>` :bdg-link-secondary-line:`preprint: arXiv:2309.13958 <https://arxiv.org/abs/2309.13958>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/fields-of-application/renewable-energy-sustainability/electrochemical-cells.html>`
 
    .. dropdown:: Additional resources
       :icon: three-bars
