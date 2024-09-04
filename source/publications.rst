@@ -33,7 +33,6 @@ Submitted Articles / Preprints
                     archiveprefix = {arXiv},
                     eprint        = {2407.11099},
                     primaryclass  = {math.OC},
-                    url           = {https://arxiv.org/abs/2407.11099},
                     }
 
             .. tab-item:: Plain text citation
@@ -195,7 +194,7 @@ Articles in Peer-Reviewed Journals
                       number   = {5},
                       pages    = {627-641},
                       volume   = {96},
-                      doi      = {https://doi.org/10.1002/cite.202300166},
+                      doi      = {10.1002/cite.202300166},
                       keywords = {Ammonia decomposition, Computational fluid dynamics simulation, Hydrogen production, Multi-scale simulation, Process simulation},
                     }
 
@@ -237,7 +236,7 @@ Articles in Peer-Reviewed Journals
                       number   = {5},
                       pages    = {658-670},
                       volume   = {96},
-                      doi      = {https://doi.org/10.1002/cite.202300191},
+                      doi      = {10.1002/cite.202300191},
                       keywords = {Continuous flow chemistry, Diazo acetonitrile, Green chemistry, Grey-box modeling, Parameter identification},
                     }
 
@@ -278,7 +277,7 @@ Articles in Peer-Reviewed Journals
                       issn     = {2352-7110},
                       pages    = {101577},
                       volume   = {24},
-                      doi      = {https://doi.org/10.1016/j.softx.2023.101577},
+                      doi      = {10.1016/j.softx.2023.101577},
                       keywords = {PDE constrained optimization, Shape optimization, Topology optimization, Space mapping},
                     }
 
@@ -800,7 +799,7 @@ Conference Proceedings
                       number  = {3},
                       pages   = {e202300163},
                       volume  = {23},
-                      doi     = {https://doi.org/10.1002/pamm.202300163},
+                      doi     = {10.1002/pamm.202300163},
                     }
 
             .. tab-item:: Plain text citation
@@ -882,7 +881,7 @@ Conference Proceedings
                       number   = {1},
                       pages    = {e201900184},
                       volume   = {19},
-                      doi      = {https://doi.org/10.1002/pamm.201900184},
+                      doi      = {10.1002/pamm.201900184},
                     }
 
             .. tab-item:: Plain text citation
@@ -922,7 +921,7 @@ Conference Proceedings
                       number  = {1},
                       pages   = {e201800291},
                       volume  = {18},
-                      doi     = {https://doi.org/10.1002/pamm.201800291},
+                      doi     = {10.1002/pamm.201800291},
                     }
 
             .. tab-item:: Plain text citation
