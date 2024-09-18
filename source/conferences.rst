@@ -4,6 +4,12 @@ Conferences & Workshops
 Upcoming activities
 -------------------
 
+2024
+^^^^
+
+* | **Mathematical Methods in Process Engineering - Modeling, Simulation, Optimization**
+  | October 10-11, 2024, Kaiserslautern, Germany
+
 
 Past activities
 ---------------
