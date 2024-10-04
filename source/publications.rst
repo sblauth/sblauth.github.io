@@ -10,7 +10,7 @@ Submitted Articles / Preprints
 
 #.  | **CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation**
     | *with Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser*
-    | submitted, 2024
+    | accepted for publication in Chemical Engineering Science, 2024
     | :bdg-link-secondary-line:`preprint: arXiv:2407.11099 <https://arxiv.org/abs/2407.11099>`
 
     .. dropdown:: Additional resources
