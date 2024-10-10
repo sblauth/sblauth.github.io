@@ -8,44 +8,6 @@ Submitted Articles / Preprints
 
 
 
-#.  | **CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation**
-    | *with Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser*
-    | accepted for publication in Chemical Engineering Science, 2024
-    | :bdg-link-secondary-line:`preprint: arXiv:2407.11099 <https://arxiv.org/abs/2407.11099>`
-
-    .. dropdown:: Additional resources
-        :icon: three-bars
-
-        .. tab-set::
-
-            .. tab-item:: Abstract
-
-                Free-form shape optimization techniques are investigated to improve the separation efficiency of structured packings in laboratory-scale distillation columns. A simplified simulation model based on computational fluid dynamics (CFD) for the mass transfer in the distillation column is used and a corresponding shape optimization problem is formulated. The goal of the optimization is to increase the mass transfer in the column by changing the packing's shape, which has been previously used as criterion for increasing the separation efficiency of the column. The computational shape optimization yields promising results, with an increased mass transfer of nearly 20 %. For validation, the resulting optimized shape is additively manufactured using 3D-printing and investigated experimentally. The experimental results are in good agreement with the performance improvement predicted by the computational model, yielding an increase in separation efficiency of around 20 %.
-
-            .. tab-item:: BibTeX citation
-
-                .. code-block:: bibtex
-
-                    @Article{Blauth2024CFD,
-                    author        = {Sebastian Blauth and Dennis Stucke and Mohamed Adel Ashour and Johannes Schnebele and Thomas Grützner and Christian Leithäuser},
-                    title         = {{CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation}},
-                    year          = {2024},
-                    archiveprefix = {arXiv},
-                    eprint        = {2407.11099},
-                    primaryclass  = {math.OC},
-                    }
-
-            .. tab-item:: Plain text citation
-
-                .. code-block:: text
-
-                    CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation
-                    Sebastian Blauth, Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser
-                    Preprint on arXiv, 2024
-                    https://arxiv.org/abs/2407.11099
-
-
-
 #.  | **A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells**
     | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
     | submitted, 2024
@@ -125,6 +87,43 @@ Submitted Articles / Preprints
 Articles in Peer-Reviewed Journals
 ----------------------------------
 
+
+
+#.  | **CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation**
+    | *with Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser*
+    | Chemical Engineering Science, 2024
+    | :bdg-link-primary-line:`doi: 10.1016/j.ces.2024.120803 <https://doi.org/10.1016/j.ces.2024.120803>` :bdg-link-secondary-line:`preprint: arXiv:2407.11099 <https://arxiv.org/abs/2407.11099>`
+
+    .. dropdown:: Additional resources
+        :icon: three-bars
+
+        .. tab-set::
+
+            .. tab-item:: Abstract
+
+                Free-form shape optimization techniques are investigated to improve the separation efficiency of structured packings in laboratory-scale distillation columns. A simplified simulation model based on computational fluid dynamics (CFD) for the mass transfer in the distillation column is used and a corresponding shape optimization problem is formulated. The goal of the optimization is to increase the mass transfer in the column by changing the packing's shape, which has been previously used as criterion for increasing the separation efficiency of the column. The computational shape optimization yields promising results, with an increased mass transfer of nearly 20 %. For validation, the resulting optimized shape is additively manufactured using 3D-printing and investigated experimentally. The experimental results are in good agreement with the performance improvement predicted by the computational model, yielding an increase in separation efficiency of around 20 %.
+
+            .. tab-item:: BibTeX citation
+
+                .. code-block:: bibtex
+
+                    @Article{Blauth2024CFD,
+                      author  = {Sebastian Blauth and Dennis Stucke and Mohamed Adel Ashour and Johannes Schnebele and Thomas Grützner and Christian Leithäuser},
+                      journal = {Chemical Engineering Science},
+                      title   = {{CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation}},
+                      year    = {2024},
+                      issn    = {0009-2509},
+                      doi     = {10.1016/j.ces.2024.120803},
+                    }
+
+            .. tab-item:: Plain text citation
+
+                .. code-block:: text
+
+                    CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation
+                    Sebastian Blauth, Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser
+                    Chemical Engineering Science, 2024
+                    https://arxiv.org/abs/2407.11099
 
 
 #.  | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
