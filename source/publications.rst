@@ -123,7 +123,7 @@ Articles in Peer-Reviewed Journals
                     CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation
                     Sebastian Blauth, Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser
                     Chemical Engineering Science, 2024
-                    https://arxiv.org/abs/2407.11099
+                    https://doi.org/10.1016/j.ces.2024.120803
 
 
 #.  | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
