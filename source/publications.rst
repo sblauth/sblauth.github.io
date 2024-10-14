@@ -89,7 +89,7 @@ Articles in Peer-Reviewed Journals
 
 
 
-#.  | **CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation**
+#.  | **CFD-based shape optimization of structured packings for enhancing separation efficiency in distillation**
     | *with Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser*
     | Chemical Engineering Science 302, 2025
     | :bdg-link-primary-line:`doi: 10.1016/j.ces.2024.120803 <https://doi.org/10.1016/j.ces.2024.120803>` :bdg-link-secondary-line:`preprint: arXiv:2407.11099 <https://arxiv.org/abs/2407.11099>`
@@ -110,7 +110,7 @@ Articles in Peer-Reviewed Journals
                     @Article{Blauth2025CFD,
                       author  = {Sebastian Blauth and Dennis Stucke and Mohamed Adel Ashour and Johannes Schnebele and Thomas Grützner and Christian Leithäuser},
                       journal = {Chemical Engineering Science},
-                      title   = {{CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation}},
+                      title   = {{CFD-based shape optimization of structured packings for enhancing separation efficiency in distillation}},
                       year    = {2025},
                       issn    = {0009-2509},
                       volume  = {302},
@@ -121,7 +121,7 @@ Articles in Peer-Reviewed Journals
 
                 .. code-block:: text
 
-                    CFD-based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation
+                    CFD-based shape optimization of structured packings for enhancing separation efficiency in distillation
                     Sebastian Blauth, Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser
                     Chemical Engineering Science 302, 2025
                     https://doi.org/10.1016/j.ces.2024.120803
