@@ -10,6 +10,7 @@ Submitted Articles / Preprints
 #.  | **Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method**
     | *with Christian Leithäuser*
     | submitted, 2024
+    | :bdg-link-secondary-line:`preprint: arXiv:2412.00006 <https://arxiv.org/abs/2412.00006>`
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -23,11 +24,14 @@ Submitted Articles / Preprints
             .. tab-item:: BibTeX citation
 
                 .. code-block:: bibtex
-
                     @Article{Blauth2024Enforcing,
                       author        = {Sebastian Blauth and Christian Leithäuser},
                       title         = {{Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method}},
                       year          = {2024},
+                      archiveprefix = {arXiv},
+                      doi           = {10.48550/arXiv.2412.00006},
+                      eprint        = {2412.00006},
+                      primaryclass  = {math.OC},
                     }
 
             .. tab-item:: Plain text citation
@@ -36,7 +40,8 @@ Submitted Articles / Preprints
 
                     Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method
                     Sebastian Blauth and Christian Leithäuser
-                    Preprint, 2024
+                    Preprint on arXiv, 2024
+                    https://arxiv.org/abs/2412.00006
 
 
 
@@ -63,6 +68,7 @@ Submitted Articles / Preprints
                       title         = {{A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells}},
                       year          = {2024},
                       archiveprefix = {arXiv},
+                      doi           = {10.48550/arXiv.2406.17491},
                       eprint        = {2406.17491},
                       primaryclass  = {math.OC},
                     }
@@ -101,6 +107,7 @@ Submitted Articles / Preprints
                       title         = {{Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells}},
                       year          = {2024},
                       archiveprefix = {arXiv},
+                      doi           = {10.48550/arXiv.2401.09230},
                       eprint        = {2401.09230},
                       primaryclass  = {math.OC},
                     }
