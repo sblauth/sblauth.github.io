@@ -24,6 +24,7 @@ Submitted Articles / Preprints
             .. tab-item:: BibTeX citation
 
                 .. code-block:: bibtex
+
                     @Article{Blauth2024Enforcing,
                       author        = {Sebastian Blauth and Christian Leithäuser},
                       title         = {{Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method}},
