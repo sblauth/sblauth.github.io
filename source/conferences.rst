@@ -4,6 +4,11 @@ Conferences & Workshops
 Upcoming activities
 -------------------
 
+2025
+^^^^
+
+* | **Kaiserslautern Applied and Industrial Mathematics Days (KLAIM) 2025**
+  | October 06-08, 2025, Kaiserslautern, Germany
 
 
 Past activities
