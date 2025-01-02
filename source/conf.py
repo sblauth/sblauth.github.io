@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.abspath("../.."))
 sys.path.insert(0, os.path.abspath("."))
 
 project = 'sblauth.github.io'
-copyright = '2023-2024, Sebastian Blauth'
+copyright = '2023-2025, Sebastian Blauth'
 author = 'Sebastian Blauth'
 
 # -- General configuration ---------------------------------------------------
