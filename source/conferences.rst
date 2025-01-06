@@ -10,6 +10,10 @@ Upcoming activities
 * | **Kaiserslautern Applied and Industrial Mathematics Days (KLAIM) 2025**
   | October 06-08, 2025, Kaiserslautern, Germany
 
+* | **European Conference on Computational Optimization 2025 (EUCCO 2025)**
+  | *Focus Session: Shape and Topology Optimization with Kevin Sturm*
+  | September 29 - October 01, 2025, Klagenfurt (Austria)
+
 
 Past activities
 ---------------
