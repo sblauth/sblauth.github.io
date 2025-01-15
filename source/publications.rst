@@ -1109,7 +1109,7 @@ Others
 #.  | **Optimization of hole patterns for homogeneous cooling**
     | *with Walter Arne and Christian Leithäuser*
     | Man-Made Fibers International 3 / 2024, 2024
-    | :bdg-link-primary-line:`URL <https://www.textiletechnology.net/epaper/chemical-fibers-international/108/epaper/Man-Made-Fibers-International-32024/index.html>`
+    | :bdg-link-primary-line:`URL <https://man-made-fibers.textiletechnology.net/news/trendreports/man-made-fibers-international-32024-optimization-ofhole-patterns-forhomogeneous-cooling-36319>`
 
 
 
