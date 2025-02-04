@@ -11,10 +11,14 @@ Upcoming activities
   | October 06-08, 2025, Kaiserslautern, Germany
   | :bdg-link-primary-line:`Conference website <https://www.itwm.fraunhofer.de/en/fairs_events/2025/2025_10_06_klaim_en.html>`
 
-* | **European Conference on Computational Optimization 2025 (EUCCO 2025)**
+* | **European Conference on Computational Optimization (EUCCO) 2025**
   | *Focus Session: Shape and Topology Optimization with Kevin Sturm*
   | September 29 - October 01, 2025, Klagenfurt (Austria)
   | :bdg-link-primary-line:`Conference website <https://conference3.aau.at/event/122/>`
+
+* | **Viennese Conference on Optimal Control and Dynamic Games (VC) 2025**
+  | July 15-18, 2025, Vienna (Austria)
+  | :bdg-link-primary-line:`Conference website <https://vc2025.conf.tuwien.ac.at/>`
 
 
 Past activities
@@ -28,7 +32,7 @@ Past activities
   | October 10-11, 2024, Kaiserslautern, Germany
   | :bdg-link-primary-line:`Conference website <https://www.itwm.fraunhofer.de/en/fairs_events/2024/2024_10_10_workshopmmipe.html>`
 
-* | **FEniCS 2024**
+* | **FEniCS Conference 2024**
   | *Talk: PDE Constrained Shape Optimization with cashocs*
   | June 12-14, 2024, Oslo, Norway
   | :bdg-link-primary-line:`Conference website <https://fenicsproject.org/fenics-2024/>` :bdg-link-secondary-line:`Recording of the talk <https://youtu.be/mZerFCRLtgQ?si=MDl3SmvU3GcQz-7w>`
