@@ -20,6 +20,10 @@ Upcoming activities
   | July 15-18, 2025, Vienna (Austria)
   | :bdg-link-primary-line:`Conference website <https://vc2025.conf.tuwien.ac.at/>`
 
+* | **European Symposium on Computer Aided Process Engineering (ESCAPE) 2025**
+  | July 06-09, 2025, Ghent (Belgium)
+  | :bdg-link-primary-line:`Conference website <https://escape35-belgium.eu/>`
+
 
 Past activities
 ---------------
