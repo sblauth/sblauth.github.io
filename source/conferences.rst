@@ -17,10 +17,12 @@ Upcoming activities
   | :bdg-link-primary-line:`Conference website <https://conference3.aau.at/event/122/>`
 
 * | **Viennese Conference on Optimal Control and Dynamic Games (VC) 2025**
+  | *Talk: Mesh Quality Constraints for Shape Optimization*
   | July 15-18, 2025, Vienna (Austria)
   | :bdg-link-primary-line:`Conference website <https://vc2025.conf.tuwien.ac.at/>`
 
 * | **European Symposium on Computer Aided Process Engineering (ESCAPE) 2025**
+  | *Poster: CFD-Based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation*
   | July 06-09, 2025, Ghent (Belgium)
   | :bdg-link-primary-line:`Conference website <https://escape35-belgium.eu/>`
 
