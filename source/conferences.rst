@@ -7,6 +7,10 @@ Upcoming activities
 2025
 ^^^^
 
+* | **Workshop: Advanced techniques for design optimization in engineering applications**
+  | October 27-31, 2025, Linz (Austria)
+  | :bdg-link-primary-line:`Workshop website <https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/>`
+
 * | **Kaiserslautern Applied and Industrial Mathematics Days (KLAIM) 2025**
   | October 06-08, 2025, Kaiserslautern, Germany
   | :bdg-link-primary-line:`Conference website <https://www.itwm.fraunhofer.de/en/fairs_events/2025/2025_10_06_klaim_en.html>`
