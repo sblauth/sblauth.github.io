@@ -1,11 +1,8 @@
 Publications
 ============
 
-
-
 Submitted Articles / Preprints
 ------------------------------
-
 
 #.  | **Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method**
     | *with Christian Leithäuser*
@@ -43,7 +40,6 @@ Submitted Articles / Preprints
                     Sebastian Blauth and Christian Leithäuser
                     Preprint on arXiv, 2024
                     https://arxiv.org/abs/2412.00006
-
 
 
 #.  | **A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells**
@@ -84,7 +80,6 @@ Submitted Articles / Preprints
                     https://arxiv.org/abs/2406.17491
 
 
-
 #.  | **Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells**
     | *with Leon Baeck, Christian Leithäuser, René Pinnau, Kevin Sturm*
     | submitted, 2024
@@ -123,11 +118,8 @@ Submitted Articles / Preprints
                     https://arxiv.org/abs/2401.09230
 
 
-
 Articles in Peer-Reviewed Journals
 ----------------------------------
-
-
 
 #.  | **CFD-based shape optimization of structured packings for enhancing separation efficiency in distillation**
     | *with Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser*
@@ -207,7 +199,6 @@ Articles in Peer-Reviewed Journals
                     https://doi.org/10.1002/cite.202300161
 
 
-
 #.  | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
     | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
     | Chemie Ingenieur Technik 96(5), 2024
@@ -247,7 +238,6 @@ Articles in Peer-Reviewed Journals
                     Sebastian Blauth, Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz
                     Chemie Ingenieur Technik 96(5), 2024
                     https://doi.org/10.1002/cite.202300166
-
 
 
 #.  | **Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling**
@@ -291,7 +281,6 @@ Articles in Peer-Reviewed Journals
                     https://doi.org/10.1002/cite.202300191
 
 
-
 #.  | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
     | SoftwareX 24, 2023
     | :bdg-link-primary-line:`doi: 10.1016/j.softx.2023.101577 <https://doi.org/10.1016/j.softx.2023.101577>` :bdg-link-secondary-line:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/departments/tv/products-and-services/shape-optimization-cashocs-software.html>`
@@ -329,7 +318,6 @@ Articles in Peer-Reviewed Journals
                     Sebastian Blauth
                     SoftwareX 24, 2024
                     https://doi.org/10.1016/j.softx.2023.101577
-
 
 
 #.  | **Quasi-Newton methods for topology optimization using a level-set method**
@@ -376,7 +364,6 @@ Articles in Peer-Reviewed Journals
                     https://doi.org/10.1007/s00158-023-03653-2
 
 
-
 #.  | **Space Mapping for PDE Constrained Shape Optimization**
     | SIAM Journal on Optimization 33(3), 2023
     | :bdg-link-primary-line:`doi: 10.1137/22M1515665 <https://doi.org/10.1137/22M1515665>` :bdg-link-secondary-line:`preprint: arXiv:2208.05747 <https://arxiv.org/abs/2208.05747>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/space_mapping_shape_optimization>`
@@ -419,7 +406,6 @@ Articles in Peer-Reviewed Journals
                     https://doi.org/10.1137/22M1515665
 
 
-
 #.  | **Asymptotic analysis for optimal control of the Cattaneo model**
     | *with René Pinnau, Matthias Andres, and Claudia Totzeck*
     | Journal of Mathematical Analysis and Applications 527(1), 2023
@@ -460,7 +446,6 @@ Articles in Peer-Reviewed Journals
                     Sebastian Blauth, René Pinnau, Matthias Andres, and Claudia Totzeck
                     Journal of Mathematical Analysis and Applications 527(1), 2023
                     https://doi.org/10.1016/j.jmaa.2023.127375
-
 
 
 #.  | **Validating a simulation model for laser-induced thermotherapy using MR thermometry**
@@ -517,7 +502,6 @@ Articles in Peer-Reviewed Journals
                     https://doi.org/10.1080/02656736.2022.2129102
 
 
-
 #.  | **Nonlinear Conjugate Gradient Methods for PDE Constrained Shape Optimization Based on Steklov-Poincaré-Type Metrics**
     | SIAM Journal on Optimization 31(3), 2021
     | :bdg-link-primary-line:`doi: 10.1137/20M1367738 <https://doi.org/10.1137/20M1367738>` :bdg-link-secondary-line:`preprint: arXiv:2007.12891 <https://arxiv.org/abs/2007.12891>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/nonlinear_shape_cg_benchmark>`
@@ -559,7 +543,6 @@ Articles in Peer-Reviewed Journals
                     https://doi.org/10.1137/20M1367738
 
 
-
 #.  | **cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
     | SoftwareX 13, 2021
     | :bdg-link-primary-line:`doi: 10.1016/j.softx.2020.100646 <https://doi.org/10.1016/j.softx.2020.100646>` :bdg-link-secondary-line:`preprint: arXiv:2010.02048 <https://arxiv.org/abs/2010.02048>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/departments/tv/products-and-services/shape-optimization-cashocs-software.html>`
@@ -597,7 +580,6 @@ Articles in Peer-Reviewed Journals
                     Sebastian Blauth
                     SoftwareX 13, 2021
                     https://doi.org/10.1016/j.softx.2020.100646
-
 
 
 #.  | **Optimal control of the Sabatier process in microchannel reactors**
@@ -639,7 +621,6 @@ Articles in Peer-Reviewed Journals
                     Sebastian Blauth, Christian Leithäuser, and René Pinnau
                     Journal of Engineering Mathematics 128(1), 2021
                     https://doi.org/10.1007/s10665-021-10134-2
-
 
 
 #.  | **Model hierarchy for the shape optimization of a microchannel cooling system**
@@ -684,7 +665,6 @@ Articles in Peer-Reviewed Journals
                     https://doi.org/10.1002/zamm.202000166
 
 
-
 #.  | **Shape sensitivity analysis for a microchannel cooling system**
     | *with Christian Leithäuser and René Pinnau*
     | Journal of Mathematical Analysis and Applications 492(2), 2020
@@ -727,7 +707,6 @@ Articles in Peer-Reviewed Journals
                     https://doi.org/10.1016/j.jmaa.2020.124476
 
 
-
 #.  | **Identification of the blood perfusion rate for laser-induced thermotherapy in the liver**
     | *with Matthias Andres, Christian Leithäuser, and Norbert Siedow*
     | Journal of Mathematics in Industry 10, 2020
@@ -765,7 +744,6 @@ Articles in Peer-Reviewed Journals
                     Matthias Andres, Sebastian Blauth, Christian Leithäuser, and Norbert Siedow
                     Journal of Mathematics in Industry 10, 2020
                     https://doi.org/10.1186/s13362-020-00085-1
-
 
 
 #.  | **Mathematical modeling of vaporization during laser-induced thermotherapy in liver tissue**
@@ -807,10 +785,46 @@ Articles in Peer-Reviewed Journals
                     https://doi.org/10.1186/s13362-020-00082-4
 
 
-
 Conference Proceedings
 ----------------------
 
+#.  | **CFD-Based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation**
+    | *with Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser*
+    | ESCAPE 35 Book of Short Papers, 2025
+    | :bdg-link-primary-line:`URL: escape35-belgium.eu <https://escape35-belgium.eu/wp-content/uploads/2025/07/ESCAPE35_BookofShortPapers.pdf>`
+
+    .. dropdown:: Additional resources
+        :icon: three-bars
+
+        .. tab-set::
+
+            .. tab-item:: Abstract
+
+                We investigate the application of shape optimization techniques to increase the separation efficiency of structured packings in laboratory-scale distillation columns. A simplified single-phase computational fluid dynamics (CFD) model for the mass transfer in the distillation column is used. A corresponding shape optimization problem with the goal of increasing the mass transfer in the column is solved with the optimization software cashocs. The optimization yields promising results and shows a greatly increased mass transfer for the simplified CFD model. For validation, the optimized shape is additively manufactured and investigated experimentally. The experimental results are in great agreement with the simulation-based prediction and show that the separation efficiency of the packing increased by around 20 %. Hence, the proposed approach of using free-form shape optimization for improving structured packings in distillation is extremely promising and will be pursued further in future research.
+
+            .. tab-item:: BibTeX citation
+
+                .. code-block:: bibtex
+
+                    @InProceedings{Blauth2025CFDa,
+                      author    = {Sebastian Blauth and Dennis Stucke and Mohamed Adel Ashour and Johannes Schnebele and Thomas Grützner and Christian Leithäuser},
+                      booktitle = {ESCAPE 35 Book of Short Papers},
+                      title     = {CFD-Based Shape Optimization of Structured Packings forEnhancing Separation Efficiency in Distillation},
+                      year      = {2025},
+                      editor    = {Jan F. M. Van Impe and Grégoire Léonard and Satyajeet S. Bhonsale and Monika E. Polańska and Filip Logist},
+                      month     = jul,
+                      pages     = {47--48},
+                      publisher = {EUROSYS-ETI},
+                    }
+
+            .. tab-item:: Plain text citation
+
+                .. code-block:: text
+
+                    CFD-Based Shape Optimization of Structured Packings forEnhancing Separation Efficiency in Distillation
+                    Sebastian Blauth, Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser
+                    ESCAPE 35 Book of Short Papers, 2025
+                    https://escape35-belgium.eu/wp-content/uploads/2025/07/ESCAPE35_BookofShortPapers.pdf
 
 
 #.  | **Topology Optimization for Uniform Flow Distribution in Electrolysis Cells**

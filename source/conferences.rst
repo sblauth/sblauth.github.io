@@ -25,14 +25,17 @@ Upcoming activities
   | July 15-18, 2025, Vienna (Austria)
   | :bdg-link-primary-line:`Conference website <https://vc2025.conf.tuwien.ac.at/>`
 
+
+Past activities
+---------------
+
+2025
+^^^^
+
 * | **European Symposium on Computer Aided Process Engineering (ESCAPE) 2025**
   | *Poster: CFD-Based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation*
   | July 06-09, 2025, Ghent (Belgium)
   | :bdg-link-primary-line:`Conference website <https://escape35-belgium.eu/>`
-
-
-Past activities
----------------
 
 
 2024
