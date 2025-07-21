@@ -12,6 +12,7 @@ Upcoming activities
   | :bdg-link-primary-line:`Workshop website <https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/>`
 
 * | **Kaiserslautern Applied and Industrial Mathematics Days (KLAIM) 2025**
+  | *Talk: Fluid Dynamical Shape Optimization for Industrial Applications*
   | October 06-08, 2025, Kaiserslautern, Germany
   | :bdg-link-primary-line:`Conference website <https://www.itwm.fraunhofer.de/en/fairs_events/2025/2025_10_06_klaim_en.html>`
 
@@ -20,17 +21,17 @@ Upcoming activities
   | September 29 - October 01, 2025, Klagenfurt (Austria)
   | :bdg-link-primary-line:`Conference website <https://conference3.aau.at/event/122/>`
 
-* | **Viennese Conference on Optimal Control and Dynamic Games (VC) 2025**
-  | *Talk: Mesh Quality Constraints for Shape Optimization*
-  | July 15-18, 2025, Vienna (Austria)
-  | :bdg-link-primary-line:`Conference website <https://vc2025.conf.tuwien.ac.at/>`
-
 
 Past activities
 ---------------
 
 2025
 ^^^^
+
+* | **Viennese Conference on Optimal Control and Dynamic Games (VC) 2025**
+  | *Talk: Mesh Quality Constraints for Shape Optimization*
+  | July 15-18, 2025, Vienna (Austria)
+  | :bdg-link-primary-line:`Conference website <https://vc2025.conf.tuwien.ac.at/>`
 
 * | **European Symposium on Computer Aided Process Engineering (ESCAPE) 2025**
   | *Poster: CFD-Based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation*
