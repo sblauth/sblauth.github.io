@@ -44,7 +44,7 @@ Submitted Articles / Preprints
 
 #.  | **A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells**
     | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
-    | submitted, 2024
+    | accepted for publication in SIAM Journal on Scientific Computing, 2025
     | :bdg-link-secondary-line:`preprint: arXiv:2406.17491 <https://arxiv.org/abs/2406.17491>`
    
     .. dropdown:: Additional resources
