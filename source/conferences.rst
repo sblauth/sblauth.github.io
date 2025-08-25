@@ -8,7 +8,7 @@ Upcoming activities
 ^^^^
 
 * | **Workshop: Advanced techniques for design optimization in engineering applications**
-  | October 27-31, 2025, Linz (Austria)
+  | October 27-31, 2025, Linz, Austria
   | :bdg-link-primary-line:`Workshop website <https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/>`
 
 * | **Kaiserslautern Applied and Industrial Mathematics Days (KLAIM) 2025**
@@ -18,8 +18,12 @@ Upcoming activities
 
 * | **European Conference on Computational Optimization (EUCCO) 2025**
   | *Focus Session: Shape and Topology Optimization with Kevin Sturm*
-  | September 29 - October 01, 2025, Klagenfurt (Austria)
+  | September 29 - October 01, 2025, Klagenfurt, Austria
   | :bdg-link-primary-line:`Conference website <https://conference3.aau.at/event/122/>`
+
+* | **Tag der Verfahrenstechnik**
+  | September 18, 2025, Kaiserslautern, Germany
+  | :bdg-link-primary-line:`Conference website <https://www.leistungszentrum-simulation-software.de/en/news-events/Fairs_conferences_and_events/2025/2025_09_18_Process_Engineering_Day.html>`
 
 
 Past activities
@@ -30,12 +34,12 @@ Past activities
 
 * | **Viennese Conference on Optimal Control and Dynamic Games (VC) 2025**
   | *Talk: Mesh Quality Constraints for Shape Optimization*
-  | July 15-18, 2025, Vienna (Austria)
+  | July 15-18, 2025, Vienna, Austria
   | :bdg-link-primary-line:`Conference website <https://vc2025.conf.tuwien.ac.at/>`
 
 * | **European Symposium on Computer Aided Process Engineering (ESCAPE) 2025**
   | *Poster: CFD-Based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation*
-  | July 06-09, 2025, Ghent (Belgium)
+  | July 06-09, 2025, Ghent, Belgium
   | :bdg-link-primary-line:`Conference website <https://escape35-belgium.eu/>`
 
 
