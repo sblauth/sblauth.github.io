@@ -17,21 +17,21 @@ Upcoming activities
   | October 06-08, 2025, Kaiserslautern, Germany
   | :bdg-link-primary-line:`Conference website <https://www.itwm.fraunhofer.de/en/fairs_events/2025/2025_10_06_klaim_en.html>`
 
-* | **European Conference on Computational Optimization (EUCCO) 2025**
-  | *Focus Session: Shape and Topology Optimization with Kevin Sturm*
-  | September 29 - October 01, 2025, Klagenfurt, Austria
-  | :bdg-link-primary-line:`Conference website <https://conference3.aau.at/event/122/>`
-
-* | **Tag der Verfahrenstechnik**
-  | September 18, 2025, Kaiserslautern, Germany
-  | :bdg-link-primary-line:`Conference website <https://www.leistungszentrum-simulation-software.de/en/news-events/Fairs_conferences_and_events/2025/2025_09_18_Process_Engineering_Day.html>`
-
 
 Past activities
 ---------------
 
 2025
 ^^^^
+
+* | **European Conference on Computational Optimization (EUCCO) 2025**
+  | *Organization of Focus Session: Shape and Topology Optimization together with Kevin Sturm*
+  | September 29 - October 01, 2025, Klagenfurt, Austria
+  | :bdg-link-primary-line:`Conference website <https://conference3.aau.at/event/122/>`
+
+* | **Tag der Verfahrenstechnik**
+  | September 18, 2025, Kaiserslautern, Germany
+  | :bdg-link-primary-line:`Conference website <https://www.leistungszentrum-simulation-software.de/en/news-events/Fairs_conferences_and_events/2025/2025_09_18_Process_Engineering_Day.html>`
 
 * | **Viennese Conference on Optimal Control and Dynamic Games (VC) 2025**
   | *Talk: Mesh Quality Constraints for Shape Optimization*

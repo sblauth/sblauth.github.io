@@ -6,7 +6,7 @@ Submitted Articles / Preprints
 
 #.  | **Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method**
     | *with Christian Leithäuser*
-    | submitted, 2024
+    | accepted for publication in Computer Methods in Applied Mechanics and Engineering, 2025
     | :bdg-link-secondary-line:`preprint: arXiv:2412.00006 <https://arxiv.org/abs/2412.00006>`
 
     .. dropdown:: Additional resources
