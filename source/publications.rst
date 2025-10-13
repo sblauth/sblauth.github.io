@@ -4,43 +4,6 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
-#.  | **Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method**
-    | *with Christian Leithäuser*
-    | accepted for publication in Computer Methods in Applied Mechanics and Engineering, 2025
-    | :bdg-link-secondary-line:`preprint: arXiv:2412.00006 <https://arxiv.org/abs/2412.00006>`
-
-    .. dropdown:: Additional resources
-        :icon: three-bars
-
-        .. tab-set::
-
-            .. tab-item:: Abstract
-
-                For the numerical solution of shape optimization problems, particularly those constrained by partial differential equations (PDEs), the quality of the underlying mesh is of utmost importance. Particularly when investigating complex geometries, the mesh quality tends to deteriorate over the course of a shape optimization so that either the optimization comes to a halt or an expensive remeshing operation must be performed before the optimization can be continued. In this paper, we present a novel, semi-discrete approach for enforcing a minimum mesh quality in shape optimization. Our approach is based on Rosen's gradient projection method, which incorporates mesh quality constraints into the shape optimization problem. The proposed constraints bound the angles of triangular and solid angles of tetrahedral mesh cells and, thus, also bound the quality of these mesh cells. The method treats these constraints by projecting the search direction to the linear subspace of the currently active constraints. Additionally, only slight modifications to the usual line search procedure are required to ensure the feasibility of the method. We present our method for two- and three-dimensional simplicial meshes. We investigate the proposed approach numerically for the drag minimization of an obstacle in a two-dimensional flow and for the large-scale, three-dimensional optimization of a structured packing used in a distillation column. Our results show that the proposed method is indeed capable of guaranteeing a minimum mesh quality for both academic examples and challenging industrial applications. Particularly, our approach allows the shape optimization of extremely complex structures while ensuring that the mesh quality does not deteriorate.
-
-            .. tab-item:: BibTeX citation
-
-                .. code-block:: bibtex
-
-                    @Article{Blauth2024Enforcing,
-                      author        = {Sebastian Blauth and Christian Leithäuser},
-                      title         = {{Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method}},
-                      year          = {2024},
-                      archiveprefix = {arXiv},
-                      doi           = {10.48550/arXiv.2412.00006},
-                      eprint        = {2412.00006},
-                      primaryclass  = {math.OC},
-                    }
-
-            .. tab-item:: Plain text citation
-
-                .. code-block:: text
-
-                    Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method
-                    Sebastian Blauth and Christian Leithäuser
-                    Preprint on arXiv, 2024
-                    https://arxiv.org/abs/2412.00006
-
 
 #.  | **A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells**
     | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
@@ -120,6 +83,46 @@ Submitted Articles / Preprints
 
 Articles in Peer-Reviewed Journals
 ----------------------------------
+
+#.  | **Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method**
+    | *with Christian Leithäuser*
+    | Computer Methods in Applied Mechanics and Engineering 448, 2026
+    | :bdg-link-primary-line:`doi: 10.1016/j.cma.2025.118451 <https://doi.org/10.1016/j.cma.2025.118451>` :bdg-link-secondary-line:`preprint: arXiv:2412.00006 <https://arxiv.org/abs/2412.00006>`
+
+    .. dropdown:: Additional resources
+        :icon: three-bars
+
+        .. tab-set::
+
+            .. tab-item:: Abstract
+
+                For the numerical solution of shape optimization problems, particularly those constrained by partial differential equations (PDEs), the quality of the underlying mesh is of utmost importance. Particularly when investigating complex geometries, the mesh quality tends to deteriorate over the course of a shape optimization so that either the optimization comes to a halt or an expensive remeshing operation must be performed before the optimization can be continued. In this paper, we present a novel, semi-discrete approach for enforcing a minimum mesh quality in shape optimization. Our approach is based on Rosen's gradient projection method, which incorporates mesh quality constraints into the shape optimization problem. The proposed constraints bound the angles of triangular and solid angles of tetrahedral mesh cells and, thus, also bound the quality of these mesh cells. The method treats these constraints by projecting the search direction to the linear subspace of the currently active constraints. Additionally, only slight modifications to the usual line search procedure are required to ensure the feasibility of the method. We present our method for two- and three-dimensional simplicial meshes. We investigate the proposed approach numerically for the drag minimization of an obstacle in a two-dimensional flow and for the large-scale, three-dimensional optimization of a structured packing used in a distillation column. Our results show that the proposed method is indeed capable of guaranteeing a minimum mesh quality for both academic examples and challenging industrial applications. Particularly, our approach allows the shape optimization of extremely complex structures while ensuring that the mesh quality does not deteriorate.
+
+            .. tab-item:: BibTeX citation
+
+                .. code-block:: bibtex
+
+                    @Article{Blauth2026Enforcing,
+                      author   = {Sebastian Blauth and Christian Leithäuser},
+                      journal  = {Comput. Methods Appl. Mech. Engrg.},
+                      title    = {Enforcing mesh quality constraints in shape optimization with a gradient projection method},
+                      year     = {2026},
+                      issn     = {0045-7825},
+                      pages    = {118451},
+                      volume   = {448},
+                      doi      = {10.1016/j.cma.2025.118451},
+                      fjournal = {Computer Methods in Applied Mechanics and Engineering},
+                    }
+
+            .. tab-item:: Plain text citation
+
+                .. code-block:: text
+
+                    Enforcing mesh quality constraints in shape optimization with a gradient projection method
+                    Sebastian Blauth and Christian Leithäuser
+                    Computer Methods in Applied Mechanics and Engineering 448, 2026
+                    https://doi.org/10.1016/j.cma.2025.118451
+
 
 #.  | **CFD-based shape optimization of structured packings for enhancing separation efficiency in distillation**
     | *with Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser*
