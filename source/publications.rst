@@ -103,15 +103,17 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Blauth2026Enforcing,
-                      author   = {Sebastian Blauth and Christian Leithäuser},
+                      author   = {Blauth, Sebastian and Leith{\"a}user, Christian},
                       journal  = {Comput. Methods Appl. Mech. Engrg.},
                       title    = {Enforcing mesh quality constraints in shape optimization with a gradient projection method},
                       year     = {2026},
-                      issn     = {0045-7825},
-                      pages    = {118451},
+                      issn     = {0045-7825,1879-2138},
+                      pages    = {Paper No. 118451},
                       volume   = {448},
                       doi      = {10.1016/j.cma.2025.118451},
                       fjournal = {Computer Methods in Applied Mechanics and Engineering},
+                      mrclass  = {99-06},
+                      mrnumber = {4969918},
                     }
 
             .. tab-item:: Plain text citation

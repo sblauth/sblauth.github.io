@@ -7,10 +7,6 @@ Upcoming activities
 2025
 ^^^^
 
-* | **Workshop: Advanced techniques for design optimization in engineering applications**
-  | *Talk: Fluid Dynamical Shape Optimization for Industrial Applications*
-  | October 27-31, 2025, Linz, Austria
-  | :bdg-link-primary-line:`Workshop website <https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/>`
 
 
 Past activities
