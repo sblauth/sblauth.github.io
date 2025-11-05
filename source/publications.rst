@@ -4,11 +4,10 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
-
 #.  | **Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells**
     | *with Leon Baeck, Christian Leithäuser, René Pinnau, Kevin Sturm*
     | submitted, 2024
-    | :bdg-link-secondary-line:`preprint: arXiv:2401.09230 <https://arxiv.org/abs/2401.09230>`
+    | |preprint_arxiv_1|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -43,13 +42,18 @@ Submitted Articles / Preprints
                     https://arxiv.org/abs/2401.09230
 
 
+.. Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells
+.. |preprint_arxiv_1| image:: https://img.shields.io/badge/preprint-2401.09230-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2401.09230
+
 Articles in Peer-Reviewed Journals
 ----------------------------------
+
 
 #.  | **Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method**
     | *with Christian Leithäuser*
     | Computer Methods in Applied Mechanics and Engineering 448, 2026
-    | :bdg-link-primary-line:`doi: 10.1016/j.cma.2025.118451 <https://doi.org/10.1016/j.cma.2025.118451>` :bdg-link-secondary-line:`preprint: arXiv:2412.00006 <https://arxiv.org/abs/2412.00006>`
+    | |doi_18| |arxiv_18|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -91,7 +95,7 @@ Articles in Peer-Reviewed Journals
 #.  | **A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells**
     | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
     | SIAM Journal on Scientific Computing 47(6), 2025
-    | :bdg-link-primary-line:`doi: 10.1137/24M1670913 <https://doi.org/10.1137/24M1670913>` :bdg-link-secondary-line:`preprint: arXiv:2406.17491 <https://arxiv.org/abs/2406.17491>`
+    | |doi_17| |arxiv_17|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -130,7 +134,7 @@ Articles in Peer-Reviewed Journals
 #.  | **CFD-based shape optimization of structured packings for enhancing separation efficiency in distillation**
     | *with Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser*
     | Chemical Engineering Science 302, 2025
-    | :bdg-link-primary-line:`doi: 10.1016/j.ces.2024.120803 <https://doi.org/10.1016/j.ces.2024.120803>` :bdg-link-secondary-line:`preprint: arXiv:2407.11099 <https://arxiv.org/abs/2407.11099>`
+    | |doi_16| |arxiv_16|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -168,7 +172,7 @@ Articles in Peer-Reviewed Journals
 #.  | **Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells**
     | *with Marco Baldan, Sebastian Osterroth, Christian Leithäuser, Ulf-Peter Apfel, Julian Kleinhaus, Kevinjeorjios Pellumbi, Daniel Siegmund, Konrad Steiner, and Michael Bortz*
     | Chemie Ingenieur Technik 96(5), 2024
-    | :bdg-link-primary-line:`doi: 10.1002/cite.202300161 <https://doi.org/10.1002/cite.202300161>` :bdg-link-secondary-line:`preprint: arXiv:2309.13958 <https://arxiv.org/abs/2309.13958>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/fields-of-application/renewable-energy-sustainability/electrochemical-cells.html>`
+    | |doi_15| |arxiv_15| |online_15|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -204,11 +208,10 @@ Articles in Peer-Reviewed Journals
                     Chemie Ingenieur Technik 96(5), 2024
                     https://doi.org/10.1002/cite.202300161
 
-
 #.  | **Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition**
     | *with Julie Damay, Sebastian Osterroth, Christian Leithäuser, Christian Hofmann, Gunther Kolb, Martin Wichert, Konrad Steiner, and Michael Bortz*
     | Chemie Ingenieur Technik 96(5), 2024
-    | :bdg-link-primary-line:`doi: 10.1002/cite.202300166 <https://doi.org/10.1002/cite.202300166>` :bdg-link-secondary-line:`preprint: hal-04265601 <https://hal.science/hal-04265601>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/fields-of-application/renewable-energy-sustainability/ammonpaktor.html>`
+    | |doi_14| |arxiv_14| |online_14|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -249,7 +252,7 @@ Articles in Peer-Reviewed Journals
 #.  | **Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling**
     | *with Marco Baldan, Dušan Bošković, Christian Leithäuser, Alexander Mendl, Ligia Radulescu, Maud Schwarzer, Heinrich Wegner, and Michael Bortz*
     | Chemie Ingenieur Technik 96(5), 2024
-    | :bdg-link-primary-line:`doi: 10.1002/cite.202300191 <https://doi.org/10.1002/cite.202300191>` :bdg-link-secondary-line:`preprint: arXiv:2310.09315 <https://arxiv.org/abs/2310.09315>` :bdg-link-info-line:`on the web <https://www.shapid.fraunhofer.de/en.html>`
+    | |doi_13| |arxiv_13| |online_13|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -289,7 +292,7 @@ Articles in Peer-Reviewed Journals
 
 #.  | **Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
     | SoftwareX 24, 2023
-    | :bdg-link-primary-line:`doi: 10.1016/j.softx.2023.101577 <https://doi.org/10.1016/j.softx.2023.101577>` :bdg-link-secondary-line:`preprint: arXiv:2306.09828 <https://arxiv.org/abs/2306.09828>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/departments/tv/products-and-services/shape-optimization-cashocs-software.html>`
+    | |doi_12| |arxiv_12| |code_12| |online_12|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -329,7 +332,7 @@ Articles in Peer-Reviewed Journals
 #.  | **Quasi-Newton methods for topology optimization using a level-set method**
     | *with Kevin Sturm*
     | Structural and Multidisciplinary Optimization 66(9), 2023
-    | :bdg-link-primary-line:`doi: 10.1007/s00158-023-03653-2 <https://doi.org/10.1007/s00158-023-03653-2>` :bdg-link-secondary-line:`preprint: arXiv:2303.15070 <https://arxiv.org/abs/2303.15070>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/quasi_newton_methods_for_topology_optimization>`
+    | |doi_11| |arxiv_11| |code_11|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -372,7 +375,7 @@ Articles in Peer-Reviewed Journals
 
 #.  | **Space Mapping for PDE Constrained Shape Optimization**
     | SIAM Journal on Optimization 33(3), 2023
-    | :bdg-link-primary-line:`doi: 10.1137/22M1515665 <https://doi.org/10.1137/22M1515665>` :bdg-link-secondary-line:`preprint: arXiv:2208.05747 <https://arxiv.org/abs/2208.05747>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/space_mapping_shape_optimization>`
+    | |doi_10| |arxiv_10| |code_10|
    
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -415,7 +418,7 @@ Articles in Peer-Reviewed Journals
 #.  | **Asymptotic analysis for optimal control of the Cattaneo model**
     | *with René Pinnau, Matthias Andres, and Claudia Totzeck*
     | Journal of Mathematical Analysis and Applications 527(1), 2023
-    | :bdg-link-primary-line:`doi: 10.1016/j.jmaa.2023.127375 <https://doi.org/10.1016/j.jmaa.2023.127375>` :bdg-link-secondary-line:`preprint: arXiv:2302.07630 <https://arxiv.org/abs/2302.07630>`
+    | |doi_9| |arxiv_9|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -457,7 +460,7 @@ Articles in Peer-Reviewed Journals
 #.  | **Validating a simulation model for laser-induced thermotherapy using MR thermometry**
     | *with Frank Hübner, Christian Leithäuser, Roland Schreiner, Norbert Siedow, and Thomas Vogl*
     | International Journal of Hyperthermia 39(1), 2022
-    | :bdg-link-primary-line:`doi: 10.1080/02656736.2022.2129102 <https://doi.org/10.1080/02656736.2022.2129102>` :bdg-link-secondary-line:`preprint: arXiv:2204.07502 <https://arxiv.org/abs/2204.07502>`
+    | |doi_8| |arxiv_8|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -510,7 +513,7 @@ Articles in Peer-Reviewed Journals
 
 #.  | **Nonlinear Conjugate Gradient Methods for PDE Constrained Shape Optimization Based on Steklov-Poincaré-Type Metrics**
     | SIAM Journal on Optimization 31(3), 2021
-    | :bdg-link-primary-line:`doi: 10.1137/20M1367738 <https://doi.org/10.1137/20M1367738>` :bdg-link-secondary-line:`preprint: arXiv:2007.12891 <https://arxiv.org/abs/2007.12891>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/nonlinear_shape_cg_benchmark>`
+    | |doi_7| |arxiv_7| |code_7|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -551,7 +554,7 @@ Articles in Peer-Reviewed Journals
 
 #.  | **cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software**
     | SoftwareX 13, 2021
-    | :bdg-link-primary-line:`doi: 10.1016/j.softx.2020.100646 <https://doi.org/10.1016/j.softx.2020.100646>` :bdg-link-secondary-line:`preprint: arXiv:2010.02048 <https://arxiv.org/abs/2010.02048>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/cashocs>` :bdg-link-info-line:`on the web <https://www.itwm.fraunhofer.de/en/departments/tv/products-and-services/shape-optimization-cashocs-software.html>`
+    | |doi_6| |arxiv_6| |code_6| |online_6|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -591,7 +594,7 @@ Articles in Peer-Reviewed Journals
 #.  | **Optimal control of the Sabatier process in microchannel reactors**
     | *with Christian Leithäuser and René Pinnau*
     | Journal of Engineering Mathematics 128(1), 2021
-    | :bdg-link-primary-line:`doi: 10.1007/s10665-021-10134-2 <https://doi.org/10.1007/s10665-021-10134-2>` :bdg-link-secondary-line:`preprint: arXiv:2007.12457 <https://arxiv.org/abs/2007.12457>`
+    | |doi_5| |arxiv_5|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -632,7 +635,7 @@ Articles in Peer-Reviewed Journals
 #.  | **Model hierarchy for the shape optimization of a microchannel cooling system**
     | *with Christian Leithäuser and René Pinnau*
     | ZAMM Journal of Applied Mathematics and Mechanics 101(4), 2021
-    | :bdg-link-primary-line:`doi: 10.1002/zamm.202000166 <https://doi.org/10.1002/zamm.202000166>` :bdg-link-secondary-line:`preprint: arXiv:1911.06819 <https://arxiv.org/abs/1911.06819>`
+    | |doi_4| |arxiv_4|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -674,7 +677,7 @@ Articles in Peer-Reviewed Journals
 #.  | **Shape sensitivity analysis for a microchannel cooling system**
     | *with Christian Leithäuser and René Pinnau*
     | Journal of Mathematical Analysis and Applications 492(2), 2020
-    | :bdg-link-primary-line:`doi: 10.1016/j.jmaa.2020.124476 <https://doi.org/10.1016/j.jmaa.2020.124476>` :bdg-link-secondary-line:`preprint: arXiv:2005.02754 <https://arxiv.org/abs/2005.02754>`
+    | |doi_3| |arxiv_3|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -716,7 +719,7 @@ Articles in Peer-Reviewed Journals
 #.  | **Identification of the blood perfusion rate for laser-induced thermotherapy in the liver**
     | *with Matthias Andres, Christian Leithäuser, and Norbert Siedow*
     | Journal of Mathematics in Industry 10, 2020
-    | :bdg-link-primary-line:`doi: 10.1186/s13362-020-00085-1 <https://doi.org/10.1186/s13362-020-00085-1>` :bdg-link-secondary-line:`preprint: arXiv:1910.09199 <https://arxiv.org/abs/1910.09199>`
+    | |doi_2| |arxiv_2|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -752,10 +755,12 @@ Articles in Peer-Reviewed Journals
                     https://doi.org/10.1186/s13362-020-00085-1
 
 
+
+
 #.  | **Mathematical modeling of vaporization during laser-induced thermotherapy in liver tissue**
     | *with Frank Hübner, Christian Leithäuser, Norbert Siedow, and Thomas Vogl*
     | Journal of Mathematics in Industry 10, 2020
-    | :bdg-link-primary-line:`doi: 10.1186/s13362-020-00082-4 <https://doi.org/10.1186/s13362-020-00082-4>` :bdg-link-secondary-line:`preprint: arXiv:1910.12515 <https://arxiv.org/abs/1910.12515>`
+    | |doi_1| |arxiv_1|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -791,13 +796,187 @@ Articles in Peer-Reviewed Journals
                     https://doi.org/10.1186/s13362-020-00082-4
 
 
+.. Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method
+.. |doi_18| image:: https://img.shields.io/badge/doi-10.1016%2Fj.cma.2025.118451-blue?style=for-the-badge
+   :target: https://doi.org/10.1016/j.cma.2025.118451
+
+.. |arxiv_18| image:: https://img.shields.io/badge/preprint-2412.00006-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2412.00006
+
+
+.. A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells
+.. |doi_17| image:: https://img.shields.io/badge/doi-10.1137%2F24M1670913-blue?style=for-the-badge
+   :target: https://doi.org/10.1137/24M1670913
+
+.. |arxiv_17| image:: https://img.shields.io/badge/preprint-2406.17491-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2406.17491
+
+
+.. CFD-based shape optimization of structured packings for enhancing separation efficiency in distillation
+.. |doi_16| image:: https://img.shields.io/badge/doi-10.1016%2Fj.ces.2024.120803-blue?style=for-the-badge
+   :target: https://doi.org/10.1016/j.ces.2024.120803
+
+.. |arxiv_16| image:: https://img.shields.io/badge/preprint-2407.11099-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2407.11099
+
+
+.. Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells
+.. |doi_15| image:: https://img.shields.io/badge/doi-10.1002%2Fcite.202300161-blue?style=for-the-badge
+   :target: https://doi.org/10.1002/cite.202300161
+
+.. |arxiv_15| image:: https://img.shields.io/badge/preprint-2309.13958-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2309.13958
+
+.. |online_15| image:: https://img.shields.io/badge/on%20the%20web-green?style=for-the-badge
+   :target: https://www.itwm.fraunhofer.de/en/fields-of-application/renewable-energy-sustainability/electrochemical-cells.html
+
+
+.. Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition
+.. |doi_14| image:: https://img.shields.io/badge/doi-10.1002%2Fcite.202300166-blue?style=for-the-badge
+   :target: https://doi.org/10.1002/cite.202300166
+
+.. |arxiv_14| image:: https://img.shields.io/badge/preprint-hal--04265601-red?style=for-the-badge&logo=hal
+   :target: https://hal.science/hal-04265601
+
+.. |online_14| image:: https://img.shields.io/badge/on%20the%20web-green?style=for-the-badge
+   :target: https://www.itwm.fraunhofer.de/en/fields-of-application/renewable-energy-sustainability/ammonpaktor.html
+
+
+.. Continuous Synthesis of Diazo Acetonitrile: From Experiments to Physical and Grey-Box Modeling
+.. |doi_13| image:: https://img.shields.io/badge/doi-10.1002%2Fcite.202300191-blue?style=for-the-badge
+   :target: https://doi.org/10.1002/cite.202300191
+
+.. |arxiv_13| image:: https://img.shields.io/badge/preprint-2310.09315-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2310.09315
+
+.. |online_13| image:: https://img.shields.io/badge/on%20the%20web-green?style=for-the-badge
+   :target: https://www.shapid.fraunhofer.de/en.html
+
+
+.. Version 2.0 - cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software
+.. |doi_12| image:: https://img.shields.io/badge/doi-10.1016%2Fj.softx.2023.101577-blue?style=for-the-badge
+   :target: https://doi.org/10.1016/j.softx.2023.101577
+
+.. |arxiv_12| image:: https://img.shields.io/badge/preprint-2306.09828-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2306.09828
+
+.. |code_12| image:: https://img.shields.io/badge/source%20code-black?style=for-the-badge&logo=github
+   :target: https://github.com/sblauth/cashocs
+
+.. |online_12| image:: https://img.shields.io/badge/on%20the%20web-green?style=for-the-badge
+   :target: https://www.itwm.fraunhofer.de/en/departments/tv/products-and-services/shape-optimization-cashocs-software.html
+
+
+.. Quasi-Newton methods for topology optimization using a level-set method
+.. |doi_11| image:: https://img.shields.io/badge/doi-10.1007%2Fs00158--023--03653--2-blue?style=for-the-badge
+   :target: https://doi.org/10.1007/s00158-023-03653-2
+
+.. |arxiv_11| image:: https://img.shields.io/badge/preprint-2303.15070-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2303.15070
+
+.. |code_11| image:: https://img.shields.io/badge/source%20code-black?style=for-the-badge&logo=github
+   :target: https://github.com/sblauth/quasi_newton_methods_for_topology_optimization
+
+
+.. Space Mapping for PDE Constrained Shape Optimization
+.. |doi_10| image:: https://img.shields.io/badge/doi-10.1137%2F22M1515665--2-blue?style=for-the-badge
+   :target: https://doi.org/10.1137/22M1515665
+
+.. |arxiv_10| image:: https://img.shields.io/badge/preprint-2208.05747-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2208.05747
+
+.. |code_10| image:: https://img.shields.io/badge/source%20code-black?style=for-the-badge&logo=github
+   :target: https://github.com/sblauth/space_mapping_shape_optimization
+
+
+.. Asymptotic analysis for optimal control of the Cattaneo model
+.. |doi_9| image:: https://img.shields.io/badge/doi-10.1016%2Fj.jmaa.2023.127375-blue?style=for-the-badge
+   :target: https://doi.org/10.1016/j.jmaa.2023.127375
+
+.. |arxiv_9| image:: https://img.shields.io/badge/preprint-2302.07630-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2302.07630
+
+
+.. Validating a simulation model for laser-induced thermotherapy using MR thermometry
+.. |doi_8| image:: https://img.shields.io/badge/doi-10.1080%2F02656736.2022.2129102-blue?style=for-the-badge
+   :target: https://doi.org/10.1080/02656736.2022.2129102
+
+.. |arxiv_8| image:: https://img.shields.io/badge/preprint-2204.07502-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2204.07502
+
+
+.. Nonlinear Conjugate Gradient Methods for PDE Constrained Shape Optimization Based on Steklov-Poincaré-Type Metrics
+.. |doi_7| image:: https://img.shields.io/badge/doi-10.1137%2F20M1367738-blue?style=for-the-badge
+   :target: https://doi.org/10.1137/20M1367738
+
+.. |arxiv_7| image:: https://img.shields.io/badge/preprint-2007.12891-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2007.12891
+
+.. |code_7| image:: https://img.shields.io/badge/source%20code-black?style=for-the-badge&logo=github
+   :target: https://github.com/sblauth/nonlinear_shape_cg_benchmark
+
+
+.. cashocs: A Computational, Adjoint-Based Shape Optimization and Optimal Control Software
+.. |doi_6| image:: https://img.shields.io/badge/doi-10.1016/j.softx.2020.100646-blue?style=for-the-badge
+   :target: https://doi.org/10.1016/j.softx.2020.100646
+
+.. |arxiv_6| image:: https://img.shields.io/badge/preprint-2010.02048-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2010.02048
+
+.. |code_6| image:: https://img.shields.io/badge/source%20code-black?style=for-the-badge&logo=github
+   :target: https://github.com/sblauth/cashocs
+
+.. |online_6| image:: https://img.shields.io/badge/on%20the%20web-green?style=for-the-badge
+   :target: https://www.itwm.fraunhofer.de/en/departments/tv/products-and-services/shape-optimization-cashocs-software.html
+
+
+.. Optimal control of the Sabatier process in microchannel reactors
+.. |doi_5| image:: https://img.shields.io/badge/doi-10.1007%2Fs10665--021--10134--2-blue?style=for-the-badge
+   :target: https://doi.org/10.1007/s10665-021-10134-2
+
+.. |arxiv_5| image:: https://img.shields.io/badge/preprint-2007.12457-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2007.12457
+
+
+.. Model hierarchy for the shape optimization of a microchannel cooling system
+.. |doi_4| image:: https://img.shields.io/badge/doi-10.1002%2Fzamm.202000166-blue?style=for-the-badge
+   :target: https://doi.org/10.1002/zamm.202000166
+
+.. |arxiv_4| image:: https://img.shields.io/badge/preprint-1911.06819-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/1911.06819
+
+
+.. Shape sensitivity analysis for a microchannel cooling system
+.. |doi_3| image:: https://img.shields.io/badge/doi-10.1016%2Fj.jmaa.2020.124476-blue?style=for-the-badge
+   :target: https://doi.org/10.1016/j.jmaa.2020.124476
+
+.. |arxiv_3| image:: https://img.shields.io/badge/preprint-2005.02754-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2005.02754
+
+
+.. Identification of the blood perfusion rate for laser-induced thermotherapy in the liver
+.. |doi_2| image:: https://img.shields.io/badge/doi-10.1186%2Fs13362--020--00085--1-blue?style=for-the-badge
+   :target: https://doi.org/10.1186/s13362-020-00085-1
+
+.. |arxiv_2| image:: https://img.shields.io/badge/preprint-1910.09199-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/1910.09199
+
+
+.. Mathematical modeling of vaporization during laser-induced thermotherapy in liver tissue
+.. |doi_1| image:: https://img.shields.io/badge/doi-10.1186%2Fs13362--020--00082--4-blue?style=for-the-badge
+   :target: https://doi.org/10.1186/s13362-020-00082-4
+
+.. |arxiv_1| image:: https://img.shields.io/badge/preprint-1910.12515-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/1910.12515
+
+
 Conference Proceedings
 ----------------------
 
 #.  | **CFD-Based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation**
     | *with Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser*
     | ESCAPE 35 Book of Short Papers, 2025
-    | :bdg-link-primary-line:`URL: escape35-belgium.eu <https://escape35-belgium.eu/wp-content/uploads/2025/07/ESCAPE35_BookofShortPapers.pdf>`
+    | |proc_doi_5|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -836,7 +1015,7 @@ Conference Proceedings
 #.  | **Topology Optimization for Uniform Flow Distribution in Electrolysis Cells**
     | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
     | Proceedings in Applied Mathematics and Mechanics 23(3), 2023
-    | :bdg-link-primary-line:`doi: 10.1002/pamm.202300163 <https://doi.org/10.1002/pamm.202300163>` :bdg-link-secondary-line:`preprint: arXiv:2308.01826 <https://arxiv.org/abs/2308.01826>`
+    | |proc_doi_4| |proc_arxiv_4|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -875,7 +1054,7 @@ Conference Proceedings
 
 #.  | **Shape Optimization with Nonlinear Conjugate Gradient Methods**
     | Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1 (Lecture Notes in Computational Science and Engineering 137), 2023
-    | :bdg-link-primary-line:`doi: 10.1007/978-3-031-20432-6_9 <https://doi.org/10.1007/978-3-031-20432-6_9>` :bdg-link-secondary-line:`preprint: arXiv:2201.05394 <https://arxiv.org/abs/2201.05394>` :bdg-link-success-line:`code on GitHub <https://github.com/sblauth/nonlinear_shape_cg_benchmark>`
+    | |proc_doi_3| |proc_arxiv_3| |proc_code_3|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -918,7 +1097,7 @@ Conference Proceedings
 #.  | **Optimal Control and Asymptotic Analysis of the Cattaneo Equation**
     | *with Matthias Andres, René Pinnau, and Claudia Totzeck*
     | Proceedings in Applied Mathematics and Mechanics 19(1), 2019
-    | :bdg-link-primary-line:`doi: 10.1002/pamm.201900184 <https://doi.org/10.1002/pamm.201900184>`
+    | |proc_doi_2|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -958,7 +1137,7 @@ Conference Proceedings
 #.  | **A Numerical Comparison of Consensus-Based Global Optimization to other Particle-based Global Optimization Schemes**
     | *with Claudia Totzeck, René Pinnau, and Steffen Schotthöfer*
     | Proceedings in Applied Mathematics and Mechanics 18(1), 2018
-    | :bdg-link-primary-line:`doi: 10.1002/pamm.201800291 <https://doi.org/10.1002/pamm.201800291>`
+    | |proc_doi_1|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -994,15 +1173,47 @@ Conference Proceedings
                     https://doi.org/10.1002/pamm.201800291
 
 
+.. CFD-Based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation
+.. |proc_doi_5| image:: https://img.shields.io/badge/url-escape35--belgium.eu-blue?style=for-the-badge
+   :target: https://escape35-belgium.eu/wp-content/uploads/2025/07/ESCAPE35_BookofShortPapers.pdf
+
+
+.. Topology Optimization for Uniform Flow Distribution in Electrolysis Cells
+.. |proc_doi_4| image:: https://img.shields.io/badge/doi-10.1002%2Fpamm.202300163-blue?style=for-the-badge
+   :target: https://doi.org/10.1002/pamm.202300163
+
+.. |proc_arxiv_4| image:: https://img.shields.io/badge/preprint-2308.01826-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2308.01826
+
+
+.. Shape Optimization with Nonlinear Conjugate Gradient Methods
+.. |proc_doi_3| image:: https://img.shields.io/badge/doi-10.1007%2F978--3--031--20432--6__9-blue?style=for-the-badge
+   :target: https://doi.org/10.1007/978-3-031-20432-6_9
+
+.. |proc_arxiv_3| image:: https://img.shields.io/badge/preprint-2201.05394-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2201.05394
+
+.. |proc_code_3| image:: https://img.shields.io/badge/source%20code-black?style=for-the-badge&logo=github
+   :target: https://github.com/sblauth/nonlinear_shape_cg_benchmark
+
+
+.. Optimal Control and Asymptotic Analysis of the Cattaneo Equation
+.. |proc_doi_2| image:: https://img.shields.io/badge/doi-10.1002%2Fpamm.201900184-blue?style=for-the-badge
+   :target: https://doi.org/10.1002/pamm.201900184
+
+
+.. A Numerical Comparison of Consensus-Based Global Optimization to other Particle-based Global Optimization Schemes
+.. |proc_doi_1| image:: https://img.shields.io/badge/doi-10.1002%2Fpamm.201800291-blue?style=for-the-badge
+   :target: https://doi.org/10.1002/pamm.201800291
+
 
 Academic Theses
 ---------------
 
 
-
 #.  | **Adjoint-Based Shape Optimization and Optimal Control with Applications to Microchannel Systems**
     | Fraunhofer Verlag, 2021, PhD Thesis
-    | :bdg-link-primary-line:`doi: 10.24406/publica-fhg-283725 <https://doi.org/10.24406/publica-fhg-283725>`
+    | |ac_doi_2|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -1039,7 +1250,7 @@ Academic Theses
 
 #.  | **Optimal Control and Asymptotic Analysis of the Cattaneo Model**
     | KLUEDO, 2018, Master's Thesis
-    | :bdg-link-primary-line:`urn:nbn:de:hbz:386-kluedo-53727 <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-53727>`
+    | |ac_doi_1|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -1074,6 +1285,14 @@ Academic Theses
 
 
 
+.. Adjoint-Based Shape Optimization and Optimal Control with Applications to Microchannel Systems
+.. |ac_doi_2| image:: https://img.shields.io/badge/doi-10.24406%2Fpublica--fhg--283725-blue?style=for-the-badge
+   :target: https://doi.org/10.24406/publica-fhg-283725
+
+.. Optimal Control and Asymptotic Analysis of the Cattaneo Model
+.. |ac_doi_1| image:: https://img.shields.io/badge/urn-nbn:de:hbz:386--kluedo--53727-blue?style=for-the-badge
+   :target: https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-53727
+
 Book Chapters
 -------------
 
@@ -1082,7 +1301,7 @@ Book Chapters
 #.  | **Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors**
     | *with Frank Hübner, Christian Leithäuser, Norbert Siedow, and Thomas Vogl*
     | Modeling, Simulation and Optimization in the Health- and Energy-Sector, 2022
-    | :bdg-link-primary-line:`doi: 10.1007/978-3-030-99983-4_1 <https://doi.org/10.1007/978-3-030-99983-4_1>`
+    | |book_doi_1|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -1120,6 +1339,10 @@ Book Chapters
                     https://doi.org/10.1007/978-3-030-99983-4_1
 
 
+.. Mathematical Modeling and Simulation of Laser-Induced Thermotherapy for the Treatment of Liver Tumors
+.. |book_doi_1| image:: https://img.shields.io/badge/doi-10.1007%2F978--3--030--99983--4__1-blue?style=for-the-badge
+   :target: https://doi.org/10.1007/978-3-030-99983-4_1
+
 
 Others
 ------
@@ -1129,15 +1352,14 @@ Others
 #.  | **Optimization of hole patterns for homogeneous cooling**
     | *with Walter Arne and Christian Leithäuser*
     | Man-Made Fibers International 3 / 2024, 2024
-    | :bdg-link-primary-line:`URL <https://man-made-fibers.textiletechnology.net/news/trendreports/man-made-fibers-international-32024-optimization-ofhole-patterns-forhomogeneous-cooling-36319>`
-
+    | |misc_doi_2|
 
 
 
 #.  | **MINT-EC-Girls-Camp: Math-Talent-School**
     | *with Lena Leiß, Stefan Ruzika, Thomas Jung, Andrea Meier, and Robert Sicks*
     | KOMMS Reports (Reports zur Mathematischen Modellierung in MINT-Projekten in der Schule) 9, 2019
-    | :bdg-link-primary-line:`urn:nbn:de:hbz:386-kluedo-57924 <https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-57924>`
+    | |misc_doi_1|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -1168,4 +1390,12 @@ Others
                     KOMMS Reports (Reports zur Mathematischen Modellierung in MINT-Projekten in der Schule) 9, 2019
                     https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-57924
 
+
+.. Optimization of hole patterns for homogeneous cooling
+.. |misc_doi_2| image:: https://img.shields.io/badge/url-man--made--fibers.textiletechnology.net-blue?style=for-the-badge
+   :target: https://man-made-fibers.textiletechnology.net/news/trendreports/man-made-fibers-international-32024-optimization-ofhole-patterns-forhomogeneous-cooling-36319
+
+.. MINT-EC-Girls-Camp: Math-Talent-School
+.. |misc_doi_1| image:: https://img.shields.io/badge/urn-nbn:de:hbz:386--kluedo--57924-blue?style=for-the-badge
+   :target: https://nbn-resolving.org/urn:nbn:de:hbz:386-kluedo-57924
 
