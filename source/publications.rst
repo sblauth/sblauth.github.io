@@ -5,44 +5,6 @@ Submitted Articles / Preprints
 ------------------------------
 
 
-#.  | **A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells**
-    | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
-    | accepted for publication in SIAM Journal on Scientific Computing, 2025
-    | :bdg-link-secondary-line:`preprint: arXiv:2406.17491 <https://arxiv.org/abs/2406.17491>`
-   
-    .. dropdown:: Additional resources
-        :icon: three-bars
-      
-        .. tab-set::
-      
-            .. tab-item:: Abstract
-         
-                Topology optimization problems usually feature multiple local minimizers. To guarantee convergence to local minimizers that perform best globally or to find local solutions that are desirable for practical applications due to easy manufacturability or aesthetic designs, it is important to compute multiple local minimizers of topology optimization problems. Existing methods typically rely on Newton-type solvers during the optimization process, which makes them unsuitable for sensitivity-based topology optimization. In this paper, we introduce a novel deflation approach to systematically find multiple local minimizers of general topology optimization problems. The approach is based on a penalization of previously found local solutions in the objective. We validate our approach on the so-called two-pipes five-holes example. Finally, we introduce a model for the topology optimization of bipolar plates of hydrogen electrolysis cells and demonstrate that our deflation approach enables the discovery of novel designs for such plates.
-         
-            .. tab-item:: BibTeX citation
-         
-                .. code-block:: bibtex
-         
-                    @Article{Baeck2024Novel,
-                      author        = {Leon Baeck and Sebastian Blauth and Christian Leithäuser and René Pinnau and Kevin Sturm},
-                      title         = {{A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells}},
-                      year          = {2024},
-                      archiveprefix = {arXiv},
-                      doi           = {10.48550/arXiv.2406.17491},
-                      eprint        = {2406.17491},
-                      primaryclass  = {math.OC},
-                    }
-
-            .. tab-item:: Plain text citation
-
-                .. code-block:: text
-
-                    A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells
-                    Leon Baeck, Sebastian Blauth, Christian Leithäuser, René Pinnau, and Kevin Sturm
-                    Preprint on arXiv, 2024
-                    https://arxiv.org/abs/2406.17491
-
-
 #.  | **Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells**
     | *with Leon Baeck, Christian Leithäuser, René Pinnau, Kevin Sturm*
     | submitted, 2024
@@ -83,6 +45,45 @@ Submitted Articles / Preprints
 
 Articles in Peer-Reviewed Journals
 ----------------------------------
+
+#.  | **A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells**
+    | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
+    | SIAM Journal on Scientific Computing 47(6), 2025
+    | :bdg-link-primary-line:`doi: 10.1137/24M1670913 <https://doi.org/10.1137/24M1670913>` :bdg-link-secondary-line:`preprint: arXiv:2406.17491 <https://arxiv.org/abs/2406.17491>`
+
+    .. dropdown:: Additional resources
+        :icon: three-bars
+
+        .. tab-set::
+
+            .. tab-item:: Abstract
+
+                Topology optimization problems usually feature multiple local minimizers. To guarantee convergence to local minimizers that perform best globally or to find local solutions that are desirable for practical applications due to easy manufacturability or aesthetic designs, it is important to compute multiple local minimizers of topology optimization problems. Existing methods typically rely on Newton-type solvers during the optimization process, which makes them unsuitable for sensitivity-based topology optimization. In this paper, we introduce a novel deflation approach to systematically find multiple local minimizers of general topology optimization problems. The approach is based on a penalization of previously found local solutions in the objective. We validate our approach on the so-called two-pipes five-holes example. Finally, we introduce a model for the topology optimization of bipolar plates of hydrogen electrolysis cells and demonstrate that our deflation approach enables the discovery of novel designs for such plates.
+
+            .. tab-item:: BibTeX citation
+
+                .. code-block:: bibtex
+
+                    @Article{Baeck2025Novel,
+                      author   = {Baeck, Leon and Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e} and Sturm, Kevin},
+                      journal  = {SIAM Journal on Scientific Computing},
+                      title    = {A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells},
+                      year     = {2025},
+                      number   = {6},
+                      pages    = {B1369-B1399},
+                      volume   = {47},
+                      doi      = {10.1137/24M1670913},
+                    }
+
+            .. tab-item:: Plain text citation
+
+                .. code-block:: text
+
+                    A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells
+                    Leon Baeck, Sebastian Blauth, Christian Leithäuser, René Pinnau, and Kevin Sturm
+                    SIAM Journal on Scientific Computing 47(6), 2025
+                    https://doi.org/10.1137/24M1670913
+
 
 #.  | **Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method**
     | *with Christian Leithäuser*
