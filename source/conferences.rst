@@ -12,6 +12,10 @@ Past activities
 2025
 ^^^^
 
+* | **Workshop: AI and Simulation in Biotechnology**
+  | November 7, 2025, Kaiserslautern, Germany
+  | :bdg-link-primary-line:`Workshop website <https://www.itwm.fraunhofer.de/en/fairs_events/2025/2025_11_07_ai-und-simulation-biotechnology.html>`
+
 * | **Kaiserslautern Applied and Industrial Mathematics Days (KLAIM) 2025**
   | *Talk: Fluid Dynamical Shape Optimization for Industrial Applications*
   | October 06-08, 2025, Kaiserslautern, Germany
