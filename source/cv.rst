@@ -68,7 +68,7 @@ Awards and Scholarships
     * - 10/2017 - 09/2018
       - Deutschlandstipendium via Math2Market
 
-Lectures
+Teaching
 --------
 
 .. list-table::
