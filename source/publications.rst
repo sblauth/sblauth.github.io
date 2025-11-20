@@ -111,14 +111,18 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Baeck2025Novel,
-                      author   = {Baeck, Leon and Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e} and Sturm, Kevin},
-                      journal  = {SIAM Journal on Scientific Computing},
-                      title    = {A Novel Deflation Approach for Topology Optimization and Application for Optimization of Bipolar Plates of Electrolysis Cells},
+                      author   = {Baeck, Leon and Blauth, Sebastian and Leith\"auser, Christian and Pinnau, Ren\'e{} and Sturm, Kevin},
+                      journal  = {SIAM J. Sci. Comput.},
+                      title    = {A {N}ovel {D}eflation {A}pproach for {T}opology {O}ptimization and {A}pplication for {O}ptimization of {B}ipolar {P}lates of {E}lectrolysis {C}ells},
                       year     = {2025},
+                      issn     = {1064-8275,1095-7197},
                       number   = {6},
-                      pages    = {B1369-B1399},
+                      pages    = {B1369--B1399},
                       volume   = {47},
                       doi      = {10.1137/24M1670913},
+                      fjournal = {SIAM Journal on Scientific Computing},
+                      mrclass  = {65K05 (49M41 74 90C26)},
+                      mrnumber = {4982537},
                     }
 
             .. tab-item:: Plain text citation
