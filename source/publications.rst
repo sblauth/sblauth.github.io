@@ -4,8 +4,40 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
+#.  | **Optimization of 3D-Printed Structured Packings – Current State and Future Developments**
+    | *with Dennis Stucke, Christian Leithäuser, and Thomas Grützner*
+    | submitted, 2025
+
+    .. dropdown:: Additional resources
+        :icon: three-bars
+
+        .. tab-set::
+
+            .. tab-item:: Abstract
+
+                This article presents an overview about the state of the art in the development of structured packings for distillation applications. The focus is on highlighting different approaches including heuristic development cycles, the development of new packing structures, 3D-printing as tool for manufacturing, and computational-fluid-dynamics to determine the packings’ performance through use of simulations. Special attention is given to the recently upcoming application of shape optimization algorithms to improve structured packings. It is evaluated how this approach fits into the conventional development process, what the limitation of current shape optimization approaches are, and how they can impact the performance of structured packings. Finally, an opinion about the next steps in the development of shape optimization algorithms for packing development is given.
+
+            .. tab-item:: BibTeX citation
+
+                .. code-block:: bibtex
+
+                    @Article{Stucke2025Optimization,
+                      author = {Dennis Stucke and Sebastian Blauth and Christian Leith{\"a}user and Thomas Gr{\"u}tzner},
+                      title  = {Optimization of 3D-Printed Structured Packings – Current State and Future Developments},
+                      year   = {2025},
+                    }
+
+            .. tab-item:: Plain text citation
+
+                .. code-block:: text
+
+                    Optimization of 3D-Printed Structured Packings – Current State and Future Developments
+                    Dennis Stucke, Sebastian Blauth, Christian Leithäuser, and Thomas Grützner
+                    2025
+
+
 #.  | **Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells**
-    | *with Leon Baeck, Christian Leithäuser, René Pinnau, Kevin Sturm*
+    | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
     | submitted, 2024
     | |preprint_arxiv_1|
 
@@ -23,7 +55,7 @@ Submitted Articles / Preprints
                 .. code-block:: bibtex
 
                     @Misc{Baeck2024Computing,
-                      author        = {Leon Baeck and Sebastian Blauth and Christian Leithäuser and René Pinnau and Kevin Sturm},
+                      author        = {Leon Baeck and Sebastian Blauth and Christian Leith{\"a}user and Ren{\'e} Pinnau and Kevin Sturm},
                       title         = {{Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells}},
                       year          = {2024},
                       archiveprefix = {arXiv},
@@ -111,7 +143,7 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Baeck2025Novel,
-                      author   = {Baeck, Leon and Blauth, Sebastian and Leith\"auser, Christian and Pinnau, Ren\'e{} and Sturm, Kevin},
+                      author   = {Baeck, Leon and Blauth, Sebastian and Leith{\"a}user, Christian and Pinnau, Ren{\'e} and Sturm, Kevin},
                       journal  = {SIAM J. Sci. Comput.},
                       title    = {A {N}ovel {D}eflation {A}pproach for {T}opology {O}ptimization and {A}pplication for {O}ptimization of {B}ipolar {P}lates of {E}lectrolysis {C}ells},
                       year     = {2025},
@@ -154,7 +186,7 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Blauth2025CFD,
-                      author  = {Sebastian Blauth and Dennis Stucke and Mohamed Adel Ashour and Johannes Schnebele and Thomas Grützner and Christian Leithäuser},
+                      author  = {Sebastian Blauth and Dennis Stucke and Mohamed Adel Ashour and Johannes Schnebele and Thomas Gr{\"u}tzner and Christian Leith{\"a}user},
                       journal = {Chemical Engineering Science},
                       title   = {{CFD-based shape optimization of structured packings for enhancing separation efficiency in distillation}},
                       year    = {2025},
@@ -192,7 +224,7 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Blauth2024Multi,
-                      author   = {Blauth, Sebastian and Baldan, Marco and Osterroth, Sebastian and Leithäuser, Christian and Apfel, Ulf-Peter and Kleinhaus, Julian and Pellumbi, Kevinjeorjios and Siegmund, Daniel and Steiner, Konrad and Bortz, Michael},
+                      author   = {Blauth, Sebastian and Baldan, Marco and Osterroth, Sebastian and Leith{\"a}user, Christian and Apfel, Ulf-Peter and Kleinhaus, Julian and Pellumbi, Kevinjeorjios and Siegmund, Daniel and Steiner, Konrad and Bortz, Michael},
                       journal  = {Chemie Ingenieur Technik},
                       title    = {{Multi-Criteria Shape Optimization of Flow Fields for Electrochemical Cells}},
                       year     = {2024},
@@ -231,7 +263,7 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Blauth2024Multia,
-                      author   = {Blauth, Sebastian and Damay, Julie and Osterroth, Sebastian and Leithäuser, Christian and Hofmann, Christian and Kolb, Gunther and Wichert, Martin and Steiner, Konrad and Bortz, Michael},
+                      author   = {Blauth, Sebastian and Damay, Julie and Osterroth, Sebastian and Leith{\"a}user, Christian and Hofmann, Christian and Kolb, Gunther and Wichert, Martin and Steiner, Konrad and Bortz, Michael},
                       journal  = {Chemie Ingenieur Technik},
                       title    = {{Multi-Scale Simulation of a Novel Integrated Reactor for Hydrogen Production by Ammonia Decomposition}},
                       year     = {2024},
@@ -438,7 +470,7 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Blauth2023Asymptotic,
-                      author   = {Blauth, Sebastian and Pinnau, Ren\'{e} and Andres, Matthias and Totzeck, Claudia},
+                      author   = {Blauth, Sebastian and Pinnau, Ren{\'e} and Andres, Matthias and Totzeck, Claudia},
                       journal  = {J. Math. Anal. Appl.},
                       title    = {{Asymptotic analysis for optimal control of the Cattaneo model}},
                       year     = {2023},
@@ -614,7 +646,7 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Blauth2021Optimal,
-                      author   = {Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e}},
+                      author   = {Blauth, Sebastian and Leith{\"a}user, Christian and Pinnau, Ren{\'e}},
                       journal  = {J. Engrg. Math.},
                       title    = {{Optimal control of the Sabatier process in microchannel reactors}},
                       year     = {2021},
@@ -655,7 +687,7 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Blauth2021Model,
-                      author   = {Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e}},
+                      author   = {Blauth, Sebastian and Leith{\"a}user, Christian and Pinnau, Ren{\'e}},
                       journal  = {ZAMM Z. Angew. Math. Mech.},
                       title    = {{Model hierarchy for the shape optimization of a microchannel cooling system}},
                       year     = {2021},
@@ -697,7 +729,7 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Blauth2020Shape,
-                      author   = {Blauth, Sebastian and Leith\"{a}user, Christian and Pinnau, Ren\'{e}},
+                      author   = {Blauth, Sebastian and Leith{\"a}user, Christian and Pinnau, Ren{\'e}},
                       journal  = {J. Math. Anal. Appl.},
                       title    = {{Shape sensitivity analysis for a microchannel cooling system}},
                       year     = {2020},
@@ -739,7 +771,7 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Andres2020Identification,
-                      author   = {Andres, Matthias and Blauth, Sebastian and Leith\"{a}user, Christian and Siedow, Norbert},
+                      author   = {Andres, Matthias and Blauth, Sebastian and Leith{\"a}user, Christian and Siedow, Norbert},
                       journal  = {J. Math. Ind.},
                       title    = {{Identification of the blood perfusion rate for laser-induced thermotherapy in the liver}},
                       year     = {2020},
@@ -780,7 +812,7 @@ Articles in Peer-Reviewed Journals
                 .. code-block:: bibtex
 
                     @Article{Blauth2020Mathematical,
-                      author   = {Blauth, Sebastian and H\"{u}bner, Frank and Leith\"{a}user, Christian and Siedow, Norbert and Vogl, Thomas J.},
+                      author   = {Blauth, Sebastian and H{\"u}bner, Frank and Leith{\"a}user, Christian and Siedow, Norbert and Vogl, Thomas J.},
                       journal  = {J. Math. Ind.},
                       title    = {{Mathematical modeling of vaporization during laser-induced thermotherapy in liver tissue}},
                       year     = {2020},
@@ -996,7 +1028,7 @@ Conference Proceedings
                 .. code-block:: bibtex
 
                     @InProceedings{Blauth2025CFDa,
-                      author    = {Sebastian Blauth and Dennis Stucke and Mohamed Adel Ashour and Johannes Schnebele and Thomas Grützner and Christian Leithäuser},
+                      author    = {Sebastian Blauth and Dennis Stucke and Mohamed Adel Ashour and Johannes Schnebele and Thomas Grützner and Christian Leith{\"a}user},
                       booktitle = {ESCAPE 35 Book of Short Papers},
                       title     = {CFD-Based Shape Optimization of Structured Packings forEnhancing Separation Efficiency in Distillation},
                       year      = {2025},
@@ -1035,7 +1067,7 @@ Conference Proceedings
                 .. code-block:: bibtex
 
                     @Article{Baeck2023Topology,
-                      author  = {Baeck, Leon and Blauth, Sebastian and Leithäuser, Christian and Pinnau, René and Sturm, Kevin},
+                      author  = {Baeck, Leon and Blauth, Sebastian and Leith{\"a}user, Christian and Pinnau, Ren{\'e} and Sturm, Kevin},
                       journal = {PAMM},
                       title   = {{Topology optimization for uniform flow distribution in electrolysis cells}},
                       year    = {2023},
@@ -1117,7 +1149,7 @@ Conference Proceedings
                 .. code-block:: bibtex
 
                     @Article{Blauth2019Optimal,
-                      author   = {Blauth, Sebastian and Andres, Matthias and Pinnau, Ren\'{e} and Totzeck, Claudia},
+                      author   = {Blauth, Sebastian and Andres, Matthias and Pinnau, Ren{\'e} and Totzeck, Claudia},
                       journal  = {PAMM},
                       title    = {{Optimal Control and Asymptotic Analysis of the Cattaneo Equation}},
                       year     = {2019},
@@ -1157,7 +1189,7 @@ Conference Proceedings
                 .. code-block:: bibtex
 
                     @Article{Totzeck2018Numerical,
-                      author  = {Totzeck, Claudia and Pinnau, René and Blauth, Sebastian and Schotthöfer, Steffen},
+                      author  = {Totzeck, Claudia and Pinnau, Ren{\'e} and Blauth, Sebastian and Schotthöfer, Steffen},
                       journal = {PAMM},
                       title   = {{A Numerical Comparison of Consensus-Based Global Optimization to other Particle-based Global Optimization Schemes}},
                       year    = {2018},
