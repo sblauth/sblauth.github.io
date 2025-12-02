@@ -23,9 +23,11 @@ Submitted Articles / Preprints
                 .. code-block:: bibtex
 
                     @Article{Stucke2025Optimization,
-                      author = {Dennis Stucke and Sebastian Blauth and Christian Leith{\"a}user and Thomas Gr{\"u}tzner},
-                      title  = {Optimization of 3D-Printed Structured Packings – Current State and Future Developments},
-                      year   = {2025},
+                      author        = {Dennis Stucke and Sebastian Blauth and Christian Leith{\"a}user and Thomas Grützner},
+                      title         = {Optimization of 3D-Printed Structured Packings – Current State and Future Developments},
+                      year          = {2025},
+                      archiveprefix = {ChemRxiv},
+                      doi           = {10.26434/chemrxiv-2025-54lbn},
                     }
 
             .. tab-item:: Plain text citation
@@ -34,7 +36,8 @@ Submitted Articles / Preprints
 
                     Optimization of 3D-Printed Structured Packings – Current State and Future Developments
                     Dennis Stucke, Sebastian Blauth, Christian Leithäuser, and Thomas Grützner
-                    2025
+                    Preprint on ChemRxiv, 2025
+                    https://doi.org/10.26434/chemrxiv-2025-54lbn
 
 
 #.  | **Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells**
