@@ -7,6 +7,7 @@ Submitted Articles / Preprints
 #.  | **Optimization of 3D-Printed Structured Packings – Current State and Future Developments**
     | *with Dennis Stucke, Christian Leithäuser, and Thomas Grützner*
     | submitted, 2025
+    | |preprint_2|
 
     .. dropdown:: Additional resources
         :icon: three-bars
@@ -73,6 +74,10 @@ Submitted Articles / Preprints
                     Preprint on arXiv, 2024
                     https://arxiv.org/abs/2401.09230
 
+
+..  Optimization of 3D-Printed Structured Packings – Current State and Future Developments
+.. |preprint_2| image:: https://img.shields.io/badge/preprint-chemrxiv--2025--54lbn-red?style=for-the-badge
+   :target: https://doi.org/10.26434/chemrxiv-2025-54lbn
 
 .. Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells
 .. |preprint_arxiv_1| image:: https://img.shields.io/badge/preprint-2401.09230-red?style=for-the-badge&logo=arxiv
