@@ -4,6 +4,8 @@ Conferences & Workshops
 Upcoming activities
 -------------------
 
+2026
+^^^^
 
 
 Past activities

@@ -6,7 +6,7 @@ Submitted Articles / Preprints
 
 #.  | **Optimization of 3D-Printed Structured Packings – Current State and Future Developments**
     | *with Dennis Stucke, Christian Leithäuser, and Thomas Grützner*
-    | submitted, 2025
+    | accepted for publication in Chemie Ingeniuer Technik, 2025
     | |preprint_2|
 
     .. dropdown:: Additional resources
