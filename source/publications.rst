@@ -52,7 +52,7 @@ Articles in Peer-Reviewed Journals
 
 #.  | **Optimization of 3D-Printed Structured Packings – Current State and Future Developments**
     | *with Dennis Stucke, Christian Leithäuser, and Thomas Grützner*
-    | accepted for publication in Chemie Ingenieur Technik, 2025
+    | Chemie Ingenieur Technik, 2026
     | |doi_19| |arxiv_19|
 
     .. dropdown:: Additional resources
@@ -68,12 +68,15 @@ Articles in Peer-Reviewed Journals
 
                 .. code-block:: bibtex
 
-                    @Article{Stucke2025Optimization,
-                      author        = {Dennis Stucke and Sebastian Blauth and Christian Leith{\"a}user and Thomas Grützner},
-                      title         = {Optimization of 3D-Printed Structured Packings – Current State and Future Developments},
-                      year          = {2025},
-                      archiveprefix = {ChemRxiv},
-                      doi           = {10.26434/chemrxiv-2025-54lbn},
+                    @Article{Stucke2026Optimization,
+                      author   = {Stucke, Dennis and Blauth, Sebastian and Leithäuser, Christian and Grützner, Thomas},
+                      journal  = {Chemie Ingenieur Technik},
+                      title    = {{Optimization of 3D-Printed Structured Packings—Current State and Future Developments}},
+                      year     = {2026},
+                      number   = {n/a},
+                      volume   = {n/a},
+                      doi      = {10.1002/cite.70063},
+                      keywords = {Additive manufacturing, CFD, Distillation, Shape optimization, Structured packing},
                     }
 
             .. tab-item:: Plain text citation
@@ -82,8 +85,8 @@ Articles in Peer-Reviewed Journals
 
                     Optimization of 3D-Printed Structured Packings – Current State and Future Developments
                     Dennis Stucke, Sebastian Blauth, Christian Leithäuser, and Thomas Grützner
-                    Preprint on ChemRxiv, 2025
-                    https://doi.org/10.26434/chemrxiv-2025-54lbn
+                    Chemie Ingenieur Technik, 2025
+                    https://doi.org/10.1002/cite.70063
 
 
 #.  | **Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method**
