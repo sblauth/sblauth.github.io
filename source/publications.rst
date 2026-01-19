@@ -4,41 +4,6 @@ Publications
 Submitted Articles / Preprints
 ------------------------------
 
-#.  | **Optimization of 3D-Printed Structured Packings – Current State and Future Developments**
-    | *with Dennis Stucke, Christian Leithäuser, and Thomas Grützner*
-    | accepted for publication in Chemie Ingenieur Technik, 2025
-    | |preprint_2|
-
-    .. dropdown:: Additional resources
-        :icon: three-bars
-
-        .. tab-set::
-
-            .. tab-item:: Abstract
-
-                This article presents an overview about the state of the art in the development of structured packings for distillation applications. The focus is on highlighting different approaches including heuristic development cycles, the development of new packing structures, 3D-printing as tool for manufacturing, and computational-fluid-dynamics to determine the packings’ performance through use of simulations. Special attention is given to the recently upcoming application of shape optimization algorithms to improve structured packings. It is evaluated how this approach fits into the conventional development process, what the limitation of current shape optimization approaches are, and how they can impact the performance of structured packings. Finally, an opinion about the next steps in the development of shape optimization algorithms for packing development is given.
-
-            .. tab-item:: BibTeX citation
-
-                .. code-block:: bibtex
-
-                    @Article{Stucke2025Optimization,
-                      author        = {Dennis Stucke and Sebastian Blauth and Christian Leith{\"a}user and Thomas Grützner},
-                      title         = {Optimization of 3D-Printed Structured Packings – Current State and Future Developments},
-                      year          = {2025},
-                      archiveprefix = {ChemRxiv},
-                      doi           = {10.26434/chemrxiv-2025-54lbn},
-                    }
-
-            .. tab-item:: Plain text citation
-
-                .. code-block:: text
-
-                    Optimization of 3D-Printed Structured Packings – Current State and Future Developments
-                    Dennis Stucke, Sebastian Blauth, Christian Leithäuser, and Thomas Grützner
-                    Preprint on ChemRxiv, 2025
-                    https://doi.org/10.26434/chemrxiv-2025-54lbn
-
 
 #.  | **Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells**
     | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
@@ -77,17 +42,48 @@ Submitted Articles / Preprints
                     Preprint on arXiv, 2024
                     https://arxiv.org/abs/2401.09230
 
-
-..  Optimization of 3D-Printed Structured Packings – Current State and Future Developments
-.. |preprint_2| image:: https://img.shields.io/badge/preprint-chemrxiv--2025--54lbn-red?style=for-the-badge
-   :target: https://doi.org/10.26434/chemrxiv-2025-54lbn
-
 .. Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells
 .. |preprint_arxiv_1| image:: https://img.shields.io/badge/preprint-2401.09230-red?style=for-the-badge&logo=arxiv
    :target: https://arxiv.org/abs/2401.09230
 
 Articles in Peer-Reviewed Journals
 ----------------------------------
+
+
+#.  | **Optimization of 3D-Printed Structured Packings – Current State and Future Developments**
+    | *with Dennis Stucke, Christian Leithäuser, and Thomas Grützner*
+    | accepted for publication in Chemie Ingenieur Technik, 2025
+    | |doi_19| |arxiv_19|
+
+    .. dropdown:: Additional resources
+        :icon: three-bars
+
+        .. tab-set::
+
+            .. tab-item:: Abstract
+
+                This article presents an overview about the state of the art in the development of structured packings for distillation applications. The focus is on highlighting different approaches including heuristic development cycles, the development of new packing structures, 3D-printing as tool for manufacturing, and computational-fluid-dynamics to determine the packings’ performance through use of simulations. Special attention is given to the recently upcoming application of shape optimization algorithms to improve structured packings. It is evaluated how this approach fits into the conventional development process, what the limitation of current shape optimization approaches are, and how they can impact the performance of structured packings. Finally, an opinion about the next steps in the development of shape optimization algorithms for packing development is given.
+
+            .. tab-item:: BibTeX citation
+
+                .. code-block:: bibtex
+
+                    @Article{Stucke2025Optimization,
+                      author        = {Dennis Stucke and Sebastian Blauth and Christian Leith{\"a}user and Thomas Grützner},
+                      title         = {Optimization of 3D-Printed Structured Packings – Current State and Future Developments},
+                      year          = {2025},
+                      archiveprefix = {ChemRxiv},
+                      doi           = {10.26434/chemrxiv-2025-54lbn},
+                    }
+
+            .. tab-item:: Plain text citation
+
+                .. code-block:: text
+
+                    Optimization of 3D-Printed Structured Packings – Current State and Future Developments
+                    Dennis Stucke, Sebastian Blauth, Christian Leithäuser, and Thomas Grützner
+                    Preprint on ChemRxiv, 2025
+                    https://doi.org/10.26434/chemrxiv-2025-54lbn
 
 
 #.  | **Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method**
@@ -839,6 +835,12 @@ Articles in Peer-Reviewed Journals
                     Journal of Mathematics in Industry 10, 2020
                     https://doi.org/10.1186/s13362-020-00082-4
 
+
+..  Optimization of 3D-Printed Structured Packings – Current State and Future Developments
+.. |doi_19| image:: https://img.shields.io/badge/doi-10.1002%2Fcite.70063-blue?style=for-the-badge
+   :target: https://doi.org/10.1002/cite.70063
+.. |arxiv_19| image:: https://img.shields.io/badge/preprint-chemrxiv--2025--54lbn-red?style=for-the-badge
+   :target: https://doi.org/10.26434/chemrxiv-2025-54lbn
 
 .. Enforcing Mesh Quality Constraints in Shape Optimization with a Gradient Projection Method
 .. |doi_18| image:: https://img.shields.io/badge/doi-10.1016%2Fj.cma.2025.118451-blue?style=for-the-badge
