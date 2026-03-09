@@ -7,6 +7,14 @@ Upcoming activities
 2026
 ^^^^
 
+* | **EUROPT Conference on Advances in Continuous Optimization 2026**
+  | *Talk: TBA*
+  | July 8-10, Linz, Austria
+  | |europt2026|
+
+.. |europt2026| image:: https://img.shields.io/badge/conference%20website-blue?style=for-the-badge
+   :target: https://www.jku.at/en/institute-of-business-analytics-and-technology-transformation/conference-europt-2026/
+
 
 Past activities
 ---------------
