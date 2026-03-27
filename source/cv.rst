@@ -68,7 +68,7 @@ Awards and Scholarships
     * - 02/2022
       - Fraunhofer ICT Dissertation Award 2022 - First Prize (`further information <https://www.iuk.fraunhofer.de/en/about-our-group/ict-dissertation-award.html>`_)
     * - 10/2017 - 09/2018
-      - Deutschlandstipendium (funded by Math2Market GmbH)
+      - Deutschlandstipendium (funded by `Math2Market <https://www.math2market.com/index.html>`_)
 
 
 
@@ -81,6 +81,9 @@ Teaching
     :header-rows: 0
     :align: left
 
+    * - Summer Term 2026
+      - Einführung in die wissenschaftliche Programmierung (Bioverfahrenstechnik)
+      - Frankfurt UAS
     * - Summer Term 2025
       - Einführung in die wissenschaftliche Programmierung (Bioverfahrenstechnik)
       - Frankfurt UAS
