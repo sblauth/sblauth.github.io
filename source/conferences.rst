@@ -8,7 +8,7 @@ Upcoming activities
 ^^^^
 
 * | **EUROPT Conference on Advances in Continuous Optimization 2026**
-  | *Talk: TBA*
+  | *Talk: Shape Optimization of Spin Patterns for Industrial Spinning Processes*
   | July 8-10, Linz, Austria
   | |europt2026|
 
