@@ -12,9 +12,9 @@ import sys
 sys.path.insert(0, os.path.abspath("../.."))
 sys.path.insert(0, os.path.abspath("."))
 
-project = 'sblauth.github.io'
-copyright = '2023-2026, Sebastian Blauth'
-author = 'Sebastian Blauth'
+project = "sblauth.github.io"
+copyright = "2023-2026, Sebastian Blauth"
+author = "Sebastian Blauth"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -22,7 +22,7 @@ author = 'Sebastian Blauth'
 
 highlight_language = "python"
 
-templates_path = ['_templates']
+templates_path = ["_templates"]
 
 source_suffix = ".rst"
 exclude_patterns = ["_build"]
@@ -55,6 +55,18 @@ html_theme_options = {
     "footer_end": [],
     "icon_links": [
         {
+            "name": "email",
+            "url": "mailto:sebastian.blauth@itwm.fraunhofer.de",
+            "icon": "fa-regular fa-envelope",
+            "type": "fontawesome",
+        },
+        {
+            "name": "ITWM Website",
+            "url": "https://www.itwm.fraunhofer.de/en/departments/processes-materials/staff/sebastian-blauth.html",
+            "icon": "fa-solid fa-passport",
+            "type": "fontawesome",
+        },
+        {
             "name": "GitHub",
             "url": "https://github.com/sblauth",
             "icon": "fa-brands fa-square-github",
@@ -64,12 +76,6 @@ html_theme_options = {
             "name": "ORCiD",
             "url": "https://orcid.org/0000-0001-9173-0866",
             "icon": "fa-brands fa-orcid",
-            "type": "fontawesome",
-        },
-        {
-            "name": "email",
-            "url": "mailto:sebastian.blauth@itwm.fraunhofer.de",
-            "icon": "fa-regular fa-envelope",
             "type": "fontawesome",
         },
         {
@@ -84,16 +90,16 @@ html_theme_options = {
             "icon": "fa-brands fa-researchgate",
             "type": "fontawesome",
         },
-    ]
+    ],
 }
 
 html_sidebars = {"**": []}
-#html_sidebars = {
+# html_sidebars = {
 #    "**": ["sidebar-nav-bs", "sidebar-ethical-ads"]
-#}
+# }
 
 
 pygments_style = "sphinx"
 
-html_static_path = ['_static']
+html_static_path = ["_static"]
 html_css_files = ["custom.css"]
