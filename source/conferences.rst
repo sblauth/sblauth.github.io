@@ -4,6 +4,11 @@ Conferences & Workshops
 Upcoming activities
 -------------------
 
+
+
+Past activities
+---------------
+
 2026
 ^^^^
 
@@ -16,8 +21,6 @@ Upcoming activities
    :target: https://www.jku.at/en/institute-of-business-analytics-and-technology-transformation/conference-europt-2026/
 
 
-Past activities
----------------
 
 2025
 ^^^^
