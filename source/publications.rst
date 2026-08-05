@@ -5,47 +5,6 @@ Submitted Articles / Preprints
 ------------------------------
 
 
-#.  | **Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells**
-    | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
-    | submitted, 2024
-    | |preprint_arxiv_1|
-
-    .. dropdown:: Additional resources
-        :icon: three-bars
-
-        .. tab-set::
-
-            .. tab-item:: Abstract
-
-                In this paper we consider the topology optimization for a bipolar plate of a hydrogen electrolysis cell. We use the Borvall-Petersson model to describe the fluid flow and derive a criterion for a uniform flow distribution in the bipolar plate. Furthermore, we introduce a novel deflation approach to compute multiple local minimizers of topology optimization problems. The approach is based on a penalty method that discourages convergence towards previously found solutions. Finally, we demonstrate this technique on the topology optimization for bipolar plates and show that multiple distinct local solutions can be found.
-
-            .. tab-item:: BibTeX citation
-
-                .. code-block:: bibtex
-
-                    @Misc{Baeck2024Computing,
-                      author        = {Leon Baeck and Sebastian Blauth and Christian Leith{\"a}user and Ren{\'e} Pinnau and Kevin Sturm},
-                      title         = {{Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells}},
-                      year          = {2024},
-                      archiveprefix = {arXiv},
-                      doi           = {10.48550/arXiv.2401.09230},
-                      eprint        = {2401.09230},
-                      primaryclass  = {math.OC},
-                    }
-
-            .. tab-item:: Plain text citation
-
-                .. code-block:: text
-
-                    Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells
-                    Leon Baeck, Sebastian Blauth, Christian Leithäuser, René Pinnau, and Kevin Sturm
-                    Preprint on arXiv, 2024
-                    https://arxiv.org/abs/2401.09230
-
-.. Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells
-.. |preprint_arxiv_1| image:: https://img.shields.io/badge/preprint-2401.09230-red?style=for-the-badge&logo=arxiv
-   :target: https://arxiv.org/abs/2401.09230
-
 Articles in Peer-Reviewed Journals
 ----------------------------------
 
@@ -1022,6 +981,46 @@ Articles in Peer-Reviewed Journals
 Conference Proceedings
 ----------------------
 
+
+#.  | **Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells**
+    | *with Leon Baeck, Christian Leithäuser, René Pinnau, and Kevin Sturm*
+    | Progress in Industrial Mathematics at ECMI 2023, 2026
+    | |proc_doi_6| |proc_arxiv_6|
+
+    .. dropdown:: Additional resources
+        :icon: three-bars
+
+        .. tab-set::
+
+            .. tab-item:: Abstract
+
+                In this paper we consider the topology optimization for a bipolar plate of a hydrogen electrolysis cell. We use the Borvall-Petersson model to describe the fluid flow and derive a criterion for a uniform flow distribution in the bipolar plate. Furthermore, we introduce a novel deflation approach to compute multiple local minimizers of topology optimization problems. The approach is based on a penalty method that discourages convergence towards previously found solutions. Finally, we demonstrate this technique on the topology optimization for bipolar plates and show that multiple distinct local solutions can be found.
+
+            .. tab-item:: BibTeX citation
+
+                .. code-block:: bibtex
+
+                    @Misc{Baeck2026Computing,
+                      author    = {Leon Baeck and Sebastian Blauth and Christian Leith{\"a}user and Ren{\'e} Pinnau and Kevin Sturm},
+                      title     = {{Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells}},
+                      year      = {2026},
+                      address   = {Cham},
+                      booktitle = {Progress in Industrial Mathematics at ECMI 2023},
+                      doi       = {10.1007/978-3-032-20404-2_24},
+                      editor    = {Burnecki, Krzysztof and Szwabi{\'{n}}ski, Janusz and Teuerle, Marek},
+                      pages     = {241--251},
+                      publisher = {Springer Nature Switzerland},
+                    }
+
+            .. tab-item:: Plain text citation
+
+                .. code-block:: text
+
+                    Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells
+                    Leon Baeck, Sebastian Blauth, Christian Leithäuser, René Pinnau, and Kevin Sturm
+                    Progress in Industrial Mathematics at ECMI 2023, 2026
+                    https://doi.org/10.1007/978-3-032-20404-2_24
+
 #.  | **CFD-Based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation**
     | *with Dennis Stucke, Mohamed Adel Ashour, Johannes Schnebele, Thomas Grützner, and Christian Leithäuser*
     | ESCAPE 35 Book of Short Papers, 2025
@@ -1221,6 +1220,12 @@ Conference Proceedings
                     Proceedings in Applied Mathematics and Mechanics 18(1), 2018
                     https://doi.org/10.1002/pamm.201800291
 
+
+.. Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells
+.. |proc_doi_6| image:: https://img.shields.io/badge/doi-10.1007%2F978-3-032-20404-2_24-blue?style=for-the-badge
+   :target: https://doi.org/10.1007/978-3-032-20404-2_24
+.. |proc_arxiv_6| image:: https://img.shields.io/badge/preprint-2401.09230-red?style=for-the-badge&logo=arxiv
+   :target: https://arxiv.org/abs/2401.09230
 
 .. CFD-Based Shape Optimization of Structured Packings for Enhancing Separation Efficiency in Distillation
 .. |proc_doi_5| image:: https://img.shields.io/badge/url-escape35--belgium.eu-blue?style=for-the-badge
