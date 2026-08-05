@@ -1222,7 +1222,7 @@ Conference Proceedings
 
 
 .. Computing Multiple Local Minimizers for the Topology Optimization of Bipolar Plates in Electrolysis Cells
-.. |proc_doi_6| image:: https://img.shields.io/badge/doi-10.1007%2F978-3-032-20404-2_24-blue?style=for-the-badge
+.. |proc_doi_6| image:: https://img.shields.io/badge/doi-10.1007%2F978--3--032--20404--2__24-blue?style=for-the-badge
    :target: https://doi.org/10.1007/978-3-032-20404-2_24
 .. |proc_arxiv_6| image:: https://img.shields.io/badge/preprint-2401.09230-red?style=for-the-badge&logo=arxiv
    :target: https://arxiv.org/abs/2401.09230
